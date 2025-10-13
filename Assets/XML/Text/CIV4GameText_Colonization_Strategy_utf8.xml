@@ -12,6 +12,7 @@
 		<German>Ein [COLOR_UNIT_TEXT]Erfahrener Schürfer[COLOR_REVERT] verdoppelt die [COLOR_HIGHLIGHT_TEXT]Silber[COLOR_REVERT]produktion des Geländefeldes, auf dem er arbeitet.</German>
 		<Italian>Per sfruttare al massimo una ricca vena d'argento, chiama un [COLOR_UNIT_TEXT]minatore d'argento esperto[COLOR_REVERT]. I minatori d'argento esperti sono in grado di raddoppiare la quantità di [COLOR_HIGHLIGHT_TEXT]argento[COLOR_REVERT] ottenuta dalla casella!</Italian>
 		<Spanish>Para sacar el mejor partido de una vena de plata, llamad a un [COLOR_UNIT_TEXT]Minero de plata experto[COLOR_REVERT]. Los Mineros de plata expertos son capaces de extraer el doble de [COLOR_HIGHLIGHT_TEXT]Plata[COLOR_REVERT] de una casilla en la que haya este metal.</Spanish>
+        <PortuguesePT>Para tirar o maior proveito de uma fonte de [LINK=YIELD_SILVER]prata[\LINK], [LINK=YIELD_GOLD]ouro[\LINK] ou [LINK=YIELD_GEMS]pedras preciosas[\LINK], arranje um [COLOR_UNIT_TEXT]prospetor especialista[COLOR_REVERT]. Os prospetores especialistas são duas vezes mais eficazes que outros colonos quando lhes é atribuída a profissão de [LINK=PROFESSION_SILVER_MINER]mineiro de prata[\LINK] ou [LINK=PROFESSION_GOLD_MINER]mineiro de ouro[\LINK], e além disso, eles recolhem 3 unidades extra quando atribuídos à [LINK] =PROFESSION_GEMSTONES_MINER]profissão de prospector de pedras preciosas[\LINK].[PARAGRAPH:1]Os prospectores especialistas podem ser recrutados na [LINK=CONCEPT_EUROPE]Europa[\LINK] ou podem ser treinados pelos [LINK=CONCEPT_NATIVES]indígenas[\LINK], e podem também ser [LINK=CONCEPT_TRAINING]instruídos[\LINK] numa colónia com uma [LINK=BUILDING_SCHOOLHOUSE]escola[\LINK] ou outro  edifício educacional superior.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_AI_WAGON_TRAIN</Tag>
@@ -36,6 +37,11 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>
+            <Text>Carroça:Carroças</Text>
+            <Gender>Female</Gender>
+            <Plural>0:1</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_AI_WAGON_TRAIN_STRATEGY</Tag>
@@ -44,6 +50,7 @@
 		<German>Die preiswerten [COLOR_UNIT_TEXT]Wagenkarren[COLOR_REVERT] ersetzen bei den konkurrierenden Kolonialmächten die [COLOR_UNIT_TEXT]Planwagen[COLOR_REVERT].[PARAGRAPH:2]Wagen können Güter quer durch das Land von einer Siedlung zu einer anderen befördern und damit Ortschaften an das Handelsnetz anschließen, die nicht an der Küste liegen. Planwagen und Wagenkarren können in 2 Transportplätzen jeweils bis zu 100 Güter transportieren. [COLOR_UNIT_TEXT]Trecks[COLOR_REVERT] sind genauso teuer wie Planwagen, können aber sogar bis zu 5 Transportplätze nutzen. Allerdings haben sie im Gegensatz zu den Planwagen nicht zwei, sondern nur einen einzigen Bewegungspunkt. Sie können erst dann gebaut werden, wenn eine Stadt über ein [COLOR_BUILDING_TEXT]Sägewerk[COLOR_REVERT] verfügt.[PARAGRAPH:2]Tipp: Trecks sind insbesondere für Massentransporte zwischen zwei nahegelegenen Städten in der mittleren und späten Spielphase geeignet.[PARAGRAPH:2]Tipp: Bei gedrückter Shift-Taste können die Wagen auch mit Teilmengen beladen werden.[PARAGRAPH:2]Hinweise: Wagen können nicht auf Schiffe geladen werden. Greift man einen Planwagen, Wagenkarren oder einen Treck an, erobert man ihn mitsamt aller Waren.</German>
 		<Italian>Le [COLOR_UNIT_TEXT]colonne di carovane[COLOR_REVERT] sono preziosi strumenti per il commercio terrestre. Le [COLOR_UNIT_TEXT]colonne di carovane[COLOR_REVERT] possono trasportare i beni tra gli insediamenti via terra, il che significa che possono raggiungere gli insediamenti che non si trovano sulla costa. Sono la chiave per l'espansione verso l'interno del continente.</Italian>
 		<Spanish>Las [COLOR_UNIT_TEXT]Caravanas de carromatos[COLOR_REVERT] son unas herramientas para el comercio terrestre que no tienen precio. Las [COLOR_UNIT_TEXT]Caravanas de carromatos[COLOR_REVERT] pueden transportar mercancías de un asentamiento a otro por tierra, lo cual comporta que no pueden llegar a los que se encuentren en la costa. Son la clave para la expansión hacia el interior del continente.</Spanish>
+        <PortuguesePT>[COLOR_UNIT_TEXT]As Carroças[COLOR_REVERT] são ferramentas valiosas para o comércio terrestre. [COLOR_UNIT_TEXT]As Carroças[COLOR_REVERT] podem transportar mercadorias por terra, o que significa que podem chegar a colónias distantes das zonas costeiras. Elas são a chave para a expansão até ao interior do continente.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_NATIVE_GENERAL</Tag>
@@ -72,6 +79,11 @@
 			<Gender>Male</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>
+            <Text>Grande Guerreiro:Grandes Guerreiros</Text>
+            <Gender>Male</Gender>
+            <Plural>0:1</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_NATIVE_GENERAL_PEDIA</Tag>
@@ -80,6 +92,7 @@
 		<German>Die Entdeckung der Neuen Welt durch die Europäer wurde in der Alten Welt gefeiert, doch in der Neuen Welt betrauert. Die Eroberer massakrierten oder versklavten ganze Völker. Auch wenn der verzweifelte Kampf der Ureinwohnernationen letztlich vergeblich blieb, brachte er doch einige Große Krieger hervor: heldenhafte Männer, an deren Tatkraft und Mut sich viele aufrichteten.</German>
 		<Italian>I molti conflitti nati nelle colonie del Nuovo Mondo crearono tantissimi Grandi Generali. La marcia di José de San Martín attraverso le Ande, la traversata furtiva del fiume Delaware di George Washington, il ribaltamento delle sorti della Nuova Francia grazie a Frontenac durante la guerra di Re Guglielmo... Queste imprese definirono i paesi creati da questi uomini. Senza i loro Grandi Generali Cile, Argentina, Canada e Stati Uniti sarebbero probabilmente ancora proprietà ognuno della rispettiva madrepatria.</Italian>
 		<Spanish>Los diversos conflictos que afloraron en el Nuevo Mundo dieron lugar a numerosos grandes generales. La marcha de José de San Martín a través de los Andes, el sigiloso cruce de George Washington por el río Delaware, el cambio de tornas radical de Nueva Francia durante la Guerra del Rey Guillermo gracias a Frontenac... gestas así ayudaron a definir los países a los que estos hombres pertenecieron. Sin sus grandes generales, Chile, Argentina, Canadá y los Estados Unidos aún no serían más que dominios de sus países colonizadores.</Spanish>
+        <PortuguesePT>Os vários conflitos que surgiram nas colónias do Novo Mundo forjaram numerosos Grandes Generais. A marcha de José de San Martín pelos Andes, a travessia furtiva do rio Delaware por George Washington, a reversão completa da sorte de Nova França por Frontenac durante a Guerra do Rei William, tais feitos definiram os países que esses mesmos homens formaram. Sem os seus Grandes Generais, o Chile, a Argentina, o Canadá e os Estados Unidos provavelmente ainda seriam propriedade das nações indígenas.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_NATIVE_GENERAL_STRATEGY</Tag>
@@ -88,6 +101,7 @@
 		<German>Wenn ein Ureinwohnervolk viele Schlachten bestreitet, bringt es im Laufe der Zeit einen [COLOR_UNIT_TEXT]Großen Krieger[COLOR_REVERT] hervor. Er vermag selber nicht zu kämpfen, aber er kann sich einer anderen Einheit im Feld anschließen und dabei dieser und allen anderen Einheiten auf demselben Geländefeld einen einmaligen Erfahrungsbonus sowie die Möglichkeit besonderer Beförderungen gewähren. Für jeden weiteren Großen Krieger braucht ein Volk mehr militärische Erfahrung.</German>
 		<Italian>Un [COLOR_UNIT_TEXT]Great Warrior[COLOR_REVERT] puó unirsi a un'altra unità sul campo, dando alle unità presenti nella stessa casella un bonus di esperienza da combattimento una tantum, e assicurando all'unità a cui si è unito accesso a promozioni uniche.</Italian>
 		<Spanish>Un [COLOR_UNIT_TEXT]Great Warrior[COLOR_REVERT] puede unirse a otra unidad que haya en el campo, con lo que aportará una bonificación única a las unidades de la misma casilla y garantizará a su unidad acceder a ascensos especiales.</Spanish>
+        <PortuguesePT>Um [COLOR_UNIT_TEXT]Grande Guerreiro[COLOR_REVERT] é o equivalente [LINK=CONCEPT_NATIVES]Indígena[COLOR_REVERT] de um [LINK=UNIT_GREAT_GENERAL]Grande General[\LINK]. Ele ou ela pode juntar-se a outra unidade no campo de batalha, dar um bónus único de experiência às unidades no mesmo bloco e conceder à unidade anexada o acesso a promoções únicas.[PARAGRAPH:1]Para obter informações sobre como os Grandes Guerreiros funcionam, consulte [LINK=CONCEPT_GREAT_GENERALS]Grandes generais e almirantes[\LINK]</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_AI_LIGHT_ARTILLERY</Tag>
@@ -116,12 +130,18 @@
 			<Gender>Male</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>
+            <Text>Artilharia leve:Artilharias leves</Text>
+            <Gender>Female</Gender>
+            <Plural>0:1</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_LIGHT_ARTILLERY_PEDIA</Tag>
 		<English>Cannons of light construction were used especially during the 17th century for the defense of small boats or ships. Such cannons were extensively used by both the British and the colonists during the American Revolutionary War.</English>
 		<French>Des canons construits à partir de matériaux relativement légers ont été particulièrement utilisés au XVIIe siècle pour la défense des navires - en particulier par les Britanniques et les colons pendant la Guerre d'Indépendance américaine.</French>
 		<German>Leichte Geschütze können bei der Verteidigung von Siedlungen auf Häuserdächern oder Wällen stationiert werden und mit ihren kleinkalibrigen Geschossen den Angreifern gefährlich werden.</German>
+        <PortuguesePT>Canhões de construção bastante leve foram utilizados especialmente durante o século XVII para a defesa de barcos e navios leves. Estes canhões também foram muito usados pelos britânicos e pelos colonos durante a Guerra Revolucionária Americana.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_HEAVY_ARTILLERY_PEDIA</Tag>
@@ -130,11 +150,13 @@
 		<German>Die Kanone war eine der ersten Erfindungen, in denen Schießpulver zum Einsatz kam. Bis ins 19. Jahrhundert hinein zählten sie zu den wichtigsten Waffen. Gegen Ende des 16. Jahrhunderts war die Kanone zu einer leichten und mächtigen Waffe geworden, die schnell die Position wechseln konnten, um jedes Ziel ins Visier zu nehmen, das sich während der Schlacht bot. Solche Kanonen erwiesen sich als besonders effektiv gegen eingeborene Gegner, die noch nie mit den verheerenden Auswirkungen dieser Waffen in Berührung gekommen waren und keine taktische Kontermöglichkeit hatten.</German>
 		<Italian>I cannoni furono tra le prime invenzioni a utilizzare la polvere da sparo e rimasero tra le più importanti fino al XIX secolo. Nel tardo XVI secolo, i cannoni erano più leggeri ma potenti che potevano essere facilmente spostate e regolate per prendere di mira i bersagli offerti durante la battaglia. Tali cannoni si dimostrarono estremamente utili contro gli avversari nativi, che non avevano mai provato i devastanti effetti di questo tipo di armi e non avevano tattiche per contrastarle.</Italian>
 		<Spanish>Entre los primeros inventos que hicieron uso de la pólvora, los Cañones siguieron siendo los más importantes hasta el s. XIX. A finales del s. XVI, los Cañones se habían convertido en armas ligeras pero potentes que podían moverse fácilmente para apuntar a cualquier objetivo en la batalla. Estos Cañones demostraron ser extremadamente útiles contra los indígenas enemigos, que nunca habían experimentado los efectos devastadores de tales armas y carecían de tácticas para contrarrestarlas.</Spanish>
+        <PortuguesePT>Entre as primeiras invenções que fizeram uso da pólvora, os canhões estiveram entre as mais importantes até o século XIX. No final do século XVI, os canhões tornaram-se armas leves, mas poderosas, que podiam ser facilmente movidas e ajustadas para apontar para qualquer alvo que a batalha pudesse apresentar. Tais canhões revelaram-se extremamente úteis contra os inimigos indígenas, que nunca tinham experimentado os efeitos devastadores de tais armas e não tinham táticas para combatê-los.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_ROYAL_HALBERDIER_STRATEGY</Tag>
 		<English>[COLOR_UNIT_TEXT]The Royal Halberdiers[COLOR_REVERT], specialists of the profession [LINK=PROFESSION_ROYAL_HALBERDIER]Royal Halberdiers[\LINK], are the weakest members of the elite ground forces of the Royal Expeditionary Force. However, the Royal Halberdiers get a bonus of 25% when attacking cavalry units (dragoons and heavy cavalry). The Royal Halberdiers are the Royal counterpart of the colonial Town Guard and get the free promotions, Veteran I and Veteran II, so that they make good defensive units. Attack them with infantry, not with cavalry.</English>
 		<French>Les [COLOR_UNIT_TEXT]Piquiers royaux[COLOR_REVERT], spécialistes de la profession [LINK=PROFESSION_ROYAL_HALBERDIER]Piquier royal[\LINK], sont les unités les plus faibles du corps expéditionnaire royal. Cependant, ils bénéficient d'un bonus de 25% contre les unités montées (dragons et cavaleries). Les bridgadiers royaux sont l'équivalent royal du Piquier vétéran et bénéficient des promotions "Vétéran I" et "Vétéran II", ce qui leur accorde une certaine puissance défensive. Elles sont plus facilement vaincues avec des unités d'infanterie qu'avec des unités montées.</French>
 		<German>Die Landtruppen des Königs verfügen mit den [COLOR_UNIT_TEXT]Königlichen Hellebardenträgern[COLOR_REVERT] (entspricht der Stadtwache) über einen ähnlichen Militärberuf wie die Kolonienationen. Allerdings sind die Einheiten, die diese Berufe ausüben, stärker: Die [COLOR_UNIT_TEXT]Königlichen Hellebardenträger[COLOR_REVERT] verfügt automatisch über die Beförderungen Veteran I, Veteran II und Stadtwache (und damit insgesamt einem Bonus von 20% auf die Kampfstärke und einen Kampfbonus von 25% gegen Berittene). Aufgrund ihrer Stärke gegen berittene Einheiten bekämpft man sie am besten mit Infanterie wie der Kolonialmiliz und der Linieninfanterie.</German>
+        <PortuguesePT>[COLOR_UNIT_TEXT]Os Alabardeiros Reais[COLOR_REVERT], especialistas da profissão [LINK=PROFESSION_ROYAL_HALBERDIER]Alabardeiros Reais[\LINK], são os membros mais fracos das forças terrestres de elite da Força Expedicionária Real. No entanto, os Alabardeiros Reais recebem um bónus de 25% ao atacar as unidades de cavalaria (dragões e cavalaria pesada). Os Alabardeiros Reais são a contraparte real da "Guarda Municipal" colonial e recebem as promoções gratuitas de "Veterano I" e "Veterano II" para que sejam muito eficazes como unidades defensivas fortes. Ataque-os com unidades de infantaria, mas não com unidades de cavalaria.</PortuguesePT>
 	</TEXT>
 </Civ4GameText>
