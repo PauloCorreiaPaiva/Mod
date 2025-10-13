@@ -25,6 +25,7 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Милитарист</Russian>
+		<PortuguesePT>Militar</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLAND_SHORT_DESC</Tag>
@@ -46,6 +47,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Новая Англия</Russian>
+        <PortuguesePT>Nova Inglaterra</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLAND_EUROPE_SHORT_DESC</Tag>
@@ -67,6 +69,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Англии</Russian>
+		<PortuguesePT>Inglaterra</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_SHORT_DESC</Tag>
@@ -88,6 +91,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Новая Франция</Russian>
+        <PortuguesePT>Nova França</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_EUROPE_SHORT_DESC</Tag>
@@ -109,6 +113,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Франции</Russian>
+        <PortuguesePT>França</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_SHORT_DESC</Tag>
@@ -130,6 +135,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Новая Испания</Russian>
+        <PortuguesePT>Nova Espanha</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_EUROPE_SHORT_DESC</Tag>
@@ -151,6 +157,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Испании</Russian>
+        <PortuguesePT>Espanha</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_DUTCH_SHORT_DESC</Tag>
@@ -172,6 +179,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Новые Нидерланды</Russian>
+        <PortuguesePT>Nova Holanda</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_DUTCH_EUROPE_SHORT_DESC</Tag>
@@ -193,6 +201,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Нидерландов</Russian>
+        <PortuguesePT>Holanda</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROFESSION_IDLE_CITIZEN</Tag>
@@ -222,6 +231,11 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Безработный:Безработные</Russian>
+        <PortuguesePT>
+            <Text>Cidadão inativo:Cidadãos inativos</Text>
+            <Gender>Male</Gender>
+            <Plural>0:1</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARAWAK_SHORT_DESC</Tag>
@@ -243,6 +257,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Араваки</Russian>
+        <PortuguesePT>Aruaques</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TUPI_SHORT_DESC</Tag>
@@ -264,6 +279,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Тупи</Russian>
+        <PortuguesePT>Tupis</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHEROKEE_SHORT_DESC</Tag>
@@ -285,6 +301,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Чероки</Russian>
+        <PortuguesePT>Cheroquis</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_IROQUOIS_SHORT_DESC</Tag>
@@ -306,6 +323,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Ирокезы</Russian>
+        <PortuguesePT>Iroqueses</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SIOUX_SHORT_DESC</Tag>
@@ -327,6 +345,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Сиу</Russian>
+        <PortuguesePT>Sioux</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NEZ_PERCE_SHORT_DESC</Tag>
@@ -348,6 +367,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Не-Персе</Russian>
+        <PortuguesePT>Nez Perce</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_APACHE_SHORT_DESC</Tag>
@@ -369,6 +389,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Апачи</Russian>
+        <PortuguesePT>Apaches</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_JAMESTOWN</Tag>
@@ -1145,6 +1166,7 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+		<PortuguesePT>Porto Real</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_PORT_AU_PRINCE</Tag>
@@ -4610,6 +4632,7 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 			<Plural>1</Plural>
 		</Spanish>
 		<Russian>Города</Russian>
+        <PortuguesePT>Colónias</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_LANGLADE</Tag>
@@ -4715,6 +4738,7 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Король Филипп</Russian>
+        <PortuguesePT>Rei Filipe</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GREAT_PERSON_BELLECOMBE</Tag>
@@ -6515,5 +6539,6 @@ although the description was correct before. Ancient Ruins is GOODY_HUT2. this i
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Королем</Russian>
+        <PortuguesePT>O Rei</PortuguesePT>
 	</TEXT>
 </Civ4GameText>
