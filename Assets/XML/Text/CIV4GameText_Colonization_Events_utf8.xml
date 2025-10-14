@@ -887,7 +887,7 @@
 		<German>[ICON_BULLET][COLOR_NEGATIVE_TEXT]%s3_city : [COLOR_REVERT]Die maximale Lagermenge für %F2_yield wird um %d1 überschritten</German>
 		<Russian>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Максимальная емкость хранилища в [COLOR_SELECTED_TEXT]%s3_city[COLOR_REVERT] для %F2_yield превышена на %D1[COLOR_REVERT]</Russian>
         <PortuguesePT>[ICON_BULLET][COLOR_NEGATIVE_TEXT]A capacidade máxima de armazenamento na cidade -  [COLOR_SELECTED_TEXT]%s3_city[COLOR_REVERT] de %F2_yield foi excedida em %D1[COLOR_REVERT]</PortuguesePT>
-        <PortuguesePT> O preço aumentou de [ICON_BULLET][COLOR_POSITIVE_TEXT]%D1[COLOR_REVERT] para %F2_yield em %s3_player</PortuguesePT>
+       
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_PRICE_INCREASE</Tag>
@@ -895,6 +895,7 @@
 		<French>[ICON_BULLET]Le prix augmente de [COLOR_POSITIVE_TEXT]%D1[COLOR_REVERT] pour %F2_yield chez %s3_player</French>
 		<German>[ICON_BULLET][COLOR_POSITIVE_TEXT]%D1[COLOR_REVERT] Verkaufspreis für %F2_yield in %s3_player</German>
 		<Russian>[ICON_BULLET][COLOR_POSITIVE_TEXT]%D1[COLOR_REVERT] цена на %F2_yield в %s3_player</Russian>
+		<PortuguesePT> O preço aumentou de [ICON_BULLET][COLOR_POSITIVE_TEXT]%D1[COLOR_REVERT] para %F2_yield em %s3_player</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_PRICE_DECREASE</Tag>
@@ -5967,7 +5968,7 @@
 		<Tag>TXT_KEY_EVENTTRIGGER_DISCOVERY_EVENTS_START</Tag>
 		<English>An inexperienced expedition is about to set off into the wilderness.</English>
 		<German>Eine unerfahrene Expedition ist im Begriff in die Wildniss aufzubrechen.</German>
-		<Russian>Экспедиция неопытных энтузиастов в дикие земли</Russian
+		<Russian>Экспедиция неопытных энтузиастов в дикие земли</Russian>
 		<PortuguesePT>Uma expedição inexperiente está prestes a partir rumo à natureza.</PortuguesePT>
 	</TEXT>
    <TEXT>
@@ -7351,6 +7352,7 @@
 		<PortuguesePT>[ICON_BULLET] Em [COLOR_UNIT_TEXT]10[COLOR_REVERT] turnos, envia uma unidade de [COLOR_UNIT_TEXT]Dragões Veteranos[COLOR_REVERT] ou [COLOR_UNIT_TEXT]Cavalaria Veterana[COLOR_REVERT] para a colónia para proteger os cidadãos e guardar os escravos. Isso deixará os bons cidadãos felizes.</PortuguesePT>
 	</TEXT>
 </Civ4GameText>
+
 
 
 
