@@ -1320,7 +1320,7 @@
 		<French>Selon une rumeur, la fille d'un riche planteur [COLOR_HIGHLIGHT_TEXT]%s1_civ_adjective[COLOR_REVERT] est tombé amouruese d'un esclave.</French>
 		<German>Ein Gerücht macht die Runde: Eine [COLOR_HIGHLIGHT_TEXT]%s1:4_civ_adjective[COLOR_REVERT] Tocher eines Plantagenbesitzers hat sich in einen Sklaven verliebt.</German>
 		<Russian>Ходят слухи, что дочь [COLOR_HIGHLIGHT_TEXT]%s1_civ_adjective[COLOR_REVERT] плантатора влюбилась в раба.</Russian>
-         <PortuguesePT>Corre o rumor de que a filha de um dono de uma plantação [COLOR_HIGHLIGHT_TEXT]%s1_civ_adjective[COLOR_REVERT] se apaixonou por um escravo.</PortuguesePT> 
+         <PortuguesePT>Corre o rumor de que a filha de um dono de uma plantação [COLOR_HIGHLIGHT_TEXT]%s1_civ_adjective[COLOR_REVERT] se apaixonou por um escravo.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_SLAVE_AND_PLANATION_OWNER_DAUGHTER_1</Tag>
@@ -1368,7 +1368,7 @@
 		<French>Une rumeur se répend : Un baleinier [COLOR_HIGHLIGHT_TEXT]%s1_civ_adjective[COLOR_REVERT] est attaqué par une baleine revancharde.</French>
 		<German>Ein Gerücht macht die Runde: Ein [COLOR_HIGHLIGHT_TEXT]%s1:4_civ_adjective[COLOR_REVERT] Walfangschiff wird von eime Rache suchenden Wal angegriffen.</German>
 		<Russian>Ходят слухи: китобойное судно [COLOR_HIGHLIGHT_TEXT]%s1:4_civ_adjective[COLOR_REVERT] подверглось нападению мстительного кита.</Russian>
-         <PortuguesePT>Um rumor está a espalhar-se: Um navio baleeiro [COLOR_HIGHLIGHT_TEXT]%s1_civ_adjective[COLOR_REVERT] está a ser atacado por uma baleia em busca de vingança.</PortuguesePT> 
+         <PortuguesePT>Um rumor está a espalhar-se: Um navio baleeiro [COLOR_HIGHLIGHT_TEXT]%s1_civ_adjective[COLOR_REVERT] está a ser atacado por uma baleia em busca de vingança.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_WHALE_ATTACK_1</Tag>
@@ -1843,7 +1843,6 @@
 		<Spanish>Ballenas</Spanish>
 		<Russian>Киты</Russian>
          <PortuguesePT>Baleias</PortuguesePT>
-    </TEXT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENTTRIGGER_CACAO_BONUS</Tag>
@@ -2321,7 +2320,7 @@
 		<French>Un maître charpentier [COLOR_HIGHLIGHT_TEXT]%s1_civ_adjective[COLOR_REVERT] souhaite que sa famille en Europe lui rende visite.</French>
 		<German>Ein [COLOR_HIGHLIGHT_TEXT]%s1:4_civ_adjective[COLOR_REVERT] Zimmermeister möchte seine Familie in die Neue Welt nachkommen lassen.</German>
 		<Russian>Мастер-плотник из [COLOR_HIGHLIGHT_TEXT]%s1_civ_adjective[COLOR_REVERT] хочет перевезти свою семью в Новый Свет.</Russian>
-        <PortuguesePT>Um mestre carpinteiro [COLOR_HIGHLIGHT_TEXT]%s1_civ_adjective[COLOR_REVERT] deseja trazer a sua família da Europa.</PortuguesePT> 
+        <PortuguesePT>Um mestre carpinteiro [COLOR_HIGHLIGHT_TEXT]%s1_civ_adjective[COLOR_REVERT] deseja trazer a sua família da Europa.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_CARPENTER_FAMILY_1</Tag>
@@ -2353,7 +2352,7 @@
 		<French>Une émeute royaliste dans les colonies [COLOR_HIGHLIGHT_TEXT]%s1_civ_adjective[COLOR_REVERT] est survenue à [COLOR_SELECTED_TEXT]%s2_city[COLOR_REVERT].</French>
 		<German>Das [COLOR_HIGHLIGHT_TEXT]%s1:3_civ_adjective[COLOR_REVERT] Kolonialreich wird von Protesten treuer Royalisten erschüttert, sie gehen in [COLOR_SELECTED_TEXT]%s2_city[COLOR_REVERT] auf die Straße!</German>
 		<Russian>В [COLOR_HIGHLIGHT_TEXT]%s1_civ_adjective[COLOR_REVERT] колонии [COLOR_SELECTED_TEXT]%s2_city[COLOR_REVERT] бунт роялистов.</Russian>
-        <PortuguesePT>Está a ocorrer um motim de defensores da Coroa nas colónias [COLOR_HIGHLIGHT_TEXT]%s1_civ_adjective[COLOR_REVERT] mais propriamente na cidade de [COLOR_SELECTED_TEXT]%s2_city[COLOR_REVERT].</PortuguesePT> 
+        <PortuguesePT>Está a ocorrer um motim de defensores da Coroa nas colónias [COLOR_HIGHLIGHT_TEXT]%s1_civ_adjective[COLOR_REVERT] mais propriamente na cidade de [COLOR_SELECTED_TEXT]%s2_city[COLOR_REVERT].</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_THE_ROYALS</Tag>
@@ -5315,7 +5314,7 @@
 		<German>Verd...ach, man soll ja nicht fluchen. Aber es ist doch wirklich zum verrückt werden. Versuchen wir erst einmal mit den Halunken zu verhandeln. Bieten wir ihnen die Hälfte von dem was der Architekt ihnen schuldet.</German>
 		<Russian>Дьявол... Что же, давайте попробуем договориться с судебными приставами. Предложите им половину того, что должен архитектор и будем надеяться, их аппетиты не вырастут.</Russian>
         <PortuguesePT>É realmente enlouquecedor. Vamos tentar negociar primeiro com os oficiais de justiça. Vamos oferecer-lhes metade do que o arquiteto deve.</PortuguesePT>
-	</TEXT> 
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_ARCHITECT_BAILIFF_REFUSE</Tag>
 		<English>Aha, that would have been too good to be true. Still, this is a free colony and everyone deserves to be happy here. What happened in Europe stays in Europe. Call the guard and scare away these pests. We won't hand over such a talented planner just like that.</English>
@@ -6849,7 +6848,7 @@
 	</TEXT>	
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRADE_WITH_NATIVE_BETRAYAL_HELP</Tag>
-		<English>Within %d3 turns, send a unit [COLOR_UNIT_TEXT]%s1:1_unit[COLOR_REVERT] to the neighbouring Native village that wants to trade with you. Be on your guard! It looks like the traders are up to something. Double-check the goods beforehand. If we sell shoddy goods to the Natives, they'll make our lives very unpleasant.</English> 
+		<English>Within %d3 turns, send a unit [COLOR_UNIT_TEXT]%s1:1_unit[COLOR_REVERT] to the neighbouring Native village that wants to trade with you. Be on your guard! It looks like the traders are up to something. Double-check the goods beforehand. If we sell shoddy goods to the Natives, they'll make our lives very unpleasant.</English>
 		<German>Schickt innerhalb von %d3 Runden eine Einheit [COLOR_UNIT_TEXT]%s1:1_unit[COLOR_REVERT] zu dem benachbarten Indianer-Dorf, das mit Euch Handel treiben möchte. Aber seid gewarnt, die Händler führen etwas im Schilde. Kontrolliert die Waren vorher noch einmal. Verkauft ihr den Ureinwohnern schlechte Waren, werden sie wütend werden.</German>
 		<Russian>В течение %d3 ходов отправьте [COLOR_UNIT_TEXT]%s1:1_unit[COLOR_REVERT] в деревню индейцев, которые хотят торговать с вами. Но будьте осторожны: торговец что-то замышляет. Проверьте повозки перед отправкой. Если вы продадите туземцам плохой товар, они разозлятся.</Russian>
 		<PortuguesePT>Em %d3 turnos, envia uma unidade [COLOR_UNIT_TEXT]%s1:1_unit[COLOR_REVERT] para a aldeia indígena vizinha que pretende negociar contigo. Fica atento! Parece que os comerciantes estão a tramar alguma. Verifica as mercadorias com antecedência. Se vendermos produtos de má qualidade aos indígenas, eles vão tornar a nossa vida muito desagradável.</PortuguesePT>
@@ -7352,6 +7351,7 @@
 		<PortuguesePT>[ICON_BULLET] Em [COLOR_UNIT_TEXT]10[COLOR_REVERT] turnos, envia uma unidade de [COLOR_UNIT_TEXT]Dragões Veteranos[COLOR_REVERT] ou [COLOR_UNIT_TEXT]Cavalaria Veterana[COLOR_REVERT] para a colónia para proteger os cidadãos e guardar os escravos. Isso deixará os bons cidadãos felizes.</PortuguesePT>
 	</TEXT>
 </Civ4GameText>
+
 
 
 
