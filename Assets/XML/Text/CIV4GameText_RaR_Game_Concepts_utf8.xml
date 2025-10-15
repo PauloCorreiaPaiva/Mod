@@ -30,5 +30,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Общий объем производства</Russian>
+        <PortuguesePT>
+            <Text>Produção total</Text>
+            <Gender>Female</Gender>
+            <Plural>0</Plural>
+        </PortuguesePT>
 	</TEXT>
 </Civ4GameText>
+
