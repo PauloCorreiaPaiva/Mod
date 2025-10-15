@@ -11,6 +11,7 @@
 		<French>WTP - Crédits</French>
 		<Russian>WTP - Спасибо</Russian>
 		<German>WTP - Credits</German>
+		<PortuguesePT>WTP - Créditos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CREDITS_HEAD</Tag>
@@ -18,12 +19,14 @@
 		<French>We The People - Crédits</French>
 		<Russian>We The People - Благодарности</Russian>
 		<German>We The People - Credits</German>
+		<PortuguesePT>We The People – Créditos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CREDITS_WTP</Tag>
 		<English>[H1]"We The People" (WTP)[\H1]</English>
 		<Russian>[H1]Команда "We The People" (WTP)[\H1]</Russian>
 		<German>[H1]"We The People" (WTP)[\H1]</German>
+		<PortuguesePT>[H1]"We The People" (WTP)[\H1]</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CREDITS_SPECIAL</Tag>
@@ -32,6 +35,7 @@
 		<German>[H1]Besonderen Dank[\H1]</German>
 		<Spanish>[H1]Agradecimientos Especiales[\H1]</Spanish>
 		<Russian>[H1]Особая благодарность[\H1]</Russian>
+		<PortuguesePT>[H1]Créditos Especiais[\H1]</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CREDITS_RAR</Tag>
@@ -39,6 +43,7 @@
 		<French>[H1]"Religion and Revolution" (RaR)[\H1]a été développé par une équipe internationale de moddeurs sur le site de CivFanatics.</French>
 		<Russian>[H1]"Religion and Revolution" (RaR)[\H1] разработаный международной командой моддеров CivFanatics</Russian>
 		<German>[H1]"Religion and Revolution" (RaR)[\H1] wurde von einem internationalen Mod-Team bei CivFanatics entwickelt.</German>
+		<PortuguesePT>[H1]"Religion and Revolution" (RaR)[\H1] foi desenvolvido por uma equipa internacional de mods da CivFanatics.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CREDITS_TAC</Tag>
@@ -46,6 +51,7 @@
 		<French>[H1]Nous tenons à remercier tout particulièrement les membres de l'équipe de développement du mod TAC ("The Authentic Colonization") y compris les anciens membres[\H1]</French>
 		<Russian>[H1]Особенная благодарность команде "The Authentic Colonization" (TAC), включая бывших участников:[\H1]</Russian>
 		<German>[H1]Besondere Anerkennung für "The Authentic Colonization" (TAC), einschließlich ehemaliger Mitglieder:[\H1]</German>
+		<PortuguesePT>[H1]Créditos Especiais para "The Authentic Colonization" (TAC), incluindo ex-membros:[\H1]</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CREDITS_MUSIC</Tag>
@@ -53,6 +59,7 @@
 		<French>[H1]Nous remercions chaleureusement Rene Osmanczyk pour a bande-son extraordinaire.[\H1]</French>
 		<Russian>[H1]Особая благодарность за наш саундтрек Rene Osmanczyk, который позволил нам использовать его фантастическую работу.[\H1]</Russian>
 		<German>[H1]Besondere Anerkennung für unseren Soundtrack geht an Rene Osmanczyk, der uns erlaubt hat, seine fantastische Arbeit zu verwenden.[\H1]</German>
+	<PortuguesePT>[H1]Créditos especiais da nossa banda sonora a Rene Osmanczyk que nos permitiu utilizar o seu fantástico trabalho.[\H1]</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CREDITS_OTHER_PROJECTS</Tag>
@@ -60,6 +67,7 @@
 		<French>[H1]Nous remercions aussi les artistes, moddeurs ou projets dont les travaux ont été inclus:[\H1]</French>
 		<Russian>[H1]Наша благодарность художникам, моддерам и сторонникам за их работу:[\H1]</Russian>
 		<German>[H1]Danksagungen an Künstler, Modder und Projekte für enthaltene Arbeiten:[\H1]</German>
+	<PortuguesePT>[H1]Créditos aos artistas, modders e projetos pelos trabalhos incluídos:[\H1]</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CREDITS_OTHER_PROJECTS_TAC</Tag>
@@ -147,6 +155,27 @@
 [ICON_BULLET] Team of Fall for Heaven (рисунки пустыни)
 [ICON_BULLET] Marry Harrsch (фотографии)
 [ICON_BULLET] Aeterna (перевод на фрацузский)</Russian>
+<PortuguesePT>[H1]Mais créditos vão para outros artistas, modders e projectos pelos trabalhos incluídos através do TAC:[\H1]
+[ICON_BULLET] Netbandit (Netbandit's balance MOD)
+[ICON_BULLET] Dale (Age of Discovery II; Achievements v1.00)
+[ICON_BULLET] cgtextures.com (textures)
+[ICON_BULLET] the_suebian (background images)
+[ICON_BULLET] cephalo (script Faire Weather)
+[ICON_BULLET] ledat (script Hemispherical)
+[ICON_BULLET] Ekmek (leaderheads)
+[ICON_BULLET] Mangammal (leaderhead model)
+[ICON_BULLET] Aymerick (artwork plantation, parts of whaling, parts of route planning)
+[ICON_BULLET] Deliverator &amp; BLU-Mod-Team (units)
+[ICON_BULLET] oleg153 (artwork units)
+[ICON_BULLET] charle88 (artwork units)
+[ICON_BULLET] Kailric (artwork units, parts of whaling feature)
+[ICON_BULLET] jdog5000 (code attacks of AI)
+[ICON_BULLET] hrochland (artwork tornado)
+[ICON_BULLET] Fierabras (events "tornado" and "volcano")
+[ICON_BULLET] Kissa (artwork mountain)
+[ICON_BULLET] Team of Fall for Heaven (artwork desert)
+[ICON_BULLET] Marry Harrsch (foto)
+[ICON_BULLET] Aeterna (Tradução Francesa)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CREDITS_END</Tag>
@@ -169,6 +198,13 @@ Vous pouvez contacter TAC, RaR et WtP via le site "CivFanatics forum" (vous trou
 		Selbstverständlich ist es erlaubt, RaR in einem eigenen Mod-Projekt zu verwenden, solange die Copyrights nicht verletzt werden und es ein nicht-kommerzielles Projekt bleibt. Wenn Sie RaR in einem eigenen Mod-Projekt verwenden, müssen Sie deutlich machen, dass Sie Änderungen an der ursprünglichen TAC und an RaR vorgenommen haben. Wenn du Artwork verwenden möchtest, können wir dir mehr Informationen über die Schöpfer geben, so dass du sie in den Credits deiner eigenen Modifikation erwähnen kannst.[NEWLINE] 
 		Du kannst TAC, RaR und WtP über das CivFanatics-Forum (den Link findest du in der Readme-Datei) oder per E-Mail an writing.bull@gmx.de kontaktieren.[NEWLINE][NEWLINE]</German>
 		<Russian>Мы также благодарны Firaxis и 2Kgames за их шедевр Civ4/BtS. Мы используем много материала из этих игр.[NEWLINE]Авторские права на эти материалы принадлежат соответствующим правообладателям. В большинстве случаев мы получили разрешение на использование их материалов, но в некоторых случаях мы этого не сделали. Мы просим этих авторов связаться с нами, чтобы узнать, можем ли мы использовать их материалы. Авторские права на изменения, внесенные командой TAC в эти материалы, принадлежат TAC. Авторские права на изменения, внесенные командой RaR в эти материалы, принадлежат RaR.Авторские права на изменения, внесенные командой WtP в эти материалы, принадлежат WtP.[NEWLINE]Авторские права на "Sid Meier's Civilization IV: Colonization" принадлежат Take Two Interactive. Sid Meier's Civilization IV: Colonization, Civ, Civilization, 2K Games, 2K-Logo, Firaxis Games, игровой логотип Firaxis и Take-Two Interactive Software являются зарегистрированными товарными знаками Take-Two Interactive Software, Inc., разработанными Firaxis Games.[NEWLINE]Некоторые текстуры на наших 3D-моделях созданы с использованием изображений с сайта CGTextures.com. Эти изображения не могут распространяться по умолчанию. Посетите сайт www.cgtextures.com для получения дополнительной информации.[NEWLINE]WtP — это некоммерческий мод-проект. Если вы используете или распространяете WtP, обратите внимание на авторские права. Мы разрешаем использование и распространение, пока WtP остается некоммерческим.[NEWLINE]Разумеется, разрешено использовать WtP в собственном мод-проекте, если не нарушаются авторские права и он остается некоммерческим проектом. Если вы используете WtP в собственном проекте мода, вы должны четко указать, что вы внесли изменения в исходный TAC, RaR и WtP. Если вы хотите использовать обложку, мы можем предоставить вам больше информации о создателях, чтобы вы могли упомянуть их в титрах своей модификации.[NEWLINE]Вы можете связаться с командой WtP через форум CivFanatics или группу ВК (ссылки есть в Readme).</Russian>
+	<PortuguesePT>E não nos queremos esquecer de agradecer à Firaxis e à 2Kgames pela sua obra-prima Civ4/BtS. Usámos muito material destes jogos.[NEWLINE]
+Os direitos de autor destes materiais pertencem aos seus respectivos proprietários. Na maioria dos casos, obtivemos permissão para utilizar os seus materiais, mas em alguns casos não o fizemos. Pedimos a estes autores que nos contactem para saber se podemos utilizar o seu material. Os direitos de autor das alterações que a equipa do TAC fez a estes materiais pertencem ao TAC. Os direitos de autor das alterações que a equipa RaR fez a estes materiais pertencem ao RaR. Os direitos de autor das alterações feitas pela equipa da WtP a estes materiais pertencem à WtP.[NEWLINE]
+Os direitos de autor de "Sid Meier's Civilization IV: Colonization" pertencem à Take Two Interactive. Sid Meier's Civilization IV: Colonization, Civ, Civilization, 2K Games, o 2K-Logo, Firaxis Games, o logótipo do jogo Firaxis e Take-Two Interactive Software são marcas registadas da Take-Two Interactive Software, Inc. [NEWLINE]
+Algumas texturas nos nossos modelos 3D foram criadas com imagens da CGTextures.com. Estas imagens não podem ser redistribuídas por defeito. Visite www.cgtextures.com para mais informações.[NEWLINE]
+O RaR é um projeto mod não comercial. Se utiliza ou distribui RaR, preste atenção aos direitos de autor. Permitimos a utilização e distribuição desde que o RaR permaneça não comercial.[NEWLINE]
+É claro que é permitido utilizar o RaR num projeto de mod próprio, desde que os direitos de autor não sejam prejudicados e continue a ser um projeto não comercial. Se utilizar o RaR num projeto de mod próprio, deverá deixar claro que fez alterações ao TAC original e ao RaR. Se desejar utilizar a arte, poderemos fornecer mais informações sobre os criadores para que possa mencioná-los nos créditos da sua própria modificação.[NEWLINE]
+Pode contactar o TAC, RaR e WtP através do fórum CivFanatics (encontrará o link no ficheiro readme) ou por e-mail para Writing.bull@gmx.de.[NEWLINE][NEWLINE]</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CREDITS_FURSTBISCHOF</Tag>
@@ -184,6 +220,7 @@ Vous pouvez contacter TAC, RaR et WtP via le site "CivFanatics forum" (vous trou
 		<German>f1rpo (Wiederholte Unterstützung beim Coden)</German>
 		<Spanish>f1rpo (ayuda repetida con código)</Spanish>
 		<Russian>f1rpo (постоянная поддержка, связанная с кодированием)</Russian>
+		<PortuguesePT>f1rpo (suporte contínuo relacionado com a codificação)</PortuguesePT>
 	</TEXT>
 		<TEXT>
 		<Tag>TXT_KEY_CREDITS_karadoc</Tag>
@@ -191,6 +228,7 @@ Vous pouvez contacter TAC, RaR et WtP via le site "CivFanatics forum" (vous trou
 		<German>karadoc (für seinen Pathfinding Code)</German>
 		<Spanish>karadoc (por su algoritmo de búsqueda)</Spanish>
 		<Russian>karadoc (за его код поиска пути)</Russian>
+		<PortuguesePT>karadoc (pelo seu código de pathfinding)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CREDITS_FORMER_MEMBER</Tag>
@@ -199,6 +237,7 @@ Vous pouvez contacter TAC, RaR et WtP via le site "CivFanatics forum" (vous trou
 		<French>(ex-membre)</French>
 		<Spanish>(ex-miembro)</Spanish>
 		<Russian>(бывшие участники)</Russian>
+		<PortuguesePT>(antigo membro)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CREDITS_MELCHER_KURZER</Tag>
@@ -213,24 +252,28 @@ Vous pouvez contacter TAC, RaR et WtP via le site "CivFanatics forum" (vous trou
 		<English>Victor Meirelles (Painting: Primeira missa no Brasil)</English>
 		<French>Victor Meirelles (Peinture : Primeira missa no Brasil)</French>
 		<Russian>Victor Meirelles (Картина: Первая месса в Бразилии)</Russian>
+		<PortuguesePT>Victor Meirelles (Pintura: Primeira missa no Brasil)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CREDITS_OTHER_NAME_2</Tag>
 		<English>John Trumbull (Painting: The Death of General Warren at the Battle of Bunker Hill)</English>
 		<French>John Trumbull (Peinture : The Death of General Warren at the Battle of Bunker Hill)</French>
 		<Russian>John Trumbull (Картина: Смерть генерала Уоррена в битве при Банкер-Хилле)</Russian>
+		<PortuguesePT>John Trumbull (Pintura: A Morte do General Warren na Batalha de Bunker Hill)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CREDITS_OTHER_NAME_3</Tag>
 		<English>George Walter Vincent Smith (Painting: New England Scenery)</English>
 		<French>George Walter Vincent Smith (Peinture : New England Scenery)</French>
 		<Russian>George Walter Vincent Smith (Картина: Пейзаж Новой Англии)</Russian>
+		<PortuguesePT>George Walter Vincent Smith (Pintura: Cenário da Nova Inglaterra)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CREDITS_OTHER_NAME_4</Tag>
 		<English>Clint Mansell (Main Theme)</English>
 		<French>Clint Mansell (Thème principal)</French>
 		<Russian>Clint Mansell (Главная тема)</Russian>
+		<PortuguesePT>Clint Mansell (Tema Principal)</PortuguesePT>
 	</TEXT>
 	<!-- Readme -->
 	<TEXT>
@@ -239,6 +282,7 @@ Vous pouvez contacter TAC, RaR et WtP via le site "CivFanatics forum" (vous trou
 		<French>Concept de WtP</French>
 		<German>WtP-Konzept</German>
 		<Russian>Концепция WtP</Russian>
+		<PortuguesePT>Conceito de WtP</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_README_HEAD</Tag>
@@ -247,6 +291,7 @@ Vous pouvez contacter TAC, RaR et WtP via le site "CivFanatics forum" (vous trou
 		<German>We the People</German>
 		<Italian>We the People</Italian>
 		<Spanish>We the People</Spanish>
+		<PortuguesePT>We the People</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_README_TEXT</Tag>
@@ -266,6 +311,11 @@ Deshalb haben wir uns für "The Authentic Colonization" (TAC) und "Religion and 
 Viel Spass![NEWLINE]
 		</German>
 		<Russian>[H1]Добро пожаловать в мод "We the People" — WtP![\H1][NEWLINE][H2]Идея "We the People" проста: мы хотим создать самый большой и лучший CivCol-Mod![\H2][NEWLINE]Поэтому мы выбрали "The Authentic Colonization" (TAC) и "Religion and Revolution" (RaR) в качестве основы для этого проекта и добавили множество интересных функций и улучшений.[NEWLINE][NEWLINE]Наслаждайтесь![NEWLINE]</Russian>
+<PortuguesePT>[H1]Bem-vindo ao "We the People" - WtP ![\H1][NEWLINE]
+[H2]A ideia por detrás de "We the People" é simples: queremos criar o maior e melhor CivCol-Mod de sempre![\H2][NEWLINE]
+Assim, escolhemos "The Authentic Colonization" (TAC) e "Religion and Revolution" (RaR) como base para este projeto e adicionámos-lhe muitas características e melhorias interessantes.[NEWLINE]
+Divirtam-se![NEWLINE]
+</PortuguesePT>
 	</TEXT>
 	<!-- Hints -->
 	<TEXT>
@@ -274,6 +324,7 @@ Viel Spass![NEWLINE]
 		<French>Lorsque des mesures vigoureuses sembleront être le seul moyen qu'il reste pour ramener les américains à leur soumission légitime envers leur mère patrie, les colonies se soummettront.[NEWLINE]--- George III, Roi de Grande-Bretagne dans la période 1760-1820</French>
 		<German>Sobald energische Maßnahmen als einziges Mittel erscheinen, um die Amerikaner zu einer gebührenden Unterwerfung unter das Mutterland zu bringen, werden sich die Kolonien fügen.[NEWLINE]--- Georg III, König von Großbritannien in der Zeit von 1760-1820</German>
 		<Russian>Как только решительные меры окажутся единственным средством приведения американцев к должному подчинению метрополии, колонии подчинятся.[NEWLINE]--- Георг III, король Великобритании в период 1760-1820 гг.</Russian>
+		<PortuguesePT>Quando medidas vigorosas parecerem ser o único meio que resta para levar os americanos à devida submissão à metrópole, as colónias submeter-se-ão.[NEWLINE]--- Jorge III, Rei da Grã-Bretanha no período 1760-1820 </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_2</Tag>
@@ -281,297 +332,352 @@ Viel Spass![NEWLINE]
 		<French>Un traître est quiconque n'est pas d'accord avec moi.[NEWLINE]--- George III, Roi de Grande-Bretagne dans la période 1760-1820</French>
 		<German>Ein Verräter ist jeder, der nicht mit mir übereinstimmt.[NEWLINE]--- George III, König von Großbritannien in der Zeit von 1760-1820</German>
 		<Russian>Каждый, кто не согласен со мной, предатель.[NEWLINE]--- Георг III, король Великобритании в период 1760-1820 гг.</Russian>
+		<PortuguesePT>Traidor é todo aquele que não concorda comigo.[NEWLINE]--- Jorge III, Rei da Grã-Bretanha no período 1760-1820</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_3</Tag>
 		<English>America owes most of its social prejudices to the exaggerated religious opinions of the different sects which were so instrumental in establishing the colonies.[NEWLINE]--- James Fenimore Cooper (1789 - 1851), novelist</English>
 		<French>L'Amérique doit la plupart de ses préjugés sociaux aux opinions religieuses si prévalentes des différentes chapelles qui furent si fondamentales à l'établissement des colonies.[NEWLINE]--- James Fenimore Cooper (1789 - 1851), romancier.</French>
 		<German>Amerika verdankt die meisten seiner sozialen Vorurteile den übertriebenen religiösen Ansichten der verschiedenen Sekten, die bei der Gründung der Kolonien so wichtig waren..[NEWLINE]--- James Fenimore Cooper (1789 - 1851), Romanautor</German>
+		<PortuguesePT>A América deve a maior parte dos seus preconceitos sociais às opiniões religiosas exageradas das diferentes seitas, as quais foram fundamentais no estabelecimento das colónias.[NEWLINE]--- James Fenimore Cooper (1789 - 1851), romancista</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_4</Tag>
 		<English>Slavery is no more sinful, by the Christian code, than it is sinful to wear a whole coat, while another is in tatters, to eat a better meal than a neighbour, or otherwise to enjoy ease and plenty, while our fellow creatures are suffering and in want.[NEWLINE]--- James Fenimore Cooper (1789 - 1851), novelist</English>
 		<French>L'esclavage n'est pas plus un pêché, selon le code de conduite chrétien, que ne le sont le fait de porter un manteau confortable, quand un autre est en lambeaux, de mieux manger que son voisin, ou jouir de l'abondance et d'une vie facile, quand nos frères souffrent et manquent de tout.[NEWLINE]--- James Fenimore Cooper (1789 - 1851), romancier.</French>
 		<German>Die Sklaverei ist nach dem christlichen Gesetzbuch ebenso wenig eine Sünde, wie es eine Sünde ist, einen ganzen Mantel zu tragen, während ein anderer in Fetzen liegt, eine bessere Mahlzeit als der Nachbar zu sich zu nehmen oder sich anderweitig der Bequemlichkeit und des Überflusses zu erfreuen, während unsere Mitgeschöpfe leiden und in Not sind..[NEWLINE]--- James Fenimore Cooper (1789 - 1851), Romanautor</German>
+		<PortuguesePT> Pelo código cristão, a escravatura não é mais pecaminosa do que eu usar um casaco inteiro enquanto o do outro está em farrapos; eu comer uma refeição melhor do que a do vizinho; ou então, desfrutar de conforto e abundância enquanto as criaturas minhas companheiras estão a sofrer e a passar por necessidade.[NEWLINE]--- James Fenimore Cooper (1789 - 1851), romancista</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_5</Tag>
 		<English>The Indian Corn, or Maiz, proves the most useful Grain in the World; and had it not been for the Fruitfulness of this Species, it would have proved very difficult to have settled some of the Plantations in America.[NEWLINE]--- John Lawson (1674 - 1711), British explorer</English>
 		<French>Le blé indien, ou maïs, s'est montré la meilleure céréale dans ce monde, et sans l'abondance et la fertilité de cette plante, l'établissement des Plantations en Amériques se serait avéré bien difficile.[NEWLINE]--- John Lawson (1674 - 1711), explorateur britannique</French>
 		<German>Der indische Mais erweist sich als das nützlichste Getreide der Welt, und ohne die Fruchtbarkeit dieser Art wäre es sehr schwierig gewesen, einige der Plantagen in Amerika zu besiedeln.[NEWLINE]--- John Lawson (1674 - 1711), Britischer Entdecker</German>
+		<PortuguesePT>O Milho Índio, ou Maiz, provou ser o Grão mais útil do Mundo; se não fosse a grande fecundidade desta espécie, teria sido muito difícil ter estabelecido algumas das plantações na América.[NEWLINE]--- John Lawson (1674 - 1711), explorador britânico</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_6</Tag>
 		<English>There are not enough Indians in the world to defeat the Seventh Cavalry.[NEWLINE]--- George Armstrong Custer, Seventh Cavalry Commander, prior to being massacred by the Sioux at the Battle of Little Bighorn (June 25-26, 1876)</English>
 		<French>Il n'y a pas assez d'indiens dans ce monde pour battre la Septième Cavalerie.[NEWLINE]--- George Armstrong Custer, Commandant de la Septième Cavalerie, avant de se faire massacrer avec ses troupes par les Sioux à la bataille de Little Bighorn (25-26 juin 1876)</French>
 		<German>Es gibt nicht genug Indianer auf der Welt, um die Siebte Kavallerie zu besiegen.[NEWLINE]--- George Armstrong Custer, Kommandeur der Siebten Kavallerie, bevor er in der Schlacht am Little Bighorn von den Sioux massakriert wurde (June 25-26, 1876)</German>
+		<PortuguesePT>Não há índios suficientes no mundo que possam derrotar a Sétima Cavalaria.[NEWLINE]--- George Armstrong Custer, Comandante da Sétima Cavalaria, antes de ser massacrado pelos Sioux na Batalha de Little Bighorn (25 a 26 de Junho de 1876) </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_7</Tag>
 		<English>The Indians gave up the land of their own free will, and for it received brass kettles, blankets, guns, shirts, flints, tobacco, rum and many trinkets in which their simple hearts delighted.[NEWLINE]--- Patrick Gordon (1635 - 1699), Scottish explorer</English>
 		<French>Les Indiens ont cédé leurs terres de leur plein gré, et ils ont reçu en échange des bouilloires, des couvertures, des fusils, des vêtements, du tabac, du rhum, et biens des babioles qui ont ravi leur esprit simple.[NEWLINE]--- Patrick Gordon (1635 - 1699), Explorateur écossais</French>
 		<German>Die Indianer gaben das Land aus freien Stücken auf und erhielten dafür Messingkessel, Decken, Gewehre, Hemden, Feuersteine, Tabak, Rum und viele Kleinigkeiten, die ihr einfaches Herz erfreuten.[NEWLINE]--- Patrick Gordon (1635 - 1699), Schottischer Entdecker</German>
+		<PortuguesePT>Os índios cederam a terra por sua livre e espontânea vontade, e por ela receberam chaleiras de latão, cobertores, armas, camisas, pederneiras, tabaco, cachaça e muitas bugigangas que encantaram os seus corações simples.[NEWLINE]--- Patrick Gordon (1635 - 1699), explorador escocês</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_8</Tag>
 		<English>It affords me sincere pleasure to be able to apprise you of the entire removal of the Cherokee Nation of Indians to their new homes west of the Mississippi.[NEWLINE]--- Martin Van Buren, 8th President of the United States</English>
 		<French>J'ai le plus grand plaisir de pouvoir vous annoncer la déportation de toute la nation indienne des Cherokees vers leur nouveau domicile à l'ouest du Mississippi.[NEWLINE]--- Martin Van Buren, 8e président des États-Unis</French>
 		<German>Es ist mir eine aufrichtige Freude, Sie über den vollständigen Umzug der Cherokee-Indianer in ihre neue Heimat westlich des Mississippi informieren zu können.[NEWLINE]--- Martin Van Buren, 8. Präsident der Vereinigten Staaten</German>
+		<PortuguesePT>É para mim um sincero prazer poder informá-los sobre a remoção total da nação indígena Cheroqui para os seus novos lares a oeste do Mississipi.[NEWLINE]--- Martin Van Buren, 8º Presidente dos Estados Unidos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_9</Tag>
 		<English>We derive our authority from God and the West India Company, not from the pleasure of a few ignorant subjects.[NEWLINE]--- Peter Stuyvesant, directeur-generaal of Nieuw-Nederland in the period 1647-1664</English>
 		<French>Nous tenons notre autorité de Dieu et de la Companie des Indes Occidentales, et non du bon-vouloir d'une poignée de sujets idiots.[NEWLINE]--- Peter Stuyvesant, directeur-général de la Nouvelle-Néerlande dans la période 1647-1664</French>
 		<German>Wir leiten unsere Autorität von Gott und der Westindischen Kompanie ab, nicht vom Wohlgefallen einiger weniger unwissenden Untertanen.[NEWLINE]--- Peter Stuyvesant, Generaldirektor von Neu-Niederlande im Zeitraum von 1647-1664</German>
+		<PortuguesePT>A nossa autoridade provém de Deus e da Companhia das Índias Ocidentais, não do prazer de alguns súbditos ignorantes.[NEWLINE]--- Peter Stuyvesant, director-geral de Nieuw-Nederland no período 1647-1664</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_10</Tag>
 		<English>We pray that the deceitful race - such hateful enemies and blasphemers of the name of Christ - be not allowed to further infect and trouble this new colony.[NEWLINE]--- Peter Stuyvesant, directeur-generaal of Nieuw-Nederland in the period 1647-1664, on Jewish citizens of Nieuw-Amsterdam</English>
 		<French>Nous prions que cette race perfide - des ennemis haineux et blasphémateurs envers le Christ - ne soit pas autorisé à infester davantage et gâter cette nouvelle colonie[NEWLINE]--- Peter Stuyvesant, directeur-général de la Nouvelle-Néerlande dans la période 1647-1664, au sujet des juifs établis à la Nouvelle-Amsterdam</French>
 		<German>Wir beten, dass die betrügerische Ethnie - diese hasserfüllten Feinde und Lästerer des Namens Christi - diese neue Kolonie nicht weiter infizieren und belästigen darf.[NEWLINE]--- Peter Stuyvesant, Generaldirektor von Neu-Niederlande im Zeitraum von 1647-1664, über jüdische Bürger von Nieuw-Amsterdam</German>
+		<PortuguesePT>Rezamos para que essa raça enganosa – esses inimigos tão odiosos e blasfemadores do nome de Cristo – não seja autorizada a infetar e perturbar ainda mais, esta nova colónia.[NEWLINE]--- Peter Stuyvesant, director-geral de Nieuw-Nederland no período de 1647-1664, acerca dos cidadãos judeus de Nova-Amesterdão</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_11</Tag>
 		<English>Money is the father of luxury, lasciviousness, intrigues, trickery, lies, betrayal, insincerity – of all the world's worst behaviour. Fathers sell their children, husbands their wives, wives betray their husbands, brothers kill each other, friends are false, and all because of money. In the light of all this, tell me that we Wendat are not right in refusing to touch, or so much to look at silver?[NEWLINE]--- Kondiaronk, Wendat Chief, 1703</English>
 		<French>L'argent, la monnaie est la source de la luxure, de la débauche, des intrigues, des tromperies, des mensonges, des trahisons, et de la fausseté - des pires comportements au monde. Des pères vendent leurs enfants, des maris leur femmes, les femmes trompent leur mari, les frères s'entretuent, les amis sont faux, et tout à cause de l'argent. En voyant tout cela, dites-moi que nous, Wendats, avons tort de refuser à toucher, et même de regarder l'argent?[NEWLINE]--- Kondiaronk, chef des Wendats, 1703  </French>
 		<German>Geld ist der Vater des Luxus, der Lüsternheit, der Intrigen, des Betrugs, der Lüge, des Verrats, der Unaufrichtigkeit - des schlimmsten Verhaltens in der Welt. Väter verkaufen ihre Kinder, Ehemänner ihre Frauen, Ehefrauen betrügen ihre Männer, Brüder bringen sich gegenseitig um, Freunde sind falsch, und alles wegen des Geldes. Sagen Sie mir, dass wir Wendat in Anbetracht all dessen nicht Recht haben, wenn wir uns weigern, Silber anzufassen oder auch nur anzuschauen?[NEWLINE]--- Kondiaronk, Häuptling der Wendat, 1703</German>
+		<PortuguesePT>O dinheiro é o pai do luxo, da lascívia, das intrigas, da malandragem, da mentira, da traição, da falta de sinceridade – de todos os piores comportamentos do mundo. Os pais vendem os filhos, os maridos as mulheres, as mulheres traem os maridos, os irmãos matam-se, os amigos são falsos e tudo por causa do dinheiro. À luz de tudo isto, diga-me que nós, Wendat, temos ou não razão em recusar tocar, ou sequer olhar para a prata?[NEWLINE]--- Kondiaronk, Wendat Chief, 1703</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_12</Tag>
 		<English>The attack did not succeed as well as I had hoped, no small impediment having been the loss of my right leg.[NEWLINE]--- Peter Stuyvesant, directeur-generaal of Nieuw-Nederland in the period 1647-1664</English>
 		<French>L'attaque ne réussit pas aussi bien que je ne l'avais espéré, un des coups du sort fut la perte de ma jambe droite.[NEWLINE]--- Peter Stuyvesant, directeur-général de la Nouvelle-Néerlande dans la période 1647-1664</French>
 		<German>Der Angriff verlief nicht so erfolgreich, wie ich gehofft hatte, denn der Verlust meines rechten Beins war kein geringes Hindernis.[NEWLINE]--- Peter Stuyvesant, Generaldirektor von Neu-Niederlande im Zeitraum von 1647-1664</German>
+		<PortuguesePT>O ataque não teve o sucesso que eu esperava, tendo sido um grande contratempo a perda da minha perna direita.[NEWLINE]--- Peter Stuyvesant, director-geral de Nieuw-Nederland no período de 1647-1664</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_13</Tag>
 		<English>I value the blood of one Christian more than that of a hundred Indians.[NEWLINE]--- Peter Stuyvesant, directeur-generaal of Nieuw-Nederland in the period 1647-1664</English>
 		<French>J'estime davantage le sang d'un seul chrétien que celui de cent Indiens [NEWLINE]--- Peter Stuyvesant, directeur-général de la Nouvelle-Néerlande dans la période 1647-1664</French>
 		<German>Ich schätze das Blut eines einzigen Christen mehr als das von hundert Indianern.[NEWLINE]--- Peter Stuyvesant, Generaldirektor von Neu-Niederlande im Zeitraum von 1647-1664</German>
+		<PortuguesePT>Valorizo mais o sangue de um cristão do que o sangue de cem índios.[NEWLINE]--- Peter Stuyvesant, director-geral de Nieuw-Nederland no período 1647-1664</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_14</Tag>
 		<English>There are apothecaries' shops, where prepared medicines, liquids, ointments, and plasters are sold; barbers' shops, where they wash and shave the head; and restaurateurs, that furnish food and drink at a certain price.[NEWLINE]--- Hernán Cortés, Spanish conquistador, on the Aztec capital of Tenochtitlan (November 8, 1519)</English>
 		<French>Il y a des boutiques d'apothiquaires, où l'on vent des remèdes tout prêts, des liquides, des onguents, et des cataplames; des barbiers, où ils lavent et rasent la têtes, et des restaurateurs; qui fournissent nourritures et boisson à un certain prix.[NEWLINE]--- Hernán Cortés, Conquistador espagnol, au sujet de la capitale aztèque de Tenochtitlan, le 9 novembre 1519</French>
 		<German>Es gibt Apotheken, in denen zubereitete Medikamente, Flüssigkeiten, Salben und Pflaster verkauft werden, Friseurläden, in denen der Kopf gewaschen und rasiert wird, und Gastronomen, die Essen und Trinken zu einem bestimmten Preis anbieten.[NEWLINE]--- Hernán Cortés, Spanischer Eroberer, über die aztekische Hauptstadt Tenochtitlan (November 8, 1519)</German>
+		<PortuguesePT>Existem lojas de boticário, onde se vendem medicamentos preparados, líquidos, pomadas e emplastros; barbearias, onde se lava e rapa a cabeça; e restaurantes, que fornecem comida e bebida a um determinado preço.[NEWLINE]--- Hernán Cortés, conquistador espanhol acerca da capital Asteca de Tenochtitlan (Novembro de 8, 1519) </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_15</Tag>
 		<English>The city is as large as Sevilla or Córdoba; its streets, I speak of the principal ones, are very wide and straight; some of these, and all the inferior ones, are half land and half water, and are navigated by canoes.[NEWLINE]--- Hernán Cortés, Spanish conquistador, on the Aztec capital of Tenochtitlan (November 8, 1519)</English>
 		<French>La cité est aussi grande que Séville ou Cordoue; ses artères principales sont très larges et droites, et les secondaires, sont mi-rues, mi-canaux, et il y navigue des canoës.[NEWLINE]--- Hernán Cortés, Conquistador espagnol, au sujet de la capitale aztèque de Tenochtitlan, le 9 novembre 1519</French>
 		<German>Die Stadt ist so groß wie Sevilla oder Córdoba; ihre Straßen, ich spreche von den Hauptstraßen, sind sehr breit und geradlinig; einige von ihnen und alle untergeordneten sind halb Land und halb Wasser und werden mit Kanus befahren.[NEWLINE]--- Hernán Cortés, Spanischer Eroberer, über die aztekische Hauptstadt Tenochtitlan (November 8, 1519)</German>
+		<PortuguesePT>A cidade é tão grande como Sevilha ou Córdova; as suas ruas, falo das principais, são muito largas e direitas; algumas delas, e todas as inferiores, são metade terra e metade água, e são navegadas por canoas.[NEWLINE]--- Hernán Cortés, conquistador espanhol, na capital asteca de Tenochtitlan (8 de Novembro de 1519)</PortuguesePT >
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_16</Tag>
 		<English>Among these temples there is one which far surpasses all the rest, whose grandeur of architectural details no human tongue is able to describe; for within its precincts, surrounded by a lofty wall, there is room enough for a town of five hundred families.[NEWLINE]--- Hernán Cortés, Spanish conquistador, on the Aztec capital of Tenochtitlan (November 8, 1519)</English>
 		<French>Parmi ces temples il y en a un qui surpasse tous les autres, dont la grandeur des détails d'architecture surpasse toute description ; En son sein, entouré d'un mur imposant, il y a assez de place pour une ville de cinq cents familles.[NEWLINE]--- Hernán Cortés, Conquistador espagnol, au sujet de la capitale aztèque de Tenochtitlan, le 9 novembre 1519</French>
 		<German>Among these temples there is one which far surpasses all the rest, whose grandeur of architectural details no human tongue is able to describe; for within its precincts, surrounded by a lofty wall, there is room enough for a town of five hundred families.[NEWLINE]--- Hernán Cortés, Spanischer Eroberer, über die aztekische Hauptstadt Tenochtitlan (November 8, 1519)</German>
+		<PortuguesePT>Entre estes templos há um que supera em muito todos os restantes, cuja grandiosidade de pormenores arquitetónicos nenhuma língua humana é capaz de descrever; pois dentro do seu recinto, cercado por um muro elevado, há espaço suficiente para uma cidade de quinhentas famílias.[NEWLINE]--- Hernán Cortés, conquistador espanhol, na capital asteca de Tenochtitlan (8 de Novembro de 1519)</PortuguesePT >
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_17</Tag>
 		<English>If the freedom of speech is taken away then dumb and silent we may be led, like sheep to the slaughter.[NEWLINE]--- George Washington (1732 - 1799), Commander-in-Chief of the Continental Army and first President of the United States</English>
 		<French>Si la liberté de la presse est retirée, alors nous pourrions être menés aveuglement et sans bruit comme des moutons à l'abattoir.[NEWLINE]--- George Washington (1732 - 1799), Commandeur-en-Chef de l'Armée Continentale et Premier président des États-Unis</French>
 		<German>Wenn uns die Redefreiheit genommen wird, werden wir stumm und schweigend wie Schafe zur Schlachtbank geführt.[NEWLINE]--- George Washington (1732 - 1799), Oberbefehlshaber der Kontinentalarmee und erster Präsident der Vereinigten Staaten</German>
+		<PortuguesePT>Se a liberdade de expressão for retirada, então, mudos e silenciosos, poderemos ser levados, como ovelhas para o matadouro.[NEWLINE]--- George Washington (1732 - 1799), Comandante-Chefe do Exército Continental e primeiro Presidente dos Estados Unidos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_18</Tag>
 		<English>The marvel of all history is the patience with which men and women submit to burdens unnecessarily laid upon them by their governments.[NEWLINE]--- George Washington (1732 - 1799), Commander-in-Chief of the Continental Army and first President of the United States</English>
 		<French>Une des merveilles de l'histoire et la patience avec laquelle hommes et femmes subissent les tracas superflus que leur imposent leurs gouvernements.[NEWLINE]--- George Washington (1732 - 1799), Commandeur-en-Chef de l'Armée Continentale et Premier président des États-Unis</French>
 		<German>Das Wunder der Geschichte ist die Geduld, mit der Männer und Frauen unnötige Lasten auf sich nehmen, die ihnen von ihren Regierungen aufgebürdet werden.[NEWLINE]--- George Washington (1732 - 1799), Oberbefehlshaber der Kontinentalarmee und erster Präsident der Vereinigten Staaten</German>
+		<PortuguesePT>A maravilha de toda a história é a paciência com que homens e mulheres se submetem aos fardos impostos desnecessariamente sobre eles, pelos seus governos.[NEWLINE]--- George Washington (1732 - 1799), Comandante-Chefe do Exército Continental e primeiro Presidente dos Estados Unidos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_19</Tag>
 		<English>The alternate domination of one faction over another, sharpened by the spirit of revenge, natural to party dissension, which in different ages and countries has perpetrated the most horrid enormities, is itself a frightful despotism. But this leads at length to a more formal and permanent despotism. The disorders and miseries which result gradually incline the minds of men to seek security and repose in the absolute power of an individual; and sooner or later the chief of some prevailing faction, more able or more fortunate than his competitors, turns this disposition to the purposes of his own elevation, on the ruins of public liberty.[NEWLINE]--- George Washington (1732 - 1799), President of the United States farewell address, 1796</English>
 		<French>L'alternance au pouvoir d'une faction puis de l'autre, aiguisée par l'esprit de revanche accompagnant les désaccords entre les partis, ce qui a perpétué les pires horreurs en d'autres temps et d'autres pays, est en elle même un despotisme atroce. Mais cela mène avec le temps à un autre despotisme de droit plus permanent. Les désordres et les malheurs qui en découlent poussent peu à peu l'esprit des hommes à chercher la sécurité et la quiétude dans le pouvoir absolu d'un seul individu ; tôt ou tard le chef d'une des factions importantes, plus chanceux ou plus abile que ses concurrents, tirera parti de cette tendance pour son propre profit, sur les ruines des libertés publiques.[NEWLINE]--- George Washington (1732 - 1799), Discours d'adieu en tant que président des États-Unis, 1796</French>
 		<German>Die wechselseitige Herrschaft einer Fraktion über eine andere, verschärft durch den Rachegeist, der dem Parteienstreit eigen ist und der in verschiedenen Zeitaltern und Ländern die schrecklichsten Ungeheuerlichkeiten verübt hat, ist an sich schon ein schrecklicher Despotismus. Aber dies führt schließlich zu einem formelleren und dauerhaften Despotismus. Die Unruhen und das Elend, die sich daraus ergeben, neigen allmählich den Geist der Menschen dazu, Sicherheit und Ruhe in der absoluten Macht eines Einzelnen zu suchen; und früher oder später wendet das Oberhaupt irgendeiner vorherrschenden Fraktion, das fähiger oder glücklicher ist als seine Konkurrenten, diese Veranlagung zu den Zwecken seiner eigenen Erhebung auf den Ruinen der öffentlichen Freiheit an.[NEWLINE]--- George Washington (1732 - 1799), Abschiedsrede des Präsidenten der Vereinigten Staaten, 1796</German>
+		<PortuguesePT>A dominação alternada de uma fação sobre outra, aguçada pelo espírito de vingança, natural das dissensões partidárias, que em diferentes épocas e países tem perpetrado as mais horríveis enormidades, é em si um terrível despotismo. Mas isto conduz finalmente a um despotismo mais formal e permanente. As desordens e misérias daí resultantes inclinam gradualmente as mentes dos homens a procurar segurança e repouso no poder absoluto de um indivíduo; e mais cedo ou mais tarde o chefe de alguma fação predominante, mais capaz ou mais afortunado que os seus concorrentes, transforma essa disposição em prol da sua própria elevação, sobre as ruínas da liberdade pública.[NEWLINE]--- George Washington (1732 - 1799), discurso de despedida do Presidente dos Estados Unidos, 1796</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_20</Tag>
 		<English>Rebellion to tyrants is obedience to God.[NEWLINE]--- William Penn (1644 - 1718), Founder of Pennsylvania</English>
 		<French>La rébellion face aux tyrans est obéir à Dieu[NEWLINE]--- William Penn (1644 - 1718), Fondateur de la Pennsylvanie</French>
 		<German>Rebellion gegen Tyrannen ist Gehorsam gegenüber Gott.[NEWLINE]--- William Penn (1644 - 1718), Gründer von Pennsylvania</German>
+		<PortuguesePT>Rebelião aos tiranos é obediência a Deus.[NEWLINE]--- William Penn (1644 - 1718), Fundador da Pensilvânia</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_21</Tag>
 		<English>This land is naturally fruitful, and capable of supporting a large population, if it were judiciously allotted according to location. The air is pleasant, and more temperate than in Netherland.[NEWLINE]--- Adriaen van der Donck (c.1618 - 1655), Dutch lawyer, on Nieuw-Nederland</English>
 		<German>Dieses Land ist von Natur aus fruchtbar und könnte eine große Bevölkerung ernähren, wenn es je nach Lage vernünftig aufgeteilt würde. Die Luft ist angenehm und gemäßigter als in den Niederlanden.[NEWLINE]--- Adriaen van der Donck (c.1618 - 1655), niederländischer Rechtsanwalt, von Neu-Niederlande</German>
+		<PortuguesePT>Esta terra é naturalmente fecunda, e capaz de sustentar uma grande população, se for criteriosamente distribuída de acordo com a localização. O ar é agradável e mais temperado do que na Holanda.[NEWLINE]--- Adriaen van der Donck (c.1618 - 1655), advogado holandês, em Nova-Holanda</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_22</Tag>
 		<English>Why does Maxixcatzin deem these people gods, who seem more like ravenous monsters thrown up by the intemperate sea to blight us, gorging themselves on gold, silver, stones and pearls; sleeping in their own clothes; and generally acting in the manner of those who would one day make cruel masters?[NEWLINE]--- Xicotencatl, Tlatoani (elder) of Tlaxcatl (almost one hundred years old), 1520</English>
 		<German>Warum hält Maxixcatzin diese Menschen für Götter, die eher wie gefräßige Ungeheuer erscheinen, die das unmäßige Meer aufgeworfen hat, um uns zu verderben, die sich an Gold, Silber, Steinen und Perlen laben, in ihren eigenen Kleidern schlafen und sich im Allgemeinen so verhalten, wie diejenigen, die eines Tages grausame Herren sein werden?[NEWLINE]--- Xicotencatl, Tlatoani (Ältester) von Tlaxcatl (fast einhundert Jahre alt), 1520</German>
+		<PortuguesePT>Por que razão Maxixcatzin considera este povo como deuses, que mais parecem monstros vorazes lançados pelo mar intemperado para nos destruir, empanturrando-se de ouro, prata, pedras e pérolas; e que dormem com as próprias roupas; e que geralmente agem como aqueles que um dia serão mestres cruéis?[NEWLINE]--- Xicotencatl, Tlatoani (ancião) de Tlaxcatl (com quase cem anos), 1520</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_23</Tag>
 		<English>The natives are generally well-set in their limbs, slender round the waist, broad across the shoulders, and have black hair and dark eyes. They are very nimble and active, well adapted to travel on foot and to drag heavy burdens. They are divided into different tribes and languages, each tribe living generally by itself, and having one of its number as a chief, though he has not much power or distinction except in their dances or in time of wars. Among some there is not the least knowledge of God, and among others very little, though they relate very strange fables concerning Him.[NEWLINE]--- Adriaen van der Donck (c.1618 - 1655), Dutch lawyer</English>
 		<German>Die Eingeborenen sind im Allgemeinen gut gebaut, schlank in der Taille und breit in den Schultern, haben schwarzes Haar und dunkle Augen. Sie sind sehr flink und aktiv und können gut zu Fuß reisen und schwere Lasten schleppen. Sie sind in verschiedene Stämme und Sprachen unterteilt, wobei jeder Stamm im Allgemeinen für sich lebt und einen Häuptling aus seinen Reihen hat, der jedoch außer bei ihren Tänzen oder in Kriegszeiten nicht viel Macht oder Ansehen genießt. Die einen wissen nicht das Geringste von Gott, die anderen nur sehr wenig, obwohl sie sehr seltsame Fabeln über ihn erzählen.[NEWLINE]--- Adriaen van der Donck (c.1618 - 1655), niederländischer Rechtsanwalt</German>
+		<PortuguesePT>Os nativos têm geralmente membros bem constituídos, cintura esbelta, ombros largos, cabelo preto e olhos escuros. São muito ágeis e ativos, bem adaptados para viajar a pé e arrastar cargas pesadas. Estão divididos em diferentes tribos e línguas, cada tribo vive geralmente por si mesma e tendo um dos seus membros como chefe, embora não tenha muito poder ou distinção, exceto nas suas danças ou em tempos de guerra. Entre alguns não há o mínimo conhecimento de Deus, e entre outros muito pouco, embora contem fábulas muito estranhas a Seu respeito.[NEWLINE]--- Adriaen van der Donck (c.1618 - 1655), advogado holandês</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_24</Tag>
 		<English>A state too expensive in itself, or by virtue of its dependencies, ultimately falls into decay; its free government is transformed into a tyranny; it disregards the principles which it should preserve, and finally degenerates into despotism. The distinguishing characteristic of small republics is stability: the character of large republics is mutability.[NEWLINE]--- Simón Bolívar, Latin American Revolutionary, "Letter from Jamaica" (Summer 1815)</English>
 		<German>Ein Staat, der an sich oder aufgrund seiner Abhängigkeiten zu teuer ist, verfällt schließlich; seine freie Regierung verwandelt sich in eine Tyrannei; er missachtet die Grundsätze, die er bewahren sollte, und entartet schließlich zur Despotie. Das Kennzeichen der kleinen Republiken ist die Stabilität, das der großen Republiken die Veränderlichkeit.[NEWLINE]--- Simón Bolívar, Lateinamerikanischer Revolutionär, "Brief aus Jamaika" (Summer 1815)</German>
+		<PortuguesePT>Um Estado demasiado dispendioso por si só, ou em virtude das suas dependências, acaba por cair em decadência; o seu governo livre é transformado numa tirania; ignora os princípios que deveria preservar e degenera finalmente em despotismo. A característica distintiva das pequenas repúblicas é a estabilidade: o carácter das grandes repúblicas é a mutabilidade.[NEWLINE]--- Simón Bolívar, Revolucionário Latino-Americano, "Carta da Jamaica" (Verão de 1815)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_25</Tag>
 		<English>Colombians! My last wish is for the happiness of the patria. If my death contributes to the end of partisanship and the consolidation of the union, I shall be lowered in peace into my grave.[NEWLINE]--- Simón Bolívar, Latin American Revolutionary, "Final proclamation to the people of Colombia" (December 8, 1830)</English>
 		<German>Kolumbianer! Mein letzter Wunsch ist das Glück des Vaterlandes. Wenn mein Tod zur Beendigung der Parteilichkeit und zur Konsolidierung der Union beiträgt, werde ich in Frieden in mein Grab gesenkt werden.[NEWLINE]--- Simón Bolívar, Lateinamerikanischer Revolutionär, "Abschlussproklamation an das kolumbianische Volk" (December 8, 1830)</German>
+		<PortuguesePT>Colombianos! O meu último desejo é a felicidade da pátria. Se a minha morte contribuir para o fim do partidarismo e a consolidação da união, serei baixado em paz para o meu túmulo.[NEWLINE]--- Simón Bolívar, Revolucionário Latino-Americano, "Proclamação final ao povo da Colômbia" (Dezembro 8, 1830 )</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_26</Tag>
 		<English>I have fulfilled the sacred promises which I made Peru; I have witnessed the assembly of its representatives; the enemy's force threatens the independence of no place that wishes to be free, and that possesses the means of being so. A numerous army, under the direction of warlike chiefs, is ready to march in a few days to put an end to the war. Nothing is left for me to do, but to offer you my sincerest thanks, and to promise, that if the liberties of the Peruvians shall ever be attacked, I shall claim the honor of accompanying them to defend their freedom like a citizen.[NEWLINE]--- José de San Martín, Latin American Revolutionary, "Resignation address to the Peruvian Congress" (September 22, 1820)</English>
 		<German>Ich habe die heiligen Versprechen erfüllt, die ich Peru gegeben habe; ich war Zeuge der Versammlung seiner Vertreter; die feindliche Macht bedroht die Unabhängigkeit keines Ortes, der frei sein will und die Mittel dazu besitzt. Ein zahlreiches Heer unter der Führung von kriegerischen Häuptlingen ist bereit, in wenigen Tagen loszumarschieren, um dem Krieg ein Ende zu setzen. Es bleibt mir nichts anderes übrig, als Ihnen meinen aufrichtigen Dank auszusprechen und zu versprechen, dass ich, wenn die Freiheiten der Peruaner jemals angegriffen werden, die Ehre haben werde, sie zu begleiten, um ihre Freiheit wie ein Bürger zu verteidigen.[NEWLINE]--- José de San Martín, Lateinamerikanischer Revolutionär, "Rücktrittsrede vor dem peruanischen Kongress" (September 22, 1820)</German>
+		<PortuguesePT>Cumpri as promessas sagradas que fiz ao Peru; Testemunhei a assembleia dos seus representantes; a força do inimigo não ameaça a independência de nenhum lugar que queira ser livre e que possua os meios para o ser. Um numeroso exército, sob a direção de chefes guerreiros, está pronto a marchar dentro de poucos dias para pôr fim à guerra. Não me resta mais nada a fazer senão oferecer-lhe os meus mais sinceros agradecimentos e prometer que, se as liberdades dos peruanos algum dia forem atacadas, reivindicarei a honra de acompanhá-los na defesa da sua liberdade como um cidadão.[NEWLINE]--- José de San Martín, Revolucionário Latino-Americano, "Discurso de renúncia ao Congresso Peruano" (22 de Setembro de 1820)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_27</Tag>
 		<English>From this moment on, Peru is free and independent by the general will of its people and by the justice of its cause that God defends. Long live the nation! Long live the freedom! Long live the independence![NEWLINE]--- "Peruvian Declaration of Independence" (July 28, 1821)</English>
 		<German>Von diesem Moment an ist Peru frei und unabhängig durch den allgemeinen Willen seines Volkes und durch die Gerechtigkeit seiner Sache, die Gott verteidigt. Es lebe die Nation! Lang lebe die Freiheit! Lang lebe die Unabhängigkeit![NEWLINE]--- "Die peruanische Unabhängigkeitserklärung" (July 28, 1821)</German>
+		<PortuguesePT>A partir deste momento o Peru é livre e independente pela vontade geral do seu povo e pela justiça da sua causa que Deus defende. Viva a nação! Viva a liberdade! Viva a independência![NEWLINE]--- "Declaração de Independência do Peru" (28 de Julho de 1821)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_28</Tag>
 		<English>The Indians were totally deprived of their freedom and were put into the harshest, fiercest, most horrible servitude and captivity which no one who has not seen it can understand. Even beasts enjoy more freedom when they are allowed to graze in the field.[NEWLINE]--- Bartolomé de Las Casas, "History of the Indies" (1561)</English>
 		<German>Die Indianer wurden vollständig ihrer Freiheit beraubt und in die härteste, grausamste und schrecklichste Knechtschaft und Gefangenschaft versetzt, die niemand verstehen kann, der sie nicht gesehen hat. Selbst Tiere genießen mehr Freiheit, wenn sie auf der Weide grasen dürfen.[NEWLINE]--- Bartolomé de Las Casas, "Geschichte der Indigenen" (1561)</German>
+		<PortuguesePT>Os índios foram totalmente privados da sua liberdade e foram colocados na mais dura, mais feroz, mais horrível servidão e cativeiro que ninguém que não tenha visto pode compreender. Até os animais gozam de mais liberdade quando podem pastar no campo.[NEWLINE]--- Bartolomeu de Las Casas, "História das Índias" (1561)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_29</Tag>
 		<English>Broken spears lie in the roads;[NEWLINE]We have torn our hair in our grief.[NEWLINE]The houses are roofless now, and their walls[NEWLINE]Are red with blood.[NEWLINE]--- Nahuatl poem (16th century)</English>
 		<German>Zerbrochene Speere liegen auf den Straßen;[NEWLINE]Wir haben uns in unserem Kummer die Haare ausgerissen.[NEWLINE]Die Häuser haben kein Dach mehr, und ihre Wände[NEWLINE]sind rot von Blut.[NEWLINE]--- Nahuatl-Gedicht (16th century)</German>
+		<PortuguesePT>Lanças partidas jazem nas estradas;[NEWLINE]Nós arrancamos os nossos cabelos na nossa dor.[NEWLINE]As casas estão agora sem telhados, e as suas paredes[NEWLINE]Estão vermelhas de sangue.[NEWLINE]--- Poema nahuatl ( século XVI)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_30</Tag>
 		<English>Who could conquer Tenochtitlán? Who could shake the foundation of heaven?[NEWLINE]--- Nahuatl poem (15th century)</English>
 		<German>Wer könnte Tenochtitlán erobern? Wer könnte das Fundament des Himmels erschüttern?[NEWLINE]--- Nahuatl-Gedicht (15. Jahrhundert)</German>
+		<PortuguesePT>Quem poderia conquistar Tenochtitlán? Quem poderia abalar os alicerces do céu?[NEWLINE]--- Poema náuatle (século XV)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_31</Tag>
 		<English>Who can doubt that gunpowder against the infidels is incense for the Lord?[NEWLINE]--- Gonzalo Fernández de Oviedo y Valdés, Spanish conquistador, "General and Natural History of the Indies" (1526)</English>
 		<German>Wer kann daran zweifeln, dass Schießpulver gegen die Ungläubigen Weihrauch für den Herrn ist?[NEWLINE]--- Gonzalo Fernández de Oviedo y Valdés, spanischer Eroberer, "Allgemeine und natürliche Geschichte der Indischen Inseln" (1526)</German>
+		<PortuguesePT>Quem pode duvidar que a pólvora contra os infiéis é incenso para o Senhor?[NEWLINE]--- Gonzalo Fernández de Oviedo y Valdés, conquistador espanhol, "História Geral e Natural das Índias" (1526)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_32</Tag>
 		<English>The Inca asked Fray Vicente who had told him so. Fray Vicente responded that the Gospel had told him, the book. Atahualpa said, "Give me the book, so that it will tell me." So he gave it to him and he took it in his hands and began to look through the pages of the book. The Inca said, "Well, why doesn't it tell me? The book doesn't even talk to me!" Speaking with great majesty, seated in his throne, the Inca Atahualpa threw the book down from his hands. Don Francisco Pizarro and Don Diego de Almagro shouted and said, "Out, knights, against these infidels who are against our Christianity, and for our Emperor and King let us have at them!"[NEWLINE]--- Felipe Guamán Poma de Ayala, "The First New Chronicle and Good Government" (1615), on the conquest of the Incan Empire</English>
 		<German>Der Inka fragte Fray Vicente, wer ihm das gesagt habe. Fray Vicente antwortete, das Evangelium habe es ihm gesagt, das Buch. Atahualpa sagte: "Gib mir das Buch, damit es mir etwas sagt." Er gab es ihm, nahm es in die Hand und begann in den Seiten des Buches zu blättern. Der Inka sagte: "Nun, warum sagt es mir nichts? Das Buch spricht nicht einmal zu mir!" Mit einer majestätischen Rede warf der Inka Atahualpa, der auf seinem Thron saß, das Buch aus seinen Händen. Don Francisco Pizarro und Don Diego de Almagro riefen: "Raus, Ritter, gegen diese Ungläubigen, die gegen unser Christentum sind, und für unseren Kaiser und König, lasst uns über sie herfallen!"[NEWLINE]--- Felipe Guamán Poma de Ayala, "Die erste neue Chronik und gute Regierung" (1615), über die Eroberung des Inkareiches</German>
+		<PortuguesePT>O Inca perguntou a Frei Vicente quem lhe tinha dito isso. Frei Vicente respondeu que o Evangelho, o Livro, lhe tinha contado. Atahualpa disse: “Dá-me o Livro, para que ele mo conte”. Então deu-lho e ele pegou-lhe nas mãos e começou a folhear as páginas do livro. O Inca disse: "Bem, porque é que ele não me conta? O livro nem sequer fala comigo!". Falando com grande majestade, sentado no seu trono, o Inca Atahualpa atirou-lhe o livro para as mãos. Don Francisco Pizarro e Don Diego de Almagro gritaram e disseram: "Fora, cavaleiros, contra estes infiéis que são contra o nosso cristianismo, e pelo nosso imperador e rei, vamos atacá-los!"[NEWLINE]--- Felipe Guamán Poma de Ayala , "A Primeira Nova Crónica e o Bom Governo" (1615), sobre a conquista do Império Inca</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_33</Tag>
 		<English>We never bring lawsuits against one another. And why do we never bring lawsuits? Well, because we made a decision neither to accept or make use of money. And why do we refuse to allow money into our communities? The reason is this: we are determined not to have laws – because, since the world was a world, our ancestors have been able to live contentedly without them.[NEWLINE]--- Kondiaronk, Wendat Chief, 1703</English>
 		<German>Wir verklagen uns nie gegenseitig. Und warum verklagen wir uns nie? Nun, weil wir eine Entscheidung getroffen haben, weder Geld anzunehmen noch es zu nutzen. Und warum weigern wir uns, Geld in unsere Gemeinschaften zu lassen? Der Grund ist folgender: Wir sind entschlossen, keine Gesetze zu haben - weil unsere Vorfahren, seit es die Welt gibt, zufrieden ohne sie leben konnten.[NEWLINE]--- Kondiaronk, Wendat-Häuptling, 1703</German>
+		<PortuguesePT>Nunca movemos processos uns contra os outros. E porque nunca instauramos ações judiciais? Bem, porque tomámos a decisão de não aceitar nem usar dinheiro. E porque nos recusamos a permitir a entrada de dinheiro nas nossas comunidades? A razão é esta: estamos determinados a não ter leis – porque, desde que o mundo é mundo, os nossos antepassados puderam viver contentes sem elas.[NEWLINE]--- Kondiaronk, Wendat Chief, 1703</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_34</Tag>
 		<English>All Christians have a duty toward missions so long as any heathen exists. Christians will be called severely to account if they content themselves merely in carrying on in trading with the heathen.[NEWLINE]--- Hans Egede (1686 - 1758), Danish Lutheran Missionary</English>
 		<German>Alle Christen haben die Pflicht, zu missionieren, solange es noch Heiden gibt. Christen werden streng zur Rechenschaft gezogen werden, wenn sie sich damit begnügen, mit den Heiden Handel zu treiben.[NEWLINE]--- Hans Egede (1686 - 1758), dänischer lutherischer Missionar</German>
+		<PortuguesePT>Todos os cristãos têm um dever para com as missões enquanto existirem pagãos. Os cristãos serão severamente responsabilizados se se contentarem apenas em negociar com os pagãos.[NEWLINE]--- Hans Egede (1686 - 1758), missionário luterano dinamarquês</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_35</Tag>
 		<English>These natives are a very good people; for when they saw that I would not remain, they supposed that I was afraid of their bows; and, taking their arrows, they broke them in pieces and threw them into the fire.[NEWLINE]--- Henry Hudson, English explorer, on the Algonquian natives of the Hudson River (September 4, 1609)</English>
 		<German>Diese Eingeborenen sind ein sehr gutes Volk; denn als sie sahen, dass ich nicht bleiben wollte, meinten sie, ich hätte Angst vor ihren Bögen; und indem sie ihre Pfeile nahmen, zerbrachen sie sie in Stücke und warfen sie ins Feuer.[NEWLINE]--- Henry Hudson, Englisher Entdecker, über die Algonquian-Eingeborenen am Hudson River (4. September 1609)</German>
+		<PortuguesePT>Estes nativos são um povo muito bom; pois quando viram que eu não permaneceria, pensaram que eu tinha medo dos seus arcos; e, pegando nas flechas, partiram-nas em pedaços e atiraram-nas ao fogo.[NEWLINE]--- Henry Hudson, explorador inglês, sobre os nativos algonquinos do rio Hudson (4 de Setembro de 1609)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_36</Tag>
 		<English>At this time, they (the Muisca) stripped the heir to his skin, and anointed him with a sticky earth on which they placed gold dust so that he was completely covered with this metal. They placed him on the raft ... and at his feet they placed a great heap of gold and emeralds for him to offer to his God. In the raft with him went four principal subject chiefs, decked in plumes, crowns, bracelets, pendants and ear rings all of gold. They, too, were naked, and each one carried his offering ... when the raft reached the centre of the lagoon, they raised a banner as a signal for silence.[NEWLINE]--- Juan Rodríguez Freyle, "El Carnero" (1638), on the Muisca natives</English>
 		<German> Zu dieser Zeit zogen sie (die Muisca) den Erben bis auf die Haut aus und salbten ihn mit einer klebrigen Erde, auf die sie Goldstaub legten, so dass er ganz mit diesem Metall bedeckt war. Sie setzten ihn auf das Floß ... und zu seinen Füßen legten sie einen großen Haufen Gold und Smaragde, die er seinem Gott opfern sollte. Auf dem Floß befanden sich auch vier Oberhäuptlinge, die mit Federn, Kronen, Armbändern, Anhängern und Ohrringen aus Gold geschmückt waren. Auch sie waren nackt, und jeder trug seine Opfergabe ... als das Floß die Mitte der Lagune erreichte, hissten sie ein Banner als Zeichen der Ruhe.[NEWLINE]--- Juan Rodríguez Freyle, "El Carnero" (1638), über die Muisca-Eingeborenen</German>
+		<PortuguesePT>Nesta altura, eles (os Muisca) despiram o herdeiro até à pele, e ungiram-no com uma terra pegajosa sobre a qual colocaram pó de ouro para que ficasse completamente coberto com este metal. Colocaram-no na jangada... e aos seus pés colocaram uma grande pilha de ouro e esmeraldas para ele oferecer ao seu Deus. Na jangada com ele iam quatro chefes súbditos principais, enfeitados com plumas, coroas, pulseiras, pendentes e brincos, todos de ouro. Também estavam nus, e cada um levava a sua oferenda... quando a jangada chegou ao centro da lagoa, ergueram uma bandeira em sinal de silêncio.[NEWLINE]--- Juan Rodríguez Freyle, "El Carnero" (1638), sobre os indígenas Muisca</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_37</Tag>
 		<English>The Great Montezuma was about forty years old, of good height and well proportioned, slender, and spare of flesh, not very swarthy, but of the natural colour and shade of an Indian. He did not wear his hair long, but so as just to cover his ears, his scanty black beard was well shaped and thin. His face was somewhat long, but cheerful, and he had good eyes and showed in his appearance and manner both tenderness and, when necessary, gravity. He was very neat and clean and bathed once every day in the afternoon.[NEWLINE]--- Bernal Díaz del Castillo, "The Discovery and Conquest of Mexico" (1568)</English>
 		<German>Der Große Montezuma war etwa vierzig Jahre alt, von guter Größe und wohlproportionierter Gestalt, schlank und sparsam im Körperbau, nicht sehr dunkelhäutig, sondern von der natürlichen Farbe und Schattierung eines Indianers. Er trug sein Haar nicht lang, sondern so, dass es gerade seine Ohren bedeckte, und sein spärlicher schwarzer Bart war gut geformt und dünn. Sein Gesicht war etwas lang, aber fröhlich, er hatte gute Augen und zeigte in seiner Erscheinung und seinem Verhalten sowohl Zärtlichkeit als auch, wenn nötig, Ernsthaftigkeit. Er war sehr ordentlich und sauber und badete jeden Tag einmal am Nachmittag.[NEWLINE]--- Bernal Díaz del Castillo, "Die Entdeckung und Eroberung Mexikos" (1568)</German>
+		<PortuguesePT>O Grande Montezuma tinha cerca de quarenta anos, era de boa altura e bem proporcionado, esguio e de carne magra, não muito moreno, mas com a cor e tonalidade naturais de um índio. Não usava cabelo comprido, mas apenas para cobrir as orelhas, a sua rala barba preta era bem formada e rala. O seu rosto era algo comprido, mas alegre, e tinha bons olhos e mostrava na sua aparência e nos seus modos tanto ternura como, quando necessário, seriedade. Estava muito arranjado e limpo e tomava banho uma vez por dia, à tarde.[NEWLINE]--- Bernal Díaz del Castillo, "A Descoberta e Conquista do México" (1568)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_38</Tag>
 		<English>Vigorous measures at present would soon put an end to this rebellion. The deluded people are made to believe that they are invincible... When this army is ordered to act against them, they will soon be convinced that they are very insignificant when opposed to regular troops.[NEWLINE]--- Thomas Pitcairn, Royal Army Commander, in a letter to John Montagu, Lord Sandwich, the British Secretary of State (February 14, 1775)</English>
 		<German>Einschneidende Maßnahmen würden dieser Rebellion bald ein Ende setzen. Dem verblendeten Volk wird vorgegaukelt, dass es unbesiegbar ist... Wenn dieser Armee befohlen wird, gegen sie vorzugehen, werden sie bald davon überzeugt sein, dass sie gegenüber regulären Truppen sehr unbedeutend sind.[NEWLINE]--- Thomas Pitcairn, Königlicher Armeekommandant, in einem Brief an John Montagu, Lord Sandwich, den britischen Außenminister (14. Februar 1775)</German>
+		<PortuguesePT>As medidas vigorosas atuais poderiam por fim a esta rebelião rapidamente. As pessoas iludidas são levadas a acreditar que são invencíveis... Quando este exército receber ordens para agir contra elas, depressa se convencerão de que são demasiado insignificantes quando se opõem às tropas regulares.[NEWLINE]--- Thomas Pitcairn, Royal Comandante do Exército, em carta a John Montagu, Lord Sandwich, Secretário de Estado Britânico (14 de Fevereiro de 1775)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_39</Tag>
 		<English>By the rude bridge that arched the flood,[NEWLINE]Their flag to April's breeze unfurled,[NEWLINE]Here once the embattled farmers stood,[NEWLINE]And fired the shot heard round the world.[NEWLINE]--- Ralph Waldo Emerson, "Concord Hymn" (1837), commemorating the Battle of Lexington and Concord (April 19, 1775)</English>
 		<German>Bei der groben Brücke, die die Flut wölbte,[NEWLINE]entfaltete sich ihre Fahne in der Brise des Aprils,[NEWLINE]hier standen einst die umkämpften Bauern,[NEWLINE]und feuerten den Schuss ab, den die ganze Welt hörte.[NEWLINE]--- Ralph Waldo Emerson, "Concord Hymn" (1837), zum Gedenken an die Schlacht von Lexington und Concord (19. April 1775)</German>
+		<PortuguesePT>Perto da ponte rude que arqueava a inundação,[NEWLINE]A sua bandeira desfraldada pela brisa de Abril,[NEWLINE]Aqui uma vez os agricultores em apuros estavam,[NEWLINE]E dispararam o tiro ouvido em todo o mundo.[NEWLINE]--- Ralph Waldo Emerson, "Concord Hymn" (1837), comemorativo da Batalha de Lexington e Concord (19 de Abril de 1775)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_40</Tag>
 		<English>Come out, you old rat. Surrender in the name of the Great Jehovah and the Continental Congress.[NEWLINE]--- Ethan Allen, leader of the Green Mountain Boys, demanding the surrender of the British commander of Fort Ticonderoga (May 10, 1775)</English>
 		<German>Komm raus, du alte Ratte. Ergib dich im Namen des großen Jehova und des Kontinentalkongresses.[NEWLINE]--- Ethan Allen, Anführer der Green Mountain Boys, fordert die Kapitulation des britischen Kommandanten von Fort Ticonderoga (10. Mai 1775)</German>
+		<PortuguesePT>Sai daí, sua velha ratazana. Rendam-se em nome do Grande Jeová e do Congresso Continental.[NEWLINE]--- Ethan Allen, líder dos Green Mountain Boys, exigindo a rendição do comandante britânico do Forte Ticonderoga (10 de Maio de 1775)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_41</Tag>
 		<English>We must all hang together now, or assuredly we shall hang separately.[NEWLINE]--- Benjamin Franklin, after signing the "Declaration of Independence" (July 4, 1776)</English>
 		<German>Wir müssen jetzt alle zusammen hängen, oder wir werden mit Sicherheit getrennt hängen.[NEWLINE]--- Benjamin Franklin, nach der Unterzeichnung der "Unabhängigkeitserklärung" (4. Juli 1776)</German>
+		<PortuguesePT>Devemos permanecer todos juntos agora, ou certamente, seremos enforcados separadamente.[NEWLINE]--- Benjamin Franklin, após assinar a "Declaração de Independência" (4 de Julho de 1776)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_42</Tag>
 		<English>No man shall be compelled to frequent or support any religious worship, place, or ministry... nor shall otherwise suffer on account of his religious opinions or belief, but that all men shall be free to profess, and by argument to maintain, their opinion on matters of religion.[NEWLINE]--- Thomas Jefferson, "Virginia Bill on Religious Freedom" (1776)</English>
 		<German>Niemand soll gezwungen werden, irgendeinen religiösen Gottesdienst, Ort oder Dienst zu besuchen oder zu unterstützen ... noch soll er sonst wegen seiner religiösen Ansichten oder seines Glaubens leiden, sondern alle Menschen sollen frei sein, sich zu ihrer Meinung in Religionsangelegenheiten zu bekennen und sie durch Argumente zu vertreten.[NEWLINE]--- Thomas Jefferson, "Virginia Bill on Religious Freedom" (1776)</German>
+		<PortuguesePT>Nenhum homem deve ser obrigado a frequentar ou a apoiar qualquer culto, lugar ou ministério religioso... nem deve sofrer de qualquer forma, por causa das suas opiniões ou crenças religiosas, mas todos os homens devem ser livres de professar e de argumentar para manter a sua opinião sobre questões religiosas.[NEWLINE]--- Thomas Jefferson, "Virginia Bill on Religious Freedom" (1776)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_43</Tag>
 		<English>When once these rebels have felt a smart blow, they will submit.[NEWLINE]--- Comment of a Hessian mercenary, before going into battle against American rebels (1776)</English>
 		<German>Wenn diese Rebellen einmal einen klugen Schlag gespürt haben, werden sie sich unterwerfen.[NEWLINE]--- Kommentar eines hessischen Söldners, bevor er in die Schlacht gegen amerikanische Rebellen zieht (1776)</German>	
+		<PortuguesePT>Quando estes rebeldes sentirem um inteligente golpe, submeter-se-ão.[NEWLINE]--- Comentário de um mercenário hessiano, antes de entrar em batalha contra os rebeldes americanos (1776)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_44</Tag>
 		<English>The unfortunate soldiers were in want of everything; they had neither coats, nor hats, nor shirts, nor shoes; their feet and their legs froze till they grew black and it was often necessary to amputate them... The army frequently passed whole days without food.[NEWLINE]--- Gilbert du Motier, Marquis de La Fayette, on the Continental Army at Valley Forge, Pennsylvania (1777)</English>
 		<German>Den unglücklichen Soldaten fehlte es an allem; sie hatten weder Mäntel, noch Hüte, noch Hemden, noch Schuhe; ihre Füße und Beine erfroren, bis sie schwarz wurden, und es war oft notwendig, sie zu amputieren... Die Armee verbrachte oft ganze Tage ohne Essen.[NEWLINE]--- Gilbert du Motier, Marquis de La Fayette, über die Kontinentalarmee in Valley Forge, Pennsylvania (1777)</German>
+		<PortuguesePT>Os soldados, infelizes, precisavam de tudo; não tinham casacos, nem chapéus, nem camisas, nem sapatos; os seus pés e pernas congelavam até ficarem negros e era muitas vezes necessário amputá-los... Frequentemente, o exército passava dias inteiros sem comer.[NEWLINE]--- Gilbert du Motier, Marquês de La Fayette, no Exército Continental em Valley Forge, Pensilvânia (1777)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_45</Tag>
 		<English>Poor food - hard lodging - cold weather - fatigue - nasty clothes - nasty cookery... There comes a bowl of beef soup, full of burnt leaves and dirt![NEWLINE]--- Albigence Waldo, Continental Army surgeon, writing in his diary on conditions of the army at Valley Forge (1777)</English>
 		<German>Schlechtes Essen - harte Unterkunft - kaltes Wetter - Müdigkeit - schlechte Kleidung - schlechte Küche... Da kommt eine Schüssel Rindersuppe, voll von verbrannten Blättern und Dreck![NEWLINE]--- Albigence Waldo, Chirurg der Kontinentalarmee, schreibt in seinem Tagebuch über die Bedingungen der Armee in Valley Forge (1777)</German>
+		<PortuguesePT>Má comida – alojamento difícil – tempo frio – cansaço – roupas desagradáveis – cozinha desagradável... Vem uma tigela de sopa de carne, cheia de folhas queimadas e sujidade![NEWLINE]--- Albigence Waldo, cirurgião do Exército Continental, escrevendo no seu diário sobre as condições do exército em Valley Forge (1777)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_46</Tag>
 		<English>There was as much sorrow as joy... We had lived together as a family of brothers for several years, setting aside some little family squabbles, like most other families, had shared with each other the hardships, dangers, and sufferings incident to a soldier's life, had sympathized with each other in trouble and in sickness; had assisted in bearing each other's burdens... And now we were to be... parted forever.[NEWLINE]--- Joseph Plumb Martin, Continental Army soldier, in his memoir "Private Yankee Doodle" (1830)</English>
 		<German>Es gab ebenso viel Kummer wie Freude... Wir hatten mehrere Jahre lang als eine Familie von Brüdern zusammengelebt, hatten einige kleine Familienstreitigkeiten beiseite gelassen, wie die meisten anderen Familien, hatten miteinander die Härten, Gefahren und Leiden geteilt, die ein Soldatenleben mit sich bringt, hatten einander in Schwierigkeiten und in Krankheit beigestanden; hatten geholfen, die Lasten des anderen zu tragen ... Und nun sollten wir... für immer getrennt werden.[NEWLINE]--- Joseph Plumb Martin, Soldat der Kontinentalarmee, in seinen Memoiren "Private Yankee Doodle" (1830)</German>
+		<PortuguesePT>Havia tanta tristeza como alegria... Vivíamos juntos como uma família de irmãos durante vários anos, deixando de lado algumas pequenas brigas familiares, como a maioria das outras famílias; tínhamos partilhado entre nós as dificuldades, os perigos e os sofrimentos inerentes à vida de um soldado; simpatizaram uns com os outros nos problemas e na doença; ajudámos a carregar os fardos uns dos outros... E agora estávamos... separados para sempre.[NEWLINE]--- Joseph Plumb Martin, soldado do Exército Continental, no seu livro de memórias "Private Yankee Doodle" (1830)</PortuguesePT >
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_47</Tag>
 		<English>Here is the God the Spaniards worship. For these they fight and kill; for these they persecute us and that is why we have to throw them into the sea... They tell us, these tyrants, that they adore a God of peace and equality, and yet they usurp our land and make us their slaves. They speak to us of an immortal soul and of their eternal rewards and punishments, and yet they rob our belongings, seduce our women, violate our daughters. Incapable of matching us in valor, these cowards cover themselves with iron that our weapons cannot break.[NEWLINE]--- Hatuey, Arawak cacique, to the Carib natives of Cuba, 1511</English>
 		<German>Hier ist der Gott, den die Spanier anbeten. Dafür kämpfen und töten sie; dafür verfolgen sie uns, und deshalb müssen wir sie ins Meer werfen... Sie sagen uns, diese Tyrannen, dass sie einen Gott des Friedens und der Gleichheit anbeten, und doch reißen sie unser Land an sich und machen uns zu ihren Sklaven. Sie sprechen zu uns von einer unsterblichen Seele und von ihrer ewigen Belohnung und Bestrafung, und doch rauben sie unser Hab und Gut, verführen unsere Frauen, schänden unsere Töchter. Unfähig, es mit uns aufzunehmen, überziehen sich diese Feiglinge mit Eisen, das unsere Waffen nicht brechen können.[NEWLINE]--- Hatuey, Arawak-Kacike, an die Kariben auf Kuba, 1511</German>
+		<PortuguesePT>Eis o Deus que os espanhóis adoram. Por ele lutam e matam; por ele nos perseguem e por isso temos de os lançar ao mar... Dizem-nos, estes tiranos, que adoram um Deus de paz e de igualdade, e ainda assim usurpam a nossa terra e fazem de nós os seus escravos. Falam-nos de uma alma imortal e das suas recompensas e castigos eternos, e ainda assim, roubam os nossos pertences, seduzem as nossas mulheres, violam as nossas filhas. Incapazes de nos igualar em valor, estes cobardes cobrem-se com o ferro que as nossas armas não conseguem quebrar.[NEWLINE]--- Hatuey, cacique Aruaque, aos nativos caribenhos de Cuba, 1511</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_48</Tag>
 		<English>Hatuey, thinking a little, asked the religious man if Spaniards went to heaven. The religious man answered yes... The chief then said without further thought that he did not want to go there but to hell so as not to be where they were and where he would not see such cruel people. This is the name and honor that God and our faith have earned.[NEWLINE]February 2, 1512[NEWLINE]--- Bartolomé de Las Casas, "Brief account of the destruction of the Indies" (1552), on the execution of the Arawak cacique Hatuey</English>
 		<German>Hatuey, der ein wenig nachdachte, fragte den religiösen Mann, ob die Spanier in den Himmel kämen. Der religiöse Mann antwortete mit Ja... Daraufhin sagte der Häuptling, ohne weiter darüber nachzudenken, dass er nicht dorthin wolle, sondern in die Hölle, um nicht dort zu sein, wo sie waren, und wo er solche grausamen Menschen nicht sehen würde. Dies ist der Name und die Ehre, die Gott und unser Glaube verdient haben.[NEWLINE]2. Februar 1512[NEWLINE]--- Bartolomé de Las Casas, "Kurzer Bericht über die Zerstörung der Indias" (1552), über die Hinrichtung des Arawak-Kakis Hatuey</German>
+		<PortuguesePT>Hatuey, pensando um pouco, perguntou ao religioso se os espanhóis iam para o céu. O religioso respondeu que sim... O chefe disse, então, sem pensar mais, que não queria ir para lá, mas sim para o inferno, para não estar onde eles estavam e onde não veria gente tão cruel. Este é o nome e a honra que Deus e a nossa fé conquistaram no dia 2 de Fevereiro de 1512[NEWLINE]--- Bartolomeu de Las Casas, "Breve relato da destruição das Índias" (1552), sobre a execução do chefe Aruaque Hatuey </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_49</Tag>
 		<English>And never have the Indians in all the Indies committed any act against the Spanish Christians, until those Christians have first and many times committed countless cruel aggressions against them or against neighbouring nations.[NEWLINE]--- Bartolomé de Las Casas, "Brief account of the destruction of the Indies" (1552)</English>
 		<German>Und niemals haben die Indianer in ganz Indien irgendeine Tat gegen die spanischen Christen begangen, bevor diese Christen nicht zuerst und viele Male zahllose grausame Aggressionen gegen sie oder gegen benachbarte Nationen begangen haben.[NEWLINE]--- Bartolomé de Las Casas, "Kurzer Bericht über die Zerstörung der Indias" (1552)</German>
+		<PortuguesePT>E nunca os índios de todas as Índias cometeram qualquer ato contra os cristãos espanhóis, até que esses cristãos tenham primeiro e muitas vezes cometido incontáveis agressões cruéis contra eles ou contra nações vizinhas.[NEWLINE]--- Bartolomeu de Las Casas, “Breve relato da destruição das Índias” (1552)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_50</Tag>
 		<English>Their reason for killing and destroying such an infinite number of souls is that the Christians have an ultimate aim, which is to acquire gold, and to swell themselves with riches in a very brief time and thus rise to a high estate disproportionate to their merits.[NEWLINE]--- Bartolomé de Las Casas, "Brief account of the destruction of the Indies" (1552)</English>
 		<German>Ihr Grund für das Töten und Vernichten einer so unendlichen Anzahl von Seelen ist, dass die Christen ein Endziel haben, nämlich Gold zu erwerben und sich in kurzer Zeit zu bereichern und so zu einem hohen Stand aufzusteigen, der in keinem Verhältnis zu ihren Verdiensten steht.[NEWLINE]--- Bartolomé de Las Casas, "Kurzer Bericht über die Zerstörung der Indias" (1552)</German>
+		<PortuguesePT>A razão para matarem e destruírem um número tão infinito de almas é que os cristãos têm um objetivo último, que é adquirir ouro, e encher-se de riquezas num tempo muito breve e assim ascender a uma posição elevada, desproporcional aos seus méritos.[NEWLINE]--- Bartolomeu de Las Casas, "Breve relato da destruição das Índias" (1552)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_51</Tag>
 		<English>We can estimate very surely and truthfully that in the forty years that have passed, with the infernal actions of the Christians, there have been unjustly slain more than twelve million men, women, and children. In truth, I believe without trying to deceive myself that the number of the slain is more like fifteen million.[NEWLINE]--- Bartolomé de Las Casas, "Brief account of the destruction of the Indies" (1552)</English>
 		<German>Wir können sehr sicher und wahrheitsgemäß schätzen, dass in den vierzig Jahren, die durch die höllischen Aktionen der Christen vergangen sind, mehr als zwölf Millionen Männer, Frauen und Kinder zu Unrecht getötet wurden. In Wahrheit glaube ich, ohne mir etwas vorzumachen, dass die Zahl der Ermordeten eher bei fünfzehn Millionen liegt.[NEWLINE]--- Bartolomé de Las Casas, "Kurzer Bericht über die Zerstörung der Indischen Inseln" (1552)</German>
+		<PortuguesePT>Podemos estimar com muita segurança e verdade que nos quarenta anos que passaram, com as ações infernais dos cristãos, foram assassinados injustamente mais de doze milhões de homens, mulheres e crianças. Na verdade, creio, sem me tentar enganar, que o número de mortos ronda os quinze milhões.[NEWLINE]--- Bartolomeu de Las Casas, "Breve relato da destruição das Índias" (1552)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_52</Tag>
 		<English>Compare then the blessings enjoyed by Spaniards of prudence, genius, magnanimity, temperance, humanity, and religion with those of the little men [the Indians] in whom you will scarcely find even vestiges of humanity. ... How can we doubt that these people - so uncivilized, so barbaric, contaminated with so many impieties and obscenities - have been justly conquered?[NEWLINE]--- Juan Ginés de Sepúlveda, to Bartolomé de Las Casas, at the Valladolid debate (1550-1551)</English>
 		<German>Vergleicht also die Segnungen, derer sich die Spanier mit Klugheit, Genialität, Großmut, Mäßigkeit, Menschlichkeit und Religion erfreuen, mit denen der kleinen Menschen [der Indianer], bei denen ihr kaum Spuren von Menschlichkeit finden werdet. ... Wie können wir daran zweifeln, dass dieses Volk - so unzivilisiert, so barbarisch, mit so vielen Untugenden und Obszönitäten verunreinigt - zu Recht erobert worden ist?[NEWLINE]--- Juan Ginés de Sepúlveda, an Bartolomé de Las Casas, bei der Debatte in Valladolid (1550-1551)</German>
+		<PortuguesePT>Compare-se então as bênçãos de que gozam os espanhóis de prudência, génio, magnanimidade, temperança, humanidade e religião com as dos homenzinhos [os índios] nos quais dificilmente encontraremos vestígios de humanidade... Como podemos duvidar que estas pessoas – tão incivilizadas, tão bárbaras, contaminadas com tantas impiedades e obscenidades – foram conquistadas com justiça?[NEWLINE]--- Juan Ginés de Sepúlveda, para Bartolomeu de Las Casas, em Valladolid debate (1550 -1551)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_53</Tag>
 		<English>The Russians went to the settlement and carried out a terrible blood bath. Only a few people were able to flee to Angyahtalek in baidarkas; 300 Koniags were shot by the Russians. This happened in April. When our people revisited the place in the summer the stench of the corpses lying on the shore polluted the air so badly that none could stay there, and since then the island has been uninhabited. After this every chief had to surrender his children as hostages; I was saved only by my father's begging and many sea otter pelts.[NEWLINE]--- Arsenti Aminak, Alutiiq native, on the 1784 massacre of thousands of Alutiiq by Russian fur traders at Ala'uq</English>
 		<German>Die Russen gingen in die Siedlung und richteten ein schreckliches Blutbad an. Nur wenige Menschen konnten nach Angyahtalek in Baidarkas fliehen; 300 Koniags wurden von den Russen erschossen. Dies geschah im April. Als unsere Leute den Ort im Sommer wieder besuchten, verpestete der Gestank der am Ufer liegenden Leichen die Luft so sehr, dass sich niemand dort aufhalten konnte, und seitdem ist die Insel unbewohnt. Danach musste jeder Häuptling seine Kinder als Geiseln ausliefern; ich wurde nur durch das Betteln meines Vaters und viele Seeotterfelle gerettet.[NEWLINE]--- Arsenti Aminak, Alutiiq-Eingeborener, über das Massaker von 1784 an Tausenden von Alutiiq durch russische Pelzhändler in Ala'uq</German>
+		<PortuguesePT>Os russos foram ao acampamento e fizeram um terrível banho de sangue. Apenas algumas pessoas conseguiram fugir para Angyahtalek em Baidarkas; 300 Koniags foram baleados pelos russos. Isso aconteceu em Abril. Quando o nosso povo revisitou o local no verão, o fedor dos cadáveres caídos na costa poluiu tanto o ar que ninguém conseguiu ficar ali, e desde então, a ilha está desabitada. Depois disso, cada chefe teve de entregar os seus filhos como reféns. Fui salvo apenas pela mendicidade do meu pai e por muitas peles de lontra marinha.[NEWLINE]--- Arsenti Aminak, natural de Alutiiq, sobre o massacre de milhares de Alutiiq em 1784 por comerciantes de peles russos em Ala'uq</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_54</Tag>
 		<English>The time is near at hand which must determine whether Americans are to be free men or slaves.[NEWLINE]--- George Washington (1732 - 1799), Commander-in-Chief of the Continental Army and first President of the United States</English>
 		<German>Die Zeit ist nahe, in der sich entscheiden muss, ob die Amerikaner freie Menschen oder Sklaven sein werden.[NEWLINE]--- George Washington (1732 - 1799), Oberbefehlshaber der Kontinentalarmee und erster Präsident der Vereinigten Staaten</German>
 		<Russian>Пришло время, которое определит, будут ли американцы свободными людьми или рабами.[NEWLINE]--- Джордж Вашингтон (1732 - 1799), главнокомандующий Континентальной армией и первый президент Соединенных Штатов</Russian>
+		<PortuguesePT>Está próximo o tempo que deverá determinar se os americanos serão homens livres ou escravos.[NEWLINE]--- George Washington (1732 - 1799), Comandante-Chefe do Exército Continental e primeiro Presidente do Exército Continental Estados Unidos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_QUOTE_55</Tag>
 		<English>To secure all rights of independent sovereignty to each and yet provide for the interest and safety for all -- individuals entering into society must give up a share of liberty to preserve the rest.[NEWLINE]--- 1787 letter from George Washington (1732 - 1799), asking that the Constitution be ratified</English>
 		<German>Um jedem alle Rechte der unabhängigen Souveränität zu sichern und dennoch für das Interesse und die Sicherheit aller zu sorgen, müssen die Individuen, die in die Gesellschaft eintreten, einen Teil der Freiheit aufgeben, um den Rest zu bewahren.[NEWLINE]--- Brief von George Washington (1732 - 1799) aus dem Jahr 1787, in dem er darum bittet, die Verfassung zu ratifizieren</German>
 		<Russian>Чтобы обеспечить все права независимого суверенитета для каждого и в то же время обеспечить интересы и безопасность для всех, индивидуумы, вступающие в общество, должны отказаться от части свободы, чтобы сохранить остальное.[NEWLINE]--- Письмо Джорджа Вашингтона (1732 - 1799) 1787 года с просьбой ратифицировать Конституцию</Russian>
+		<PortuguesePT>Para garantir todos os direitos de soberania independente a cada um e ainda assim velar pelo interesse e pela segurança de todos, os indivíduos que integram a sociedade devem abdicar de uma parte da sua liberdade para se preservar o resto. [NEWLINE]--- Carta de 1787 de George Washington (1732 - 1799), solicitando que a Constituição fosse ratificada</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_1</Tag>
 		<English>They do not bear arms, and do not know them, for I showed them a sword, they took it by the edge and cut themselves out of ignorance.[NEWLINE]--- Christopher Columbus, about Arawak Indians in the Bahamas (October 13, 1492)</English>
 		<French>They do not bear arms, and do not know them, for I showed them a sword, they took it by the edge and cut themselves out of ignorance.[NEWLINE]--- Christopher Columbus, about Arawak Indians in the Bahamas</French>
 		<German>Sie tragen keine Waffen und kennen sie nicht, denn ich zeigte ihnen ein Schwert, sie nahmen es an der Schneide und schnitten sich aus Unwissenheit.[NEWLINE]--- Christoph Kolumbus, über Arawak-Indianer auf den Bahamas (13. Oktober 1492)</German>
+		<PortuguesePT>Não usam armas e não as conhecem, porque lhes mostrei uma espada, pegaram-lhe pelo fio e cortaram-se por ignorância.[NEWLINE]--- Cristóvão Colombo, sobre os índios Aruaque nas Bahamas (13 de Outubro de 1492)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_2</Tag>
@@ -580,6 +686,7 @@ Viel Spass![NEWLINE]
 		<German>Wir fanden bei den Indios eine große Zahl von Büchern mit fremden Buchstaben, und weil sie nichts enthielten, was von Aberglauben und den Täuschungen des Teufels frei wäre, verbrannten wir sie alle.[NEWLINE]--- Diego de Landa Calderón, spanischer Missionar und Bischof in Yucatán</German>
 		<Italian>Per conquistare un insediamento o un gruppo di unità non combattenti devi sconfiggere tutte le unità combattenti presenti, più una di quelle non combattenti. Dopodiché i rimanenti coloni saranno tutti tuoi!</Italian>
 		<Spanish>Para capturar un asentamiento y un apilamiento de unidades no combatientes, tendréis que derrotar a todas las unidades de combate presentes y a una de las civiles. Tras ello, los Colonos restantes serán vuestros.</Spanish>
+		<PortuguesePT>Encontrámos um grande número de livros com estas personagens e, como não continham nada que não pudesse ser visto como superstição e mentiras do Diabo, queimámo-los todos. Algo que eles (os Maias) lamentaram tremendamente e que lhes causou muita aflição .[NEWLINE]--- Diego de Landa Calderón, bispo espanhol de Yucatán</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_3</Tag>
@@ -588,6 +695,7 @@ Viel Spass![NEWLINE]
 		<German>Wir sind unbewaffnet und bereit, euch zu geben, was ihr wollt, wenn ihr freundlich auftretet.[NEWLINE]--- Häuptling Powhatan in einer Botschaft an John Smith, Gründer von Jamestown</German>
 		<Italian>Per assegnare a un colono in un insediamento una professione, [clicca due volte] sul colono nella schermata dell'insediamento.</Italian>
 		<Spanish>Para asignar una profesión a un Colono del asentamiento, haced doble clic en él en la pantalla del asentamiento.</Spanish>
+		<PortuguesePT>Para nos libertar deste medo, deixem a bordo as vossas armas, pois aqui são desnecessárias. Todos são amigos, e para sempre Powhatans.[NEWLINE]--- Chefe Powhatan ao Capitão John Smith</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_4</Tag>
@@ -596,6 +704,7 @@ Viel Spass![NEWLINE]
 		<German>Es war ein schrecklicher Anblick, die Pequot im Feuer brennen und das Blut hervorquellen zu sehen, und der Gestank war fürchterlich. Aber die Engländer sandten ihre Gebete zu Gott, der ihnen ihre Feinde in die Hände gespielt hatte.[NEWLINE]--- William Bradford, Augenzeuge von John Masons Überfall auf ein Pequot-Dorf</German>
 		<Italian>L'argento non va lavorato, quindi può essere venduto fin da subito a un prezzo molto alto. Può essere estratto solo dalle montagne, o dalle caselle con la risorsa argento.</Italian>
 		<Spanish>La Plata no tiene que procesarse, por lo que se puede vender de inmediato a un buen precio. La Plata solo puede extraerse de picos o de casillas con el recurso de Plata.</Spanish>
+		<PortuguesePT>Foi uma visão terrível vê-los assim a fritar no fogo, e as torrentes de sangue extinguindo-os; e era horrível o fedor dos que os condenaram; mas a vitória pareceu um doce sacrifício, e eles entregaram as suas orações a Deus, que tanto bem maravilhoso tinha feito por eles, para assim encerrar o seu inimigo nas suas mãos e dar-lhes uma vitória tão rápida sobre um inimigo tão orgulhoso e insultuoso. --- William Bradford sobre o massacre inglês do Pequot</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_5</Tag>
@@ -604,6 +713,7 @@ Viel Spass![NEWLINE]
 		<German>Die Zuteilung pro Mann und Tag betrug 200 Gramm Fleisch und eine Tasse Erbsen, verschimmelt und voller Spinnweben und Maden.[NEWLINE]--- "Chronik der Bürgerversammlung von Virginia" über die Gründerzeit von Jamestown</German>
 		<Italian>Nella schermata dell'insediamento puoi trascinare i coloni per assegnare loro nuove professioni. [Clicca col pulsante sinistro] sul cittadino a cui vuoi assegnare una professione, quindi trascinalo sulla casella o sull'edificio che desideri e comincerà immediatamente a lavorare.</Italian>
 		<Spanish>En la pantalla del asentamiento podéis arrastrar y soltar ciudadanos para asignarles nuevas profesiones. Haced clic con el botün izquierdo en el ciudadano que queráis y arrastradlo al edificio o casilla deseados e inmediatamente se pondrá a trabajar.</Spanish>
+		<PortuguesePT>A mesada para um homem naquela época era de apenas 240 gramas de carne e meio litro de ervilhas por dia, sendo que tanto uma como outra, tinham mofo, estavam podres e cheias de teias de aranha e vermes.[NEWLINE]--- Jamestown sob a administração de Sir Thomas Smith</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_6</Tag>
@@ -612,6 +722,7 @@ Viel Spass![NEWLINE]
 		<German>Unerträglicher Hunger trieb uns dazu, einen Indianer aus seinem Grabe zu schaufeln, in dem er drei Tage gelegen hatte, und ihn ganz zu verschlingen.[NEWLINE]--- "Chronik der Bürgerversammlung von Virginia" über die Gründerzeit von Jamestown</German>
 		<Italian>Se vuoi cambiare quello che sta producendo uno dei tuoi coloni in una casella, [clicca due volte] sul cittadino e apparirà una lista delle nuove professioni.</Italian>
 		<Spanish>Si queréis cambiar lo que un ciudadano está produciendo en una casilla, haced doble clic en él y aparecerá una lista de nuevas profesiones.</Spanish>
+		<PortuguesePT>Nã, tão grande foi a nossa fome, que um Selvagem que matámos e enterrámos, os mais pobres pegaram nele outra vez e comeram-no, e assim fizeram vários uns aos outros, cozidos e assados com raízes e ervas: E um entre os restantes matou a esposa, pulverizou-a e comeu parte dela antes que se soubesse.[NEWLINE]--- "Uma verdadeira declaração do estado da Colónia na Virgínia" (1610)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_7</Tag>
@@ -620,6 +731,7 @@ Viel Spass![NEWLINE]
 		<German>Und es wird hiermit weiter durch die oben genannte Autorität verordnet, dass, wenn ein Neger oder ein anderer Sklave sich vom Dienst seines Herrn entfernt und sich an dunklen Orten versteckt und auf der Lauer liegt, es für solche Personen rechtmäßig ist, den besagten Neger oder Sklaven zu töten, der so draußen liegt.[NEWLINE]--- "Sklaven-Kodex von Virginia" (1682)</German>
 		<Italian>Per vendere un tesoro devi prima farlo arrivare in uno dei tuoi insediamenti costieri. Una volta là, puoi decidere se farlo trasportare sui galeoni del re (che si prenderà parte dei profitti), oppure inviarlo in Europa con un tuo galeone.</Italian>
 		<Spanish>Para vender una unidad de Tesoro, primero debéis llevarla a una de vuestras ciudades costeras. Una vez que esté allí, podéis optar entre que vuestro rey la embarque en uno de sus Galeones (y también saque tajada de los beneficios) o enviarla a Europa en uno de vuestros propios Galeones.</Spanish>
+		<PortuguesePT>E é ainda decretado pela autoridade acima referida que se qualquer negro ou outro escravo se ausentar do serviço do seu senhor e ficar escondido e à espreita em lugares obscuros, será lícito a tais pessoas matar o referido negro ou escravo que então mentiu.[NEWLINE]--- "Virginia Slave Codes" (1682)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_8</Tag>
@@ -628,6 +740,7 @@ Viel Spass![NEWLINE]
 		<German>Aber während der Reise gibt es an Bord dieser Schiffe furchtbares Elend, Gestank, Gerüche, Schrecken, Erbrechen, viele Arten von Seekrankheit, Fieber, Durchfall, Kopfschmerzen, Hitze, Verstopfung, Eiterbeulen, Skorbut, Krebs, Mundfäule und dergleichen, so dass viele elendig sterben.[NEWLINE]--- Gottlieb Mittelberger über seine Überfahrt von Deutschland nach Amerika (1750)</German>
 		<Italian>Il minerale è una risorsa preziosa, dato che può essere trasformato in attrezzi (necessari per creare pionieri e determinati edifici e unità). Gli attrezzi possono anche essere trasformati in armi.</Italian>
 		<Spanish>El Mineral es un recurso valioso, ya que se procesa y convierte en Herramientas (necesarias para crear Pioneros y ciertas unidades y edificios). Las Herramientas también se pueden convertir en Armas.</Spanish>
+		<PortuguesePT>Mas, durante a viagem, há a bordo destes navios uma miséria terrível, mau cheiro, fumos, horror, vómitos, muitos tipos de enjoos, febre, disenteria, dor de cabeça, calor, prisão de ventre, furúnculos, escorbuto, cancro, podridão bucal, e similares, de modo que muitos morrem miseravelmente.[NEWLINE]--- Viagem à Pensilvânia, de Gottlieb Mittelberger (1754)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_9</Tag>
@@ -636,6 +749,7 @@ Viel Spass![NEWLINE]
 		<German>Eines Tages, als wir gerade einen schweren Sturm hatten, wurde eine Frau in unserem Schiff, die kurz vor der Niederkunft stand und unter den Umständen nicht entbinden konnte, durch eine Geschützpforte aus dem Schiff gestoßen und ins Meer geworfen.[NEWLINE]--- Gottlieb Mittelberger über seine Überfahrt von Deutschland nach Amerika (1750)</German>
 		<Italian>L'esplorazione del Nuovo Mondo può essere un'impresa proficua. Cercando tra le antiche rovine e contattando i capi degli insediamenti nativi puoi ricevere regali in oro, punti esperienza e addirittura tesori.</Italian>
 		<Spanish>Explorar el Nuevo Mundo puede ser una empresa provechosa. Al husmear en Ruinas antiguas y establecer contacto con los jefes de los asentamientos indígenas, podéis recibir regalos de oro, puntos de experiencia e incluso unidades de Tesoro.</Spanish>
+		<PortuguesePT>Um dia, precisamente quando tivemos um forte vendaval, uma mulher no nosso navio, ia dar à luz mas não podia devido às circunstâncias, foi puxada por entre uma vigia do navio e caiu ao mar.[NEWLINE]--- A Viagem de Gottlieb Mittelberger à Pensilvânia (1754)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_10</Tag>
@@ -644,6 +758,7 @@ Viel Spass![NEWLINE]
 		<German>Ich fordere den wärmsten Verfechter einer Versöhnung mit England heraus, auch nur einen einzigen Vorteil zu nennen, den dieser Kontinent dadurch genießen könnte.[NEWLINE]--- Thomas Paine, in einer Streitschrift zur Unabhängigkeit Amerikas (1776)</German>
 		<Italian>I cannoni sono l'arma da assedio definitiva. Se decidi di conquistare un insediamento nemico avere un cannone renderà l'impresa molto più facile.</Italian>
 		<Spanish>Los Cañones son las armas de asedio definitivas. Si pretendéis tomar un asentamiento enemigo, tener un Cañón a vuestro lado os facilitará mucho la conquista.</Spanish>
+		<PortuguesePT>Desafio o mais caloroso defensor da reconciliação a mostrar uma única vantagem que este continente pode colher ao estar ligado à Grã-Bretanha.[NEWLINE]--- Thomas Paine, "Common Sense" (1776)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_11</Tag>
@@ -652,6 +767,7 @@ Viel Spass![NEWLINE]
 		<German>Alles, was richtig und vernünftig ist, plädiert für eine Trennung von England.[NEWLINE]--- Thomas Paine, in einer Streitschrift zur Unabhängigkeit Amerikas, 1776</German>
 		<Italian>Per costruire un'economia devi assegnare delle professioni alle tue unità, cosa che puoi fare solo nella schermata dell'insediamento.</Italian>
 		<Spanish>Para levantar vuestra economía necesitáis asignar profesiones a las unidades, lo cual puede hacerse en la pantalla del asentamiento.</Spanish>
+		<PortuguesePT>Há algo de muito absurdo em supor que um continente é perpetuamente governado por uma ilha. Em nenhum caso a natureza tornou o satélite maior do que o seu planeta principal, e como a Inglaterra e a América, uma em relação à outra, invertem a ordem comum da natureza, é evidente que pertencem a sistemas diferentes: a Inglaterra para a Europa, a América para si própria. [NEWLINE]--- Thomas Paine, "Common Sense" (1776)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_12</Tag>
@@ -660,6 +776,7 @@ Viel Spass![NEWLINE]
 		<German>Wir haben es nicht an Aufforderungen an unsere britischen Brüder fehlen lassen. Doch sie waren taub gegen die Stimme der Gerechtigkeit und der Blutsverwandschaft.[NEWLINE]--- "Unabhängigkeitserklärung der USA" (1776)</German>
 		<Italian>Un'unità umana può intraprendere qualsiasi professione (con qualche eccezione), a patto di avere a disposizione caselle, risorse o edifici adatti. Gli specialisti, comunque, sono più bravi dei cittadini comuni in determinate professioni.</Italian>
 		<Spanish>Cualquier unidad humana puede adoptar cualquier profesión (con algunas excepciones), siempre que estén disponibles las casillas, los recursos o los edificios necesarios. No obstante, los especialistas son mejores en sus profesiones que los demás ciudadanos.</Spanish>
+		<PortuguesePT>Apelamos à sua justiça e magnanimidade nativas, e conjurámo-los pelos laços dos nossos parentes comuns a repudiar estas usurpações, que, inevitavelmente, interromperiam as nossas ligações e correspondência. Também eles têm sido surdos à voz da justiça e da consanguinidade.[NEWLINE]--- "A Declaração da Independência" (1776)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_13</Tag>
@@ -668,6 +785,7 @@ Viel Spass![NEWLINE]
 		<German>Die Geschichte des gegenwärtigen Königs von Großbritannien ist eine Geschichte von wiederholten Ungerechtigkeiten und eigenmächtigen Anmaßungen.[NEWLINE]--- "Unabhängigkeitserklärung der USA" (1776)</German>
 		<Italian>Avere un sentimento di ribellione alto, nell'insediamento, aumenterà la produzione di beni e materie prime e la forza difensiva delle tue unità.</Italian>
 		<Spanish>Tener un sentimiento de rebelión alto en el asentamiento aumentará en éste la producción de mercancías, materias primas y la fuerza defensiva de vuestras unidades.</Spanish>
+		<PortuguesePT>A história do atual Rei da Grã-Bretanha é uma história de repetidas injúrias e usurpações, todas tendo como objeto direto o estabelecimento de uma Tirania absoluta sobre estes Estados.[NEWLINE]--- "A Declaração da Independência" (1776 ). )</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_14</Tag>
@@ -676,6 +794,7 @@ Viel Spass![NEWLINE]
 		<German>Wir, die Volksvertreter der Vereinigten Staaten von Amerika, verkünden feierlichst, dass diese vereinten Kolonien losgesprochen sind von allem Gehorsam gegen die britische Krone.[NEWLINE]--- "Unabhängigkeitserklärung der USA" (1776)</German>
 		<Italian>Assicurati di essere pronto, prima di dichiarare l'indipendenza. Puoi dare un'occhiata alle forze che dovrai affrontare visitando la schermata della rivoluzione [COLOR:140:255:40:255]&lt; F3 &gt;[COLOR_REVERT].</Italian>
 		<Spanish>Aseguraos de prepararos adecuadamente para proclamar vuestra independencia. Veréis las fuerzas a las que deberéis enfrentaros si visitáis la pantalla Revolución [COLOR:140:255:40:255]&lt; F3 &gt;[COLOR_REVERT].</Spanish>
+		<PortuguesePT>Nós, portanto, os Representantes dos Estados Unidos da América, publicamos, em Nome e por Autoridade do bom Povo destas Colónias, solenemente e declaramos, que estas Colónias Unidas são, e de Direito devem ser, Estados Livres e Independentes; que estão absolvidos de toda a fidelidade à Coroa Britânica.[NEWLINE]-- "A Declaração de Independência" (1776)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_15</Tag>
@@ -684,6 +803,7 @@ Viel Spass![NEWLINE]
 		<German>Dieses Land gehört allen. Kein Roter Mann hat das Recht, Land zu verkaufen, schon gar nicht an Fremde.[NEWLINE]--- Tecumseh, Häuptling der Shawnee</German>
 		<Italian>Puoi ottenere punti esplorazione (e quindi avere più probabilità di acchiappare un Padre Fondatore esploratore) scoprendo caselle terrestri e marine inesplorate e stabilendo contatti coi capi nativi.</Italian>
 		<Spanish>Ganáis puntos de exploración (y, por tanto, tenéis más posibilidades de captar a un Padre fundador explorador) descubriendo casillas de tierra y mar ocultas y estableciendo contacto con los líderes indígenas.</Spanish>
+		<PortuguesePT>Vender um país! Porque não vender o ar, as nuvens e o grande mar, bem como a terra? Não foi o Grande Espírito que os criou a todos para usufruto dos seus filhos?[NEWLINE]--- Tecumseh para William Henry Harrison, 1810</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_16</Tag>
@@ -692,6 +812,7 @@ Viel Spass![NEWLINE]
 		<German>Ich habe hart gekämpft. Aber eure Gewehre zielten gut. Eure Kugeln flogen wie Vögel durch die Luft und zischten an unseren Ohren vorbei wie der Wind durch die Bäume im Winter. Meine Krieger fielen rund um mich; es begann, düster auszusehen.[NEWLINE]--- Häuptling Black Hawk, in seiner Kapitulationsrede, 1832</German>
 		<Italian>Ottieni punti politica (e aumenti la possibilità di convincere un Padre Fondatore politico a unirsi alla tua causa) generando campane della libertà. Più ne generi e più punti politica ottieni.</Italian>
 		<Spanish>Ganáis puntos de política (y posibilidades de que un Padre fundador político se una a vuestra causa) generando Campanas de la libertad. Cuantas más Campanas de la libertad produzcáis, más puntos de política recibiréis.</Spanish>
+		<PortuguesePT>Lutei muito. Mas as tuas armas estavam bem apontadas. As balas voavam como pássaros no ar e zumbiam junto dos nossos ouvidos como o vento entre as árvores no Inverno. Os meus guerreiros caíram ao meu redor; começou a parecer sombrio.[NEWLINE]--- Discurso de rendição de Black Hawk, 1832</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_17</Tag>
@@ -700,6 +821,7 @@ Viel Spass![NEWLINE]
 		<German>Die weißen Männer schauen verächtlich auf uns Indianer herab. Aber der Indianer lügt nicht. Indianer stehlen nicht. Indianer betrügen nicht.[NEWLINE]--- Häuptling Black Hawk, in seiner Kapitulationsrede, 1832</German>
 		<Italian>Puoi guadagnare punti esercito (aumentando le probabilità di ottenere un Padre Fondatore militare) vincendo battaglie, conquistando insediamenti nemici e costruendo palizzate, forti e fortezze.</Italian>
 		<Spanish>Podéis obtener puntos militares (y aumentar vuestras posibilidades de conseguir un Padre fundador militar) ganando batallas, capturando asentamientos enemigos y construyendo Empalizadas, Fuertes y Fortalezas.</Spanish>
+		<PortuguesePT>Os brancos falam mal do índio e olham para ele com maldade. Mas o índio não mente; Os índios não roubam.[NEWLINE]--- Discurso de rendição de Black Hawk, 1832</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_18</Tag>
@@ -708,6 +830,7 @@ Viel Spass![NEWLINE]
 		<German>Die weißen Männer skalpieren keine Köpfe; aber sie tun Schlimmeres - sie vergiften das Herz, es ist nicht rein bei ihnen.[NEWLINE]--- Häuptling Black Hawk, in seiner Kapitulationsrede, 1832</German>
 		<Italian>Guadagni punti commercio (incrementando la possibilità che un Padre Fondatore commerciante si schieri al tuo fianco) vendendo beni all'Europa o ai nativi.</Italian>
 		<Spanish>Ganáis puntos de intercambio (y aumentáis la probabilidad de que un Padre fundador comerciante se una a vuestra causa) vendiendo mercancías a Europa o a los Nativos.</Spanish>
+		<PortuguesePT>Os brancos não escalpelizam a cabeça; mas fazem pior - envenenam o coração, não é puro com eles.[NEWLINE]--- Discurso de Rendição de Black Hawk, 1832</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_19</Tag>
@@ -716,6 +839,7 @@ Viel Spass![NEWLINE]
 		<German>Ein Indianer, der so schlecht ist wie die weißen Männer, könnte in unserem Volk nicht leben. Er würde getötet und den Wölfen zum Fraß vorgeworfen.[NEWLINE]--- Häuptling Black Hawk, in seiner Kapitulationsrede, 1832</German>
 		<Italian>Puoi ottenere punti religione (e aumentare le probabilità di convincere un Padre Fondatore religioso a unirsi a te) generando croci e fondando missioni negli insediamenti nativi.</Italian>
 		<Spanish>Ganáis puntos de religión (y aumentáis vuestras posibilidades de convencer a un Padre fundador religioso de que se ponga de vuestro lado) generando Cruces y fundando misiones en los asentamientos indígenas.</Spanish>
+		<PortuguesePT>Um índio tão mau como os brancos não poderia viver na nossa nação; seria morto e comido pelos lobos.[NEWLINE]--- Discurso de rendição de Black Hawk, 1832</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_20</Tag>
@@ -724,6 +848,7 @@ Viel Spass![NEWLINE]
 		<German>Ihre Speere sind aus Schilfrohr gemacht. Mit fünfzig Mann könnten wir sie alle unterwerfen und sie zu allem zwingen, was wir wollen.[NEWLINE]--- Christoph Kolumbus, über die Arawak-Indianer auf den Bahamas (14. October 1492)</German>
 		<Italian>Ogni Padre Fondatore ha un costo in punti. Quando accetti un Padre Fondatore al tuo fianco, perdi un numero di punti pari al costo di quel Padre Fondatore. Quindi se un Padre Fondatore si offre di schierarsi dalla tua parte, ma se più interessato in un altro, può essere una buona idea rifiutare, in modo da risparmiare i punti per quello che vuoi veramente.</Italian>
 		<Spanish>Cada Padre fundador tiene asociado un coste específico en puntos. Cuando aceptéis a un Padre fundador en vuestro bando, perderéis un número de puntos igual al coste de éste. Así que, si uno de ellos se ofrece a unirse a vuestro bando pero os interesa más otro posterior, resultaría aconsejable rechazarlo para poder guardar los puntos para el que realmente queréis.</Spanish>
+		<PortuguesePT>A não ser que as ordens de Vossa Majestade sejam para que todos sejam levados para Espanha ou mantidos cativos na própria ilha, pois com cinquenta homens, é possível manter toda a população sob sujeição.[NEWLINE]--- Cristóvão Colombo, sobre os índios Aruaques ( 14 de Outubro de 1492)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_21</Tag>
@@ -732,12 +857,14 @@ Viel Spass![NEWLINE]
 		<German>Auf Grund der Stellvertreterschaft Jesu Christi auf Erden übertragen Wir hiermit an Euch und Eure Erben für alle Zeiten alle entdeckten oder zu entdeckenden Inseln und Festländer, mitsamt allen Herrschaften, Städten, Lägern, Plätzen und Dörfern.[NEWLINE]--- Papst Alexander VI., Päpstliche Bulle "Inter caetera" (1493)</German>
 		<Italian>Una volta che una civiltà ha convinto un Padre Fondatore a unirsi alla propria causa, questi è permanentemente assegnato a quella civiltà. Anche se questa dovesse perdere, nessun altro giocatore potrà ottenere quel Padre Fondatore.</Italian>
 		<Spanish>Cuando una civilización convence a un Padre fundador de que se una a su causa, éste quedará asignado permanentemente a ella. Incluso si dicha civilización cae derrotada, ninguna otra podrá ganarse a ese Padre fundador.</Spanish>
+		<PortuguesePT>Nós, na plenitude do nosso poder apostólico, pela autoridade de Deus Todo-Poderoso, damos, concedemos e atribuímos a ti e aos teus herdeiros e sucessores, reis de Castela e de Leão, para sempre, juntamente com todos os seus domínios, cidades, acampamentos, lugares e aldeias, e todos os direitos, jurisdições e pertences, todas as ilhas e continentes encontrados e a serem encontrados, descobertos e a serem descobertos.[NEWLINE]--- Papa Alexandre VI, Bula Papal "Inter caetera" ( 1493)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_22</Tag>
 		<English>No vote. No work.[NEWLINE]--- Polish Immigrants, Jamestown, 1619</English>
 		<French>Pas de vote. Pas de de travail.[NEWLINE]--- Immigrants polonais, Jamestown, 1619</French>
 		<German>Kein Stimmrecht, keine Arbeit.[NEWLINE]--- Polnische Einwanderer, Jamestown, 1619</German>
+		<PortuguesePT>Não há voto. Não há trabalho.[NEWLINE]--- Imigrantes Polacos, Jamestown, 1619</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_23</Tag>
@@ -746,22 +873,26 @@ Viel Spass![NEWLINE]
 		<German>Werdet Ihr Euch befreien? Werdet Ihr das Land Euer Vorväter zurückerobern, dass von den verhassten Spaniern vor dreihundert Jahren gestohlen wurde? Lang lebe unsere Jungfrau von Guadalupe! Tod der schlechten Regierung! Tod den Spaniern.[NEWLINE]--- Miguel Hidalgo y Costilla, "Grito de Dolores" (1810), Aufruf zur Unabhängigkeitsrevolution Mexikos</German>
 		<Italian>Quando una delle tue unità visita un insediamento di nativi, assicurati di parlare con il capo. Potrebbe avere un regalo per te.</Italian>
 		<Spanish>Cuando una de vuestras unidades visite un asentamiento indígena, no dejéis de hablar con el jefe. Puede que tenga un regalo para vos.</Spanish>
+		<PortuguesePT>Vão libertar-se? Vão recuperar as terras roubadas há trezentos anos aos vossos antepassados pelos odiosos espanhóis? Devemos agir imediatamente. Vão defender a vossa religião e os vossos direitos como verdadeiros patriotas? Viva Nossa Senhora de Guadalupe! Morte ao mau governo! Morte aos gachupines![NEWLINE]--- Miguel Hidalgo y Costilla, "Grito de Dolores" (1810)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_24</Tag>
 		<English>Many master craftspeople must choose which one of two or more yields to work on at any given time, creating different finished goods. Some finished items, such as tools for guns, can be used to make other things. One example of a long sequence starts with sheep providing wool through the butcher, then wool cloth from the weaver, coloured wool cloth from the dyer, and ends once the tailor stitches together everyday clothes. Trading can happen at every stage. Some yields are useful only as trade commodities. Gold is valuable but rare. Rubber is mid-priced, but much more common.</English>
 		<German>Viele Handwerksmeister müssen sich entscheiden, an welchem von zwei oder mehr Erträgen sie zu einem bestimmten Zeitpunkt arbeiten wollen, um unterschiedliche Fertigwaren herzustellen. Einige fertige Gegenstände, wie z.B. Werkzeuge für Waffen, können für die Herstellung anderer Dinge verwendet werden. Ein Beispiel für eine lange Sequenz beginnt mit Schafen, die dem Metzger Wolle liefern, dann folgt Wollstoff vom Weber, farbiger Wollstoff vom Färber und endet, wenn der Schneider Alltagskleidung zusammennäht. Auf jeder Stufe kann Handel stattfinden. Manche Erträge sind nur als Handelsware nützlich. Gold ist wertvoll, aber selten. Kautschuk ist mittelpreisig, aber viel häufiger.</German>
+		<PortuguesePT>Muitos mestres artesãos devem escolher em qual dos dois ou mais rendimentos devem trabalhar num determinado momento, criando diferentes produtos acabados. Alguns itens acabados, como ferramentas para armas, podem ser utilizados para fazer outras coisas. Um exemplo de uma sequência longa começa com as ovelhas a fornecerem lã através do talhante, depois o tecido criado a partir da lã pelo tecelão, o tecido de lã colorido pelo tintureiro, e termina quando o alfaiate cose as roupas peças de vestuário. A negociação pode acontecer em todas as fases. Alguns rendimentos são úteis apenas como mercadorias comerciais. O ouro é valioso, mas raro. A borracha tem um preço médio, mas é muito mais comum.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_25</Tag>
 		<English>As terrain increases in variety, choosing where to settle is a more subtle choice. A bonus resource is good but that might be only one of three or more resources on a single terrain tile. Resources affect how building is done. Without original food available a windmill can't be built. Without ore there can never be an iron mill. Depending on strategy, the best site might have no bonuses. Instead it will have tiles with the right combination of basic resources for production and trading success.</English>
 		<German>Mit zunehmender Vielfalt des Geländes wird die Wahl des Ortes, an dem man sich niederlässt, zu einer immer subtileren Entscheidung. Eine zusätzliche Ressource ist gut, aber das kann nur eine von drei oder mehr Ressourcen auf einem einzigen Geländeplättchen sein. Ressourcen beeinflussen, wie gebaut wird. Ohne ursprüngliche Nahrung kann keine Windmühle gebaut werden. Ohne Erz kann es keine Eisenmühle geben. Je nach Strategie kann es sein, dass der beste Standort keine Boni hat. Stattdessen wird es Plättchen mit der richtigen Kombination von Grundressourcen für die Produktion und den Handelserfolg geben.</German>
+		<PortuguesePT>À medida que o terreno aumenta em variedade, escolher onde fundar cidades torna-se mais subtil. Um recurso bónus é bom, mas pode ser apenas um entre três ou mais recursos num único bloco de terreno. Os recursos afetam a forma como a construção é feita. Sem alimentos originalmente disponíveis, não se pode construir um moinho de vento. Sem minério nunca poderá haver uma fábrica de ferro. Dependendo da estratégia, o melhor local pode não ter nenhum bónus. Ao invés, terá blocos de terreno com a combinação certa de recursos básicos para o sucesso da produção e do comércio.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_26</Tag>
 		<English>[BOLD]Don't put troops on your first frigate![\BOLD][NEWLINE]When you get your first frigate, whether you buy it, build it, or get it from a quest or a Founding Father, the King is going to commandeer it for the Royal Navy. Don't worry. You'll get it back in ten turns. However if you put any of your soldiers aboard they'll be shanghaied into the Royal Marines. You'll never see those troops again.</English>
 		<German>[BOLD]Stellt keine Truppen auf Eure erste Fregatte![\BOLD][NEWLINE]Wenn Ihr Eure erste Fregatte erhaltet, egal ob Ihr sie kauft, baut oder von einem Gründervater oder einer Quest erhaltet, wird der König sie für die königliche Marine requirieren. Macht euch keine Sorgen. Du bekommst sie in zehn Runden zurück. Wenn du jedoch einen deiner Soldaten an Bord nimmst, werden sie in die Royal Marines gezwungen. Sie werden diese Truppen nie wieder sehen.</German>
 		<Russian>[BOLD][COLOR_NEGATIVE_TEXT]Никогда не загружайте войска в свой первый фрегат![COLOR_REVERT][\BOLD] Когда у вас появляется первый фрегат, независимо от того, покупаете ли вы его, строите, получаете по итогам задания или от отца-основателя, Король реквизирует его для Королевского флота. Но не волнуйтесь. Вы получите его обратно через десять ходов. Однако, если вы поместите на борт кого-нибудь из своих солдат, они будут переведены в Королевскую морскую пехоту и вы никогда больше не увидите эти войска. Разве что после объявления независимости...</Russian>
+		<PortuguesePT>[BOLD]Não coloques tropas na tua primeira fragata![\BOLD]Quando conseguires a tua primeira fragata, seja comprando-a, construindo-a ou obtendo-a através de uma missão ou de um Pai Fundador, o Rei irá comandá-la para a Marinha Real. Não te preocupes. Irás recuperá-la dentro de dez turnos. No entanto, se colocares algum dos seus soldados a bordo, eles serão transferidos para a Marinha Real, e nunca mais voltarás a ver aquelas tropas.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_27</Tag>
@@ -770,6 +901,7 @@ Viel Spass![NEWLINE]
 		<German>Eine Reise zu den Ostländern führt zu mächtigen Königreichen, berühmten Städten und Provinzen, die alles im Überfluss besitzen, was wir benötigen, auch alle Arten von Gewürzen in reicher Fülle sowie Edelsteine in großer Menge aufweisen.[NEWLINE]--- Paolo Toscanelli, Brief des Kartografen aus Florenz an Kolumbus (etwa 1474)</German>
 		<Italian>Se le tue riserve di cibo arrivano a quota 200, quelle 200 unità di cibo verranno immediatamente trasformate in un nuovo libero colono.</Italian>
 		<Spanish>Si vuestros almacenes llegan a los 200 Alimentos, esa cantidad se transformará de inmediato en un Colono libre.</Spanish>
+		<PortuguesePT>Vale a pena procurar por este país, não só porque dele se podem obter grandes riquezas, ouro, prata e todo o tipo de pedras preciosas e especiarias, que nunca nos chegam.[NEWLINE]--- Paolo Toscanelli, "Primeira Carta a Colombo" (1474)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_28</Tag>
@@ -779,6 +911,7 @@ Viel Spass![NEWLINE]
 		<Italian>Le pellicce diventano cappotti. Lo zucchero diventa rum. Il tabacco diventa sigari. Il cotone diventa stoffa. Il minerale diventa Attrezzi. Il minerale combinato con il carbone diventa pistole o cannoni. Il legname può essere trasformato in carbone, quindi il carbone può essere trasformato in polvere da sparo.</Italian>
 		<Spanish>Las pieles se convierten en abrigos. El azúcar se convierte en ron. El tabaco se convierte en cigarros. El algodón se convierte en tela. El mineral se convierte en herramientas. El mineral combinado con carbón se convierte en armas o cañones. La madera se puede convertir en carbón vegetal, y luego el carbón vegetal se puede procesar en pólvora.</Spanish>
 		<Russian>Из меха шьют пальто. Сахар и фрукты перегоняют в ром и бренди. Листья табака скручиваются в сигары. Из хлопка ткут ткань. Руду переплавляют в инструменты, которые используются при строительстве...</Russian>
+		<PortuguesePT>Peles transformam-se em casacos. Açúcar transforma-se em rum. O tabaco transforma-se em charutos. O algodão passa a tecido. O minério transforma-se em ferramentas. O minério combinado com o carvão transforma-se em armas ou canhões. A madeira pode ser transformada em carvão vegetal, e depois este tipo de carvão pode ser processado em pólvora.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_29</Tag>
@@ -787,6 +920,7 @@ Viel Spass![NEWLINE]
 		<German>In der Erkenntnis, dass es sich um Leute handle, die man weit besser durch Liebe als durch das Schwert zu unserem Glauben bekehren könne, gedachte ich sie mir zu Freunden zu machen und schenkte also einigen von ihnen Kappen und Halsketten aus Glas und noch andere Kleinigkeiten von geringem Wert, worüber sie sich ungemein erfreut zeigten.[NEWLINE]--- Christoph Kolumbus, über die Arawak-Indianer auf den Bahamas (14. October 1492)</German>
 		<Italian>Puoi portare esperti e mastri nella tua colonia in quattro modi diversi: prendendoli sui moli europei e facendoli arrivare come immigranti, reclutandoli nella schermata dell'Europa (spendendo molto), educandoli tramite la costruzione di una scuola, un college o un'università, oppure facendoli addestrare dai nativi.</Italian>
 		<Spanish>Podéis llevar a vuestras colonias expertos y maestros de cuatro maneras: recogiéndolos en los muelles de Europa y trayéndolos como inmigrantes, reclutándolos en la pantalla de Europa (a un coste considerable), formándolos mediante una Escuela, Colegio universitario o Universidad o entrenándolos con los Nativos.</Spanish>
+		<PortuguesePT>Eu sabia que eram um povo que mais facilmente se podia libertar e converter à nossa santa fé pelo amor, do que pela força. Dei a alguns deles bonés vermelhos e contas de vidro para colocarem ao pescoço e muitas outras coisas de pouco valor, o que lhes deu grande prazer.[NEWLINE]--- Cristóvão Colombo, sobre os índios Aruaque (14 de Outubro de 1492)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_30</Tag>
@@ -796,6 +930,7 @@ Viel Spass![NEWLINE]
 		<Italian>Le linee diagonali al limite della mappa rappresentano le rotte per l'Europa. Facendo navigare una nave in questa zona e dandole l'ordine "Fai vela per l'Europa", la tua nave scomparirà dalla mappa di gioco e apparirà nella schermata dell'Europa diversi turni più tardi. Se impartisci a una nave l'ordine "Fai vela per l'Europa" quando non è su una casella delle rotte verso l'Europa, la nave si dirigerà automaticamente alla più vicina.</Italian>
 		<Spanish>Las líneas diagonales del borde del mapa representan el tránsito a Europa. Al enviar un barco a esa zona y darle la orden de "Navegar a Europa", la nave saldrá del mapa de juego y aparecerá en la pantalla de Europa varios turnos más tarde. Si dais a un barco la orden "Navegar a Europa" cuando éste no se encuentre en una casilla europea, el barco se dirigirá automáticamente a la casilla de Europa más cercana.</Spanish>
 		<Russian>Клетки океана по краям карты с диагональными полосами позволяют отправить корабль в Европу, Африку или Порт Ройал. Направив корабль в эту область и отдав ему приказ "Плыть в Европу", ваш корабль покинет игровую карту и появится на экране Европы, Африки или Порт Ройала (смотря какой пункт назначения был выбран) через несколько ходов. Если вы дадите кораблю приказ "Плыть в Европу", когда он не находится на клетке перехода, он автоматически направится к ближайшей.</Russian>
+		<PortuguesePT>As linhas diagonais na orla do mapa representam a passagem para a Europa. Ao navegares com um navio até esta área e ao dar a ordem: "Navegar para a Europa", o teu navio sairá do mapa do jogo e aparecerá no ecrã da Europa alguns turnos depois. Se deres a ordem "Navegar para a Europa" a um navio quando este não está sobre um bloco de passagem para a Europa, este dirigir-se-á automaticamente para um desses blocos mais próximos e seguirá viagem.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_31</Tag>
@@ -804,6 +939,7 @@ Viel Spass![NEWLINE]
 		<German>Sollten Eure Hoheiten den Befehl erteilen, alle Inselbewohner nach Kastilien zu schaffen oder aber sie auf ihrer eigenen Insel als Sklaven zu halten, so wäre dieser Befehl leicht durchführbar.[NEWLINE]--- Christoph Kolumbus, über die Arawak-Indianer auf den Bahamas</German>
 		<Italian>Ogni cittadino in un insediamento ha bisogno di due unità di cibo a turno. Se non è disponibile cibo a sufficienza, i cittadini usciranno sulla mappa principale di gioco fino a quando non ci sarà abbastanza cibo per la popolazione che rimane.</Italian>
 		<Spanish>Cada ciudadano del asentamiento precisa 2 Alimentos por turno. Si no tenéis bastantes Alimentos disponibles, los ciudadanos saldrán al mapa principal del juego hasta que haya Alimentos suficientes para mantener a la población.</Spanish>
+		<PortuguesePT>Tirem as braçadeiras, soldados. Viva a independência, a liberdade e a separação do Brasil! Independência ou morte![NEWLINE]--- Dom Pedro, 1822</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_32</Tag>
@@ -813,6 +949,7 @@ Viel Spass![NEWLINE]
 		<Italian>Puoi caricare e scaricare le unità di trasporto dalla schermata dell'insediamento. Nella sezione "trasporti" della schermata dell'insediamento vengono visualizzate tutte le unità di trasporto attualmente nella stessa casella del tuo insediamento. Da qui puoi cliccare e trascinare i beni sui tuoi trasporti nella finestra dei beni, per aggiungerli alle riserve dell'insediamento. Puoi anche cliccare su qualsiasi bene e trascinarlo dall'insediamento su un trasporto.</Italian>
 		<Spanish>Podéis cargar y descargar las unidades de transporte desde la pantalla del asentamiento. En la sección "Transporte" de la pantalla del asentamiento, se muestran todas las unidades de transporte ubicadas en la misma casilla que vuestro asentamiento. Ahí, podéis hacer clic y arrastrar cualquier mercancía que estén llevando vuestros transportes al visor de mercancías para añadirla a los almacenes del asentamiento. También podéis hacer clic y arrastrar cualquiera de las mercancías del asentamiento al transporte.</Spanish>
 		<Russian>Вы можете загрузить или разгрузить свои транспортные единицы на экране поселений. В разделе "Транспорт" на экране колонии отображаются все транспортные единицы, находящиеся в данный момент на той же клетке, что и ваше поселение. Здесь вы можете переместить любые товары, перевозимые вашим транспортом, на панель "Товары", чтобы добавить их на склад колонии. Также вы можете переместить на транспорт любой из товаров со склада.</Russian>
+		<PortuguesePT>Podes carregar ou descarregar as tuas unidades de transporte no Ecrã da Colónia. Na secção "Transporte" do Ecrã da Colónia, são apresentadas todas as unidades de transporte atualmente localizadas no mesmo bloco da colónia. A partir daí, podes clicar e arrastar quaisquer mercadorias que os teus transportes estejam a transportar para o Ecrã de Mercadorias para as adicionar aos stocks da colónia. Também podes clicar e arrastar qualquer mercadoria da colónia para dentro do transporte.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_33</Tag>
@@ -821,6 +958,7 @@ Viel Spass![NEWLINE]
 		<German>Die Wilden bestaunen unsere Gesichtsbehaarung, da ihnen selbst keine Bärte wachsen. Und auch die Pferde werden wie Wunderwesen betastet, die donnernden Arkebusen verbreiten großen Schrecken.[NEWLINE]--- Tagebuch des Paters Antonio Toledo - Begleiter von Pizarro bei der Eroberung des Inkareiches 1532</German>
 		<Italian>Per assegnare un cittadino alle professioni militari di scout, soldato o dragone devi avere a disposizione armi o cavalli. Per gli scout servono 50 cavalli, per i soldati 50 armi, per i dragoni 50 di entrambi.</Italian>
 		<Spanish>Para asignarle la profesión de combate Batidor, Soldado o Dragón a una unidad debéis tener disponibles Caballos o Mosquetes. Los Batidores necesitan 50 Caballos; los Soldados, 50 Mosquetes; y los Dragones, 50 de cada.</Spanish>
+		<PortuguesePT>!Ama Sua, Ama Kjella, Ama Lllulla! - Não mintas, não enganes, não sejas preguiçoso.[NEWLINE]--- Saudação Quechua na época dos Incas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_34</Tag>
@@ -829,6 +967,7 @@ Viel Spass![NEWLINE]
 		<German>Die Colopädie steckt voller geschichtlicher und spielrelevanter Informationen. Wenn du eine Frage hast, solltest du also zuerst dort nachsehen. Du kannst die Colopädie per [COLOR:140:255:40:255]&lt; F12 &gt;[COLOR_REVERT], per Mausklick auf das "Colopädie"-Symbol oder durch Auswählen im Hauptmenü aufrufen.</German>
 		<Italian>La Colonizopedia di Colonization è ricca di informazioni storiche e di gioco e dovrebbe essere il primo posto in cui cercare delle risposte alle tue domande. Puoi visualizzarla premendo [COLOR:140:255:40:255]&lt; F12 &gt;[COLOR_REVERT], cliccando sull'icona "Colonizopedia", oppure selezionandola nel menu principale.</Italian>
 		<Spanish>La Colonizopedia de Colonization está llena de información histórica y del juego y debería ser lo que primero que consultarais si tenéis alguna duda. Podéis mirarla pulsando [COLOR:140:255:40:255]&lt; F12 &gt;[COLOR_REVERT], haciendo clic en el icono de la Colonizopedia o buscándola en el menú principal.</Spanish>
+		<PortuguesePT>A Colopedia de "We The People" é rica em jogabilidade e informação histórica. Deve ser a tua primeira paragem para qualquer dúvida. Podes visitá-la premindo [COLOR:140:255:40:255]&lt; F12 &gt;[COLOR_REVERT], ou clicando no ícone "Colopedia", ou seleccionando-a no Menu Principal.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_35</Tag>
@@ -837,6 +976,7 @@ Viel Spass![NEWLINE]
 		<German>Der Mann, den du Papst nennst, muss verrückt sein, wenn er Länder verschenkt, die ihm nicht gehören. Und warum sollte ich meinen Glauben ablegen? Euer Gott wurde, wie du selbst sagst, von seinen eigenen Geschöpfen zu Tode gebracht, meiner hingegen lebt.[NEWLINE]--- Inkakaiser Atahualpa, 1532</German>
 		<Italian>Se produci più beni di quelli che puoi immagazzinare, quelli in più cominceranno a rovinarsi e scompariranno. Assicurati di costruire magazzini e di fare spedizioni regolari, in modo da non sprecare il risultato del duro lavoro dei tuoi coloni.</Italian>
 		<Spanish>Si producís más mercancías de las que podáis almacenar, las restantes empezarán a echarse a perder y desaparecer poco a poco. No dejéis de construir Almacenes y hacer envíos regulares, para que no se eche a perder el duro trabajo de los Colonos.</Spanish>
+		<PortuguesePT>Quanto ao Papa de que falas, deve estar doido ao falar em doar países que não lhe pertencem. Quanto à minha fé, não a vou mudar. O teu próprio Deus, como me dizes, foi morto pelos próprios homens que Ele criou. Mas o meu Deus ainda cuida dos seus filhos.[NEWLINE]--- Atahualpa, Chefe Inca, 1532</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_36</Tag>
@@ -845,6 +985,7 @@ Viel Spass![NEWLINE]
 		<German>Zu dieser Zeit kamen Botschafter Montezumas an und sagten, dass sie auf sein Geheiß kämen, weil er vom Krieg gehört habe, den die Tlaxcalteken uns lieferten, und dass sie uns einige Pferde getötet und viele von uns verwundet und uns schlecht behandelt hätten, was Montezuma bedrückt habe.[NEWLINE]--- Reisebericht von Bernardino Vázquez de Tapia, Begleiter von Cortés bei der Eroberung des Aztekenreiches, 1519</German>
 		<Italian>Le unità dei nativi non badano a cose ridicole come i tuoi "confini" ed entreranno liberamente nei tuoi territori e insediamenti.</Italian>
 		<Spanish>A las unidades nativas les importan un comino las tontas fronteras, y entrarán libremente en vuestro territorio y asentamiento.</Spanish>
+		<PortuguesePT>Ensinaram-lhes latim e outras matérias que valem muito mais do que toda a prata que lhes foi tirada... foi para seu benefício o facto de serem conquistados e, mais ainda, tornarem-se cristãos.[NEWLINE]--- Francisco López de Gómara, capelão e secretário de Cortés</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_37</Tag>
@@ -853,6 +994,7 @@ Viel Spass![NEWLINE]
 		<German>Da Atahualpa die allgemeine Gier nicht verborgen geblieben ist, hat er Pizarro ein Angebot gemacht: Er will einen großen Raum bis zur Höhe einer ausgestreckten Hand mit Gold füllen lassen, dazu zwei weitere mit Silber - wenn er im Gegenzug seine Freiheit erhält.[NEWLINE]--- Tagebuch des Paters Antonio Toledo (1532), Begleiter von Pizarro bei der Eroberung des Inkareiches</German>
 		<Italian>Alle volte ti sembrerà che i confini si espandano in modo strano, oppure per niente. Probabilmente capita a causa dell'influenza di un vicino insediamento nativo. Pur non avendo confini, infatti, gli insediamenti nativi esercitano un'influenza sui tuoi.</Italian>
 		<Spanish>A veces puede parecer que las fronteras tienen una expansión errática o no se amplían en absoluto. Esto es posible que se deba a la influencia de algún Asentamiento indígena cercano. Aunque los asentamientos indígenas no tienen fronteras, sí que influyen en la extensión de las vuestras.</Spanish>
+		<PortuguesePT>Ao aperceber-se da ganância dos espanhóis, Atahualpa tentou negociar a sua vida. Ofereceu-se para encher de ouro até aos ombros a sala em que estava feito prisioneiro, e ainda a encher outras duas salas de prata, em troca da sua liberdade. Os espanhóis, excitados, concordaram e de acordo com a palavra dada, o ouro e a prata foram trazidas nos meses seguintes para a sala do resgate, até ficar cheia. [NEWLINE]--- Antonio Toledo, "Diário sobre a conquista do Império Inca " (1532) </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_38</Tag>
@@ -862,6 +1004,7 @@ Viel Spass![NEWLINE]
 		<Italian>Se provi a costruire una colonia troppo vicino a un insediamento di nativi, il capo potrebbe chiederti di acquistare la terra che rivendichi. Puoi naturalmente rifiutarti di pagare, ma ciò peggiorerà le relazioni con i nativi.</Italian>
 		<Spanish>Si intentáis construir una colonia demasiado cerca de un asentamiento indígena, el jefe del lugar puede que os exija comprar la tierra de las que os estáis apoderando. Obviamente, os podéis negar a pagar, pero seguro que ello empeorará vuestra relación con los Nativos.</Spanish>
 		<Russian>Если вы попытаетесь построить колонию слишком близко к поселению индейцев, местный вождь может потребовать от вас выкупить землю, на которую вы претендуете. Вы, конечно, можете отказаться платить, но это гарантированно ухудшит их отношение к вам.</Russian>
+		<PortuguesePT>Se tentares construir uma colónia demasiado perto de uma aldeia indígena, o chefe local poderá exigir-te que compres a terra que estás a reivindicar. Podes recusar-te a pagar, claro, mas isso irá certamente piorar as relações entre ti e os indígenas já aí presentes.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_39</Tag>
@@ -871,6 +1014,7 @@ Viel Spass![NEWLINE]
 		<Italian>Senza un magazzino, il tuo insediamento può mettere da parte solo 100 unità di qualsiasi bene, a parte il cibo. Un magazzino aumenta la capacità a 200. L'espansione del magazzino porta la capacità del tuo insediamento a 300.</Italian>
 		<Spanish>Sin un Almacén, vuestro asentamiento solo puede guardar 100 de cualquier tipo de mercancías, excepto Alimentos. Un Almacén aumenta la capacidad a 200. El Almacén ampliado sube la capacidad de almacenamiento del asentamiento a 300.</Spanish>
 		<Russian>Товар нуждается в местах для хранения. Кораблям нужны причалы. Солдатам нужны казармы. Склады, доки и форты необходимы для обеспечения занятости и безопасности ваших людей. По мере роста колонии ёмкость должна увеличиваться. Здания нуждаются в регулярном обновлении. Инфраструктура, возможно, не самая захватывающая сторона политики, но если ею пренебрегать, бизнес, частный и государственный, застопорится.</Russian>
+		<PortuguesePT>As mercadorias necessitam de armazenamento. Os navios necessitam de portos. Os soldados precisam de quartéis. Armazéns, docas e fortes, são necessários para manteres o teu povo ocupado e seguro. A capacidade tem de aumentar à medida que a colónia cresce. Os edifícios precisam de atualizações regulares. As infra-estruturas podem não ser o lado excitante da política, mas quando são negligenciadas, os negócios, privados e públicos, vão parar.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_40</Tag>
@@ -880,6 +1024,7 @@ Viel Spass![NEWLINE]
 		<Italian>Quando recluti in Europa unità che solitamente hanno bisogno di beni per intraprendere la professione, come per soldati veterani o scout esperti, arriveranno completamente equipaggiati con le armi e i cavalli di cui hanno bisogno.</Italian>
 		<Spanish>Cuando reclutéis unidades de Europa que suelan exigir mercancías con las que llevar a cabo su profesión, como el Soldado veterano o el Batidor curtido, éstas aparecerán completamente equipadas con todos los Caballos y Mosquetes que necesiten.</Spanish>
 		<Russian>В Европе, когда вы набираете отряды с профессией, требующей какие-либо товары (например, солдат-ветеран или опытный разведчик) они уже полностью оснащены всем необходимым: лошадьми и оружием, провизией и порохом.</Russian>
+		<PortuguesePT>Na Europa, quando se recrutam unidades com uma profissão que necessita de bens, como o soldado veterano ou o batedor experiente, elas vêm totalmente equipadas com todos os cavalos e armas de que necessitam, incluindo produtos de panificação e a pólvora.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_41</Tag>
@@ -889,6 +1034,7 @@ Viel Spass![NEWLINE]
 		<Italian>Quando costruisci il tuo primo insediamento è sempre una buona idea costruirlo il più vicino possibile alla tua rotta per l'Europa. In questo modo le tue navi spenderanno meno tempo in viaggio tra la colonia e la madrepatria, riducendo le probabilità di venire attaccate dalle navi nemiche.</Italian>
 		<Spanish>A la hora de construir el primer asentamiento, siempre es una buena idea hacerlo lo más cerca posible de la ruta con Europa. Esto supone que vuestros barcos pasarán menos tiempo en los tránsitos entre la colonia y la madre patria, y reducir la posibilidad de ser atacados por naves enemigas.</Spanish>
 		<Russian>При строительстве вашего первого поселения всегда полезно держаться как можно ближе к Европе. Ваши корабли будут тратить меньше времени в пути между колонией и метрополией, что уменьшит вероятность нападения вражеских кораблей. Располагайтесь возле обычных береговых плиток, а не у мелководного побережья. В противном случае, когда у вас появятся более крупные корабли, они не смогут зайти в порт. Возможно, потребуется некоторое временя, чтобы найти безопасную гавань для вашего поселения.</Russian>
+		<PortuguesePT>Ao construíres a tua primeira colónia, é sempre uma boa ideia manteres-te o mais próximo possível da Europa. Os teus navios passarão menos tempo em trânsito entre a colónia e a metrópole, diminuindo a hipótese de serem atacados por navios inimigos. Acomoda-te junto das zonas costeiras, em vez de nas zonas de baixios. Caso contrário, quando conseguires navios maiores, estes não conseguirão entrar no teu porto. Poderás ter de procurar melhor até encontrares um porto seguro para a tua colónia.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_42</Tag>
@@ -897,6 +1043,7 @@ Viel Spass![NEWLINE]
 		<German>Wenn Sie Ihre erste Siedlung errichten, ist es immer sinnvoll, diese so nah wie möglich an Ihrer Route nach Europa anzulegen. Das bedeutet, daß Ihre Schiffe benötigen weniger lange für die Reise zwischen Kolonie und Mutterland brauchen. Zudem sinkt auch die Wahrscheinlichkeit, dass sie von gegnerischen Schiffen angegriffen werden.</German>
 		<Italian>Quando costruisci il tuo primo insediamento è sempre una buona idea costruirlo il più vicino possibile alla tua rotta per l'Europa. In questo modo le tue navi spenderanno meno tempo in viaggio tra la colonia e la madrepatria, riducendo le probabilità di venire attaccate dalle navi nemiche.</Italian>
 		<Spanish>A la hora de construir el primer asentamiento, siempre es una buena idea hacerlo lo más cerca posible de la ruta con Europa. Esto supone que vuestros barcos pasarán menos tiempo en los tránsitos entre la colonia y la madre patria, y reducir la posibilidad de ser atacados por naves enemigas.</Spanish>
+		<PortuguesePT>Ao construíres a tua primeira colónia, é sempre uma boa ideia manteres-te o mais próximo possível da Europa. Os teus navios passarão menos tempo em trânsito entre a colónia e a metrópole, diminuindo a hipótese de serem atacados por navios inimigos. Acomoda-te junto das zonas costeiras, em vez de nas zonas de baixios. Caso contrário, quando conseguires navios maiores, estes não conseguirão entrar no teu porto. Poderás ter de procurar melhor até encontrares um porto seguro para a tua colónia.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_43</Tag>
@@ -906,6 +1053,7 @@ Viel Spass![NEWLINE]
 		<Italian>I galeoni sono le migliori navi da trasporto disponibili e sono le uniche in grado di trasportare i tesori in Europa.</Italian>
 		<Spanish>Los Galeones son los mejores barcos de transporte y los únicos capaces de llevar unidades de Tesoro a Europa. Por otro lado, no pueden transportar otros tipos de unidades.</Spanish>
 		<Russian>Галеоны — одни из лучших транспортных кораблей и единственные корабли, способные доставлять сокровища в Европу. Однако они не могут перевозить другие юниты. Как только у вас будет достаточно сокровищ, король может предложить вам специальную цену за галеон для их перевозки, но он подождет, пока у вас не будет достаточно золота.</Russian>
+		<PortuguesePT>Os galeões são os melhores navios de transporte disponíveis e os únicos navios capazes de transportar unidades de tesouro para a Europa. No entanto, não podem transportar quaisquer outras unidades. Assim que tiveres tesouros suficientes, o Rei poderá oferecer-te um preço especial por um galeão para os transportares, mas terás de esperar até teres ouro suficiente nas mãos.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_44</Tag>
@@ -915,6 +1063,7 @@ Viel Spass![NEWLINE]
 		<Italian>Il bacino di carenaggio e il cantiere navale ti permettono di costruire navi nell'insediamento. Con il bacino di carenaggio puoi costruire caravelle, mercantili, galeoni e navi corsare, mentre il cantiere navale permette la costruzione di fregate e navi da prima linea. </Italian>
 		<Spanish>El Dique seco y el Astillero os permiten construir barcos en vuestro asentamiento. El Dique seco permite construir la Carabela, el Mercante, el Galeón y el Corsario; mientras que el Astillero da acceso a la Fragata y a la Corbeta. </Spanish>
 		<Russian>В колониальных портах вы можете строить корабли. Причал позволяет начать производство самых простых - малых прибрежных кораблей. А для строительства самого хорошо вооруженного военного корабля потребуется уже наличие военно-морского порта. К тому же, портовые постройки разных уровней позволяют стоять у стенок разному количеству кораблей - не забывайте проверять свободное место.</Russian>
+		<PortuguesePT>A Doca Seca e o Estaleiro permitem-te construir navios na tua colónia. A Doca Seca permite a construção de Caravelas, Navios Mercantes, Galeões e Corsários, enquanto o Estaleiro permite a construção de Fragatas e Navios de Linha.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_45</Tag>
@@ -923,6 +1072,7 @@ Viel Spass![NEWLINE]
 		<German>Um Güter auf ein Transportmittel zu laden, müssen Sie die Transporteinheit auf dasselbe Geländefeld wie die Güter bewegen und auf "Beladen" klicken. Dies ist ebenfalls im Menü "Transport" im Siedlungsbildschirm möglich.</German>
 		<Italian>Per caricare dei beni su un trasporto devi prima spostare l'unità da trasporto nella stessa casella in cui si trovano i beni, per poi cliccare sull'icona "Carica beni". Puoi anche farlo dalla sezione "Trasporti" nella schermata dell'insediamento.</Italian>
 		<Spanish>Para cargar mercancías en un transporte, debéis llevar la unidad de transporte a la misma casilla en la que estén las mercancías y pulsar en el icono "Cargar mercancías". También podéis hacerlo en la sección de "Transporte", en la pantalla del asentamiento.</Spanish>
+		<PortuguesePT>Para carregar mercadorias num transporte, deves mover a unidade de transporte para o mesmo bloco de mercadoria e clicar no ícone "Carregar Mercadoria". Também podes fazer isso na secção "Transporte" no ecrã da colónia. Podes descarregar mercadorias de duas formas: selecionando a mercadoria que pretendes descarregar da pilha de unidades e premindo "Descarregar" na vista de encomendas ou ativando a unidade de transporte e clicando em "Descarregar tudo". Só podes descarregar mercadorias nas colónias (ou na Europa, África e Porto Real). </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_46</Tag>
@@ -932,6 +1082,7 @@ Viel Spass![NEWLINE]
 		<Italian>Puoi scaricare i beni in due modi: selezionando il bene che vuoi scaricare dal gruppo e scegliendo "Scarica" nella finestra degli ordini, oppure attivando l'unità di trasporto e cliccando su "Scarica tutto". Puoi scaricare i beni solo negli insediamenti (o in Europa).</Italian>
 		<Spanish>Hay dos maneras de descargar mercancías: seleccionando la mercancía que os gustaría descargar y pulsando "Desembarcar" en el visor de órdenes; o activando la unidad de transporte y haciendo clic en "Desembarcar todas". Solo podéis descargar mercancías en los asentamientos (o en Europa).</Spanish>
 		<Russian>Первопроходцам и разведчикам нужны провизия, а также инструменты и лошади. Чтобы снизить затраты, дом пекаря и кузница должны быть среди ваших первых зданий.</Russian>
+		<PortuguesePT>Pioneiros e escoteiros precisam de provisões para levarem, assim como ferramentas e cavalos. Para manter os custos baixos, a Casa do Padeiro e a Casa do fabricante de pólvora deverão estar entre as tuas primeiras construções.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_47</Tag>
@@ -941,6 +1092,7 @@ Viel Spass![NEWLINE]
 		<!--<Italian>Qualsiasi colono può costruire un nuovo insediamento. Tutto quello che devi fare è spostarlo nella posizione desiderata e premere il pulsante "Costruisci insediamento".</Italian>-->
 		<!--<Spanish>Cualquier unidad de Colonos puede construir un nuevo asentamiento. Todo lo que tenéis que hacer es trasladar una unidad al lugar deseado y pulsar el botón "Fundar asentamiento".</Spanish>-->
 		<Russian>Для основания колонии вам нужен юнит, владеющий профессией [COLOR_HIGHLIGHT_TEXT]поселенец[COLOR_REVERT]. Назначить эту профессию можно почти любому юниту в доках Европы (нужное при этом оборудование будет куплено за золото из вашей казны) или в одном из ваших поселений в Новом Свете (при условии, что требуемое оборудование есть на складе).</Russian>
+		<PortuguesePT>Para fundar uma colónia, precisas de uma unidade com a profissão de [COLOR_HIGHLIGHT_TEXT]Colonizador[COLOR_REVERT]. Podes atribuir esta profissão a praticamente qualquer unidade nas docas da Europa (o equipamento terá de ser comprado com ouro do teu tesouro) ou numa das tuas colónias no Novo Mundo (desde que o equipamento necessário esteja no teu armazém).</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_48</Tag>
@@ -949,13 +1101,15 @@ Viel Spass![NEWLINE]
 		<German>Sie können nicht direkt neben einer anderen europäischen Siedlung eine Siedlung errichten. Direkt neben einer Ureinwohner-Siedlung ist dies zwar möglich, Sie müssen jedoch entweder für das Land, das Sie beanspruchen, bezahlen oder das Risiko eingehen, sich den Zorn der Ureinwohner zuzuziehen.</German>
 		<Italian>Non puoi costruire un insediamento adiacente a un altro insediamento europeo. Però puoi costruirlo direttamente adiacente a un insediamento nativo. Dovrai pagare per la terra che occupi, oppure rischiare di scatenare le loro ire.</Italian>
 		<Spanish>No podéis construir un asentamiento justo al lado de otro asentamiento europeo. No obstante, podéis construirlo al lado de un asentamiento indígena. Tendréis que pagar por cada tierra que les quitéis u os arriesgáis a despertar su ira.</Spanish>
-		<Russian>Вы не можете построить поселение рядом с другим европейским поселением, но вы можете это сделать рядом с любой деревней индейцев. Однако вам придется заплатить за каждую часть их земли, на которую вы претендуете. Иначе вы рискуете навлечь на себя их гнев.</Russian>
+		<Russian>Вы не можете построить поселение рядом с другим европейским поселением, но вы можете это сделать рядом с любой деревней индейцев. Однако вам придется заплатить за каждую часть их земли, на которую вы претендуете. Иначе вы рискуете навлечь на себя их гнев.</Russian>	
+		<PortuguesePT>Não se pode construir uma colónia diretamente ao lado de outra colónia europeia. Podes, no entanto, construir diretamente ao lado de uma aldeia nativa. Terás de pagar por qualquer uma das terras que reivindicares ou correrás o risco de incorrer na sua ira.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_49</Tag>
 		<English>They brought us sticks of the cotton candy thread and parrots and other little things which it would be tedious to list, and exchanged everything for whatever we offered them.[NEWLINE]--- Christopher Columbus, about Arawak Indians (October 13, 1492)</English>
 		<German>Sie sind naiv und großzügig mit ihrem Eigentum. Wenn man um etwas bittet, das sie besitzen, sagen sie nie nein.[NEWLINE]--- Christoph Kolumbus, über die Arawak-Indianer auf den Bahamas</German>
 		<Russian>Они приносили нам палочки сахарной ваты, попугаев и другие мелочи, перечислять которые было бы утомительно, и обменивали их на все, что мы им предлагали.[NEWLINE] --- Христофор Колумб об индейцах араваках на Багамах (13 октября 1492 г.)</Russian>
+		<PortuguesePT>Trouxeram-nos paus de algodão-doce, papagaios e outras coisinhas que seria tedioso enumerar, e trocavam tudo por qualquer coisa que lhes oferecêssemos.[NEWLINE]--- Cristóvão Colombo, sobre os índios Aruaques (13 de Outubro de 1492)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_1</Tag>
@@ -965,6 +1119,7 @@ Viel Spass![NEWLINE]
 		<Italian>Tieni premuto [COLOR:140:255:40:255]&lt; ALT &gt;[COLOR_REVERT] per fare in modo che un insediamento costruisca un oggetto all'infinito...</Italian>
 		<Spanish>Mantener Pulsara la tecla [COLOR:140:255:40:255]&lt; ALT &gt;[COLOR_REVERT] para hacer que el asentamiento construya un elemento indefinidamente.</Spanish>
 		<Russian>Удерживайте [COLOR:140:255:40:255]ALT[COLOR_REVERT], чтобы колония строила выбранный предмет бесконечно. [COLOR_NEGATIVE_TEXT](ПОКА НЕ РАБОТАЕТ)[COLOR_REVERT]</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; ALT &gt;[COLOR_REVERT] para fazer com que a colónia produza esse item indefinidamente.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_2</Tag>
@@ -974,6 +1129,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; CTRL + I &gt;[COLOR_REVERT] per giocare con l'interfaccia minimizzata. Premi [COLOR:140:255:40:255]&lt; ALT + I &gt;[COLOR_REVERT] per giocare senza interfaccia.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; CTRL + I &gt;[COLOR_REVERT] para jugar con una interfaz minimizada. Pulsar [COLOR:140:255:40:255]&lt; ALT + I &gt;[COLOR_REVERT] para jugar sin interfaz.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]CTRL + I[COLOR_REVERT] для игры со свернутым нижним интерфейсом. Нажмите [COLOR:140:255:40:255]ALT + I[COLOR_REVERT] чтобы скрыть весь интерфейс.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; CTRL + I &gt;[COLOR_REVERT] para jogar com uma interface minimizada. Prime [COLOR:140:255:40:255]&lt; ALT + I &gt;[COLOR_REVERT] para jogar sem interface.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_3</Tag>
@@ -983,6 +1139,7 @@ Viel Spass![NEWLINE]
 		<Italian>Puoi usare i tasti [COLOR:140:255:40:255]&lt; PAG SU &gt;[COLOR_REVERT] e [COLOR:140:255:40:255]&lt; PAG GIÙ &gt;[COLOR_REVERT] per zoomare la visuale avanti e indietro.</Italian>
 		<Spanish>Se puede usar la rueda del ratón o [COLOR:140:255:40:255]&lt; RE PÁG &gt;[COLOR_REVERT] y [COLOR:140:255:40:255]&lt; AV PÁG &gt;[COLOR_REVERT] para acercar y alejar la cámara.</Spanish>
 		<Russian>Вы можете использовать колесо мыши или клавиши [COLOR:140:255:40:255]PAGE UP[COLOR_REVERT] и [COLOR:140:255:40:255]PAGE DOWN[COLOR_REVERT] для увеличения и уменьшения масштаба камеры.</Russian>
+		<PortuguesePT>Podes utilizar a roda do rato ou [COLOR:140:255:40:255]&lt; PAGE UP &gt;[COLOR_REVERT] e [COLOR:140:255:40:255]&lt; PAGE DOWN &gt;[COLOR_REVERT] para aumentar e diminuir o zoom da câmara.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_4</Tag>
@@ -992,6 +1149,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; CTRL + S &gt;[COLOR_REVERT] per salvare la partita e [COLOR:140:255:40:255]&lt; CTRL + L &gt;[COLOR_REVERT] per caricare una partita salvata.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; CTRL + S &gt;[COLOR_REVERT] para guardar la partida y [COLOR:140:255:40:255]&lt; CTRL + L &gt;[COLOR_REVERT] para cargar una guardada.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]CTRL + S[COLOR_REVERT], чтобы сохранить игру и [COLOR:140:255:40:255]CTRL + L[COLOR_REVERT] для загрузки сохраненной игры.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; CTRL + S &gt;[COLOR_REVERT] para guardar o jogo e [COLOR:140:255:40:255]&lt; CTRL + L &gt;[COLOR_REVERT] para carregar um jogo guardado.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_5</Tag>
@@ -1001,6 +1159,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; CTRL + (FRECCIA SINISTRA) &gt;[COLOR_REVERT] o [COLOR:140:255:40:255]&lt; CTRL + (FRECCIA DESTRA) &gt;[COLOR_REVERT] per ruotare la visuale e impostarla a 45 gradi.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; CTRL + (FLECHA IZQ.) &gt;[COLOR_REVERT] o [COLOR:140:255:40:255]&lt; CTRL + (FLECHA DER.) &gt;[COLOR_REVERT] para girar la cámara 45 grados.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]CTRL + (стрелка ВЛЕВО)[COLOR_REVERT] или [COLOR:140:255:40:255]CTRL + (стрелка ВПРАВО)[COLOR_REVERT], чтобы повернуть камеру на 45 градусов.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; CTRL + (SETA PARA A ESQUERDA) &gt;[COLOR_REVERT] ou [COLOR:140:255:40:255]&lt; CTRL + (SETA PARA A DIREITA) &gt;[COLOR_REVERT] para rodares e ajustares a câmara a 45 graus.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_6</Tag>
@@ -1010,6 +1169,7 @@ Viel Spass![NEWLINE]
 		<Italian>Doppio clic su un gruppo di unità per unirle.</Italian>
 		<Spanish>Hacer doble clic en un apilamiento de unidades las agrupará.</Spanish>
 		<Russian>Двойной клик по стеку юнитов сгруппирует их.</Russian>
+		<PortuguesePT>Clica duas vezes numa pilha de unidades para as agrupares.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_7</Tag>
@@ -1019,6 +1179,7 @@ Viel Spass![NEWLINE]
 		<Italian>Tieni premuto [COLOR:140:255:40:255]&lt; ALT &gt;[COLOR_REVERT] e clicca su una pila per selezionare tutte le unità.</Italian>
 		<Spanish>Mantener Pulsaro [COLOR:140:255:40:255]&lt; ALT &gt;[COLOR_REVERT] y hacer clic en un apilamiento selecciona a todas las unidades.</Spanish>
 		<Russian>Удерживайте [COLOR:140:255:40:255]ALT[COLOR_REVERT] и кликните стек, чтобы выбрать все юниты.</Russian>
+		<PortuguesePT> Mantém pressionado [COLOR:140:255:40:255]&lt; ALT &gt;[COLOR_REVERT] e clica numa pilha para selecionar todas as unidades.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_8</Tag>
@@ -1028,6 +1189,7 @@ Viel Spass![NEWLINE]
 		<Italian>Tieni premuto [COLOR:140:255:40:255]&lt; CTRL &gt;[COLOR_REVERT] e clicca su una pila per selezionare tutte le unità dello stesso tipo.</Italian>
 		<Spanish>Mantener Pulsaro [COLOR:140:255:40:255]&lt; CTRL &gt;[COLOR_REVERT] y hacer clic en un apilamiento selecciona a todas las unidades del mismo tipo.</Spanish>
 		<Russian>Удерживайте [COLOR:140:255:40:255]CTRL[COLOR_REVERT] и кликните стек, чтобы выбрать все юниты одного типа.</Russian>
+		<PortuguesePT>Mantém pressionado [COLOR:140:255:40:255]&lt; CTRL &gt;[COLOR_REVERT] e clica numa pilha para selecionar todas as unidades do mesmo tipo.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_9</Tag>
@@ -1037,6 +1199,7 @@ Viel Spass![NEWLINE]
 		<Italian>Quando più unità sono selezionate, puoi impartire ordini a tutto il gruppo.</Italian>
 		<Spanish>Con varias unidades seleccionadas, se pueden dar órdenes de grupo que éstas llevarán a cabo a la vez.</Spanish>
 		<Russian>Выбрав несколько отрядов, вы можете отдать группе приказы, которые они будут выполнять вместе.</Russian>
+		<PortuguesePT>Com várias unidades selecionadas, podes dar ordens ao grupo e ele seguirá em conjunto.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_10</Tag>
@@ -1046,6 +1209,7 @@ Viel Spass![NEWLINE]
 		<Italian>Clicca con il [COLOR:140:255:40:255]&lt; PULSANTE DESTRO &gt;[COLOR_REVERT] su un mezzo di trasporto per caricare automaticamente le unità a bordo.</Italian>
 		<Spanish>Hacer [COLOR:140:255:40:255]&lt; CLIC DERECHO &gt;[COLOR_REVERT] en un transporte embarcará directamente las unidades en él.</Spanish>
 		<Russian>[COLOR:140:255:40:255]ПКМ[COLOR_REVERT] на транспорте автоматически загрузит в него юниты. [COLOR_NEGATIVE_TEXT](ПОКА НЕ РАБОТАЕТ)[COLOR_REVERT]</Russian>
+		<PortuguesePT>[COLOR:140:255:40:255]&lt; CLICAR COM O BOTÃO DIREITO &gt;[COLOR_REVERT] num transporte carregará automaticamente as unidades no mesmo.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_11</Tag>
@@ -1055,6 +1219,7 @@ Viel Spass![NEWLINE]
 		<Italian>Quando hai selezionato un mezzo di trasporto, clicca con il [COLOR:140:255:40:255]&lt; PULSANTE DESTRO &gt;[COLOR_REVERT] del mouse su una casella adiacente per sbarcare automaticamente le unità a bordo.</Italian>
 		<Spanish>Con un transporte seleccionado, hacer [COLOR:140:255:40:255]&lt; CLIC DERECHO &gt;[COLOR_REVERT] en una casilla de tierra adyacente desembarcará automáticamente a las unidades.</Spanish>
 		<Russian>При выборе транспорта [COLOR:140:255:40:255]ПКМ[COLOR_REVERT] на соседнем квадрате земли автоматически разгрузит туда юниты.</Russian>
+		<PortuguesePT>Com um transporte selecionado, [COLOR:140:255:40:255]&lt; CLICAR COM O BOTÃO DIREITO &gt;[COLOR_REVERT] num bloco de terreno adjacente irá descarregar automaticamente as unidades.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_12</Tag>
@@ -1064,6 +1229,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; F12 &gt;[COLOR_REVERT] per accedere alla Colopedia.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; F12 &gt;[COLOR_REVERT] para acceder a la Colopedia.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]F12[COLOR_REVERT] для доступа к Колопедии.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; F12 &gt;[COLOR_REVERT] para acederes à Colopedia.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_13</Tag>
@@ -1073,6 +1239,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; STAMP &gt;[COLOR_REVERT] per scattare una foto che verrà salvata in Colonization\Screenshots...</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; PRINT SCREEN &gt;[COLOR_REVERT] para hacer una captura de pantalla (se guardará en la carpeta Colonization\Screenshots).</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]PRINT SCREEN[COLOR_REVERT], чтобы сделать снимок экрана (он будет сохранен в папке *\Documents\My Games\Civilization IV Colonization\ScreenShots).</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; PRINT SCREEN &gt;[COLOR_REVERT] para fazeres uma captura de ecrã (será guardada na pasta Colonization\Screenshots).</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_14</Tag>
@@ -1082,6 +1249,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; ESC &gt;[COLOR_REVERT] per richiamare il menu di opzioni mentre stai giocando.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; ESC &gt;[COLOR_REVERT] para que aparezca el menú Opciones durante la partida.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]ESC[COLOR_REVERT], чтобы открыть меню параметров игры.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; ESC &gt;[COLOR_REVERT] para abrires o menu de opções do jogo.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_15</Tag>
@@ -1091,6 +1259,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; CTRL + O &gt;[COLOR_REVERT] per richiamare il menu di opzioni.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; CTRL + O &gt;[COLOR_REVERT] para que aparezca el menú Opciones.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]CTRL + O[COLOR_REVERT], чтобы открыть меню параметров.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; CTRL + O &gt;[COLOR_REVERT] para abrires o Menu de Opções.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_16</Tag>
@@ -1100,6 +1269,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi il pulsante centrale del mouse per centrare la visuale sull'unità attiva.</Italian>
 		<Spanish>Pulsar el botón central del ratón para centrar la cámara en la unidad activa.</Spanish>
 		<Russian>Нажмите среднюю кнопку мыши, чтобы центрировать камеру на активном объекте.</Russian>
+		<PortuguesePT>Pressiona o botão do meio do rato para centrares a câmara na unidade ativa.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_17</Tag>
@@ -1109,6 +1279,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; MAIUSC + F5 &gt;[COLOR_REVERT] (solo Giocatore Singolo) per effettuare un salvataggio rapido.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; MAYÚS + F5 &gt;[COLOR_REVERT] (solo en partidas de un jugador) para hacer un guardado rápido.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]SHIFT + F5[COLOR_REVERT] для быстрого сохранения (только для одиночной игры).</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; SHIFT + F5 &gt;[COLOR_REVERT] (apenas em Jogador Único) para guardares rápido o jogo (quicksave).</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_18</Tag>
@@ -1118,6 +1289,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; MAIUSC + F8 &gt;[COLOR_REVERT] (solo Giocatore Singolo) per effettuare un caricamento rapido.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; MAYÚS + F8 &gt;[COLOR_REVERT] (solo en partidas de un jugador) para hacer una carga rápida.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]SHIFT + F8[COLOR_REVERT] для быстрой загрузки (только для одиночной игры).</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; SHIFT + F8 &gt;[COLOR_REVERT] (apenas em Jogador Único) para carregares rápido um jogo.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_19</Tag>
@@ -1127,6 +1299,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; CTRL + P &gt;[COLOR_REVERT] per segnare un punto sulla mappa e fornire informazioni ai tuoi compagni di squadra.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; CTRL + P &gt;[COLOR_REVERT] para hacer una señal en el mapa y dar información a los compañeros de equipo.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]CTRL + P[COLOR_REVERT], чтобы проверить карту и предоставить информацию товарищам по команде (кажется, это для мультиплеера).</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; CTRL + P &gt;[COLOR_REVERT] para fazer ping ao mapa e forneceres informações aos colegas de equipa.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_20</Tag>
@@ -1136,6 +1309,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; CTRL + # &gt;[COLOR_REVERT] per assegnare l'unità selezionata al tasto #. Per esempio, premendo [COLOR:140:255:40:255]&lt; CTRL + 3 &gt;[COLOR_REVERT], ogni volta che si premerà il tasto [COLOR:140:255:40:255]&lt; 3 &gt;[COLOR_REVERT] quell'unità verrà automaticamente selezionata.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; CTRL + número &gt;[COLOR_REVERT] para vincular la unidad seleccionada a ese número. Por ejemplo: [COLOR:140:255:40:255]&lt; CTRL + 3 &gt;[COLOR_REVERT] hará que la unidad quede seleccionada automáticamente cada vez que se pulse el [COLOR:140:255:40:255]&lt; 3 &gt;[COLOR_REVERT].</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]CTRL + цифровая клавиша[COLOR_REVERT], чтобы привязать выбранный объект к этой клавише. Например: [COLOR:140:255:40:255]CTRL + 3[COLOR_REVERT] привяжет цифру [COLOR:140:255:40:255]3[COLOR_REVERT] к выбранному юниту.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; CTRL + tecla # &gt;[COLOR_REVERT] para ligares a unidade selecionada a essa tecla #. Por exemplo: [COLOR:140:255:40:255]&lt; CTRL + 3 &gt;[COLOR_REVERT] faz com que cada vez que a tecla [COLOR:140:255:40:255]&lt; 3 &gt;[COLOR_REVERT] é premida, esta unidade é automaticamente selecionada.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_21</Tag>
@@ -1145,6 +1319,7 @@ Viel Spass![NEWLINE]
 		<Italian>Mentre ti trovi nella schermata dell'insediamento, [COLOR:140:255:40:255]&lt; CTRL + # &gt;[COLOR_REVERT] per salvare la coda di produzione. Questa coda può essere caricata in qualsiasi altro insediamento premendo il tasto [COLOR:140:255:40:255]&lt; # &gt;[COLOR_REVERT].</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; CTRL + número &gt;[COLOR_REVERT] en la pantalla del asentamiento para guardar la cola de producción. Se podrá cargar esa cola en cualquier otro asentamiento pulsando dicho número.</Spanish>
 		<Russian>На экране колонии нажмите [COLOR:140:255:40:255]CTRL + цифровая клавиша[COLOR_REVERT], чтобы сохранить производственную очередь. Эту очередь можно загрузить в любом другом населенном пункте, нажав выбранную [COLOR:140:255:40:255]цифру[COLOR_REVERT].</Russian>
+		<PortuguesePT>No Ecrã da Colónia, prime [COLOR:140:255:40:255]&lt; CTRL + # &gt;[COLOR_REVERT] para guardares a fila de produção. Esta fila pode ser carregada em qualquer outra colónia ao premires a tecla [COLOR:140:255:40:255]&lt; # &gt; [COLOR_REVERT].</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_22</Tag>
@@ -1154,6 +1329,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; F11 &gt;[COLOR_REVERT] per attivare/disattivare la visuale globale.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; F11 &gt;[COLOR_REVERT] para entrar y salir de la Vista global.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]F11[COLOR_REVERT] для быстрого переключения в режим глобуса и выхода из него.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; F11 &gt;[COLOR_REVERT] para entrares e saires rapidamente da visualização de globo.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_23</Tag>
@@ -1163,6 +1339,7 @@ Viel Spass![NEWLINE]
 		<Italian>Quando sei nella schermata dell'insediamento, puoi usare la [COLOR:140:255:40:255]&lt; FRECCIA SINISTRA &gt;[COLOR_REVERT] e la [COLOR:140:255:40:255]&lt; FRECCIA DESTRA &gt;[COLOR_REVERT] per scorrere gli insediamenti...</Italian>
 		<Spanish>En la pantalla del asentamiento se puede usar la [COLOR:140:255:40:255]&lt; FLECHA IZQUIERDA &gt;[COLOR_REVERT] y la [COLOR:140:255:40:255]&lt; FLECHA DERECHA &gt;[COLOR_REVERT] para pasar de un asentamiento a otro.</Spanish>
 		<Russian>На экране колонии вы можете использовать [COLOR:140:255:40:255]стрелка ВЛЕВО[COLOR_REVERT] и [COLOR:140:255:40:255]стрелка ВПРАВО[COLOR_REVERT] для переключения между поселениями.</Russian>
+		<PortuguesePT>Enquanto estiveres no Ecrã da Colónia, podes utilizar a [COLOR:140:255:40:255]&lt; SETA PARA A ESQUERDA &gt;[COLOR_REVERT] e/ou a [COLOR:140:255:40:255]&lt; SETA PARA A DIREITA &gt;[COLOR_REVERT] para alternares entre as povoações.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_24</Tag>
@@ -1172,6 +1349,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; CTRL + B &gt;[COLOR_REVERT] per attivare/disattivare la visuale mappa semplificata.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; CTRL + B &gt;[COLOR_REVERT] para activar la vista del mapa limpio.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]CTRL + B[COLOR_REVERT] для переключения режима пустой карты. [COLOR_NEGATIVE_TEXT](ПОКА НЕ РАБОТАЕТ)[COLOR_REVERT]</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; CTRL + B &gt;[COLOR_REVERT] para alternares para a visualização do Mapa Limpo.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_25</Tag>
@@ -1181,6 +1359,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; CTRL + R &gt;[COLOR_REVERT] per visualizzare/nascondere la segnalazione risorse.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; CTRL + R &gt;[COLOR_REVERT] para activar las marcas de recursos.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]CTRL + R[COLOR_REVERT] для вкл/выкл флага ресурсов. [COLOR_NEGATIVE_TEXT](ПОКА НЕ РАБОТАЕТ)[COLOR_REVERT]</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; CTRL + R &gt;[COLOR_REVERT] para alternares para a visualização dos recursos com ícone.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_26</Tag>
@@ -1190,6 +1369,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; CTRL + Y &gt;[COLOR_REVERT] per visualizzare/nascondere la produzione.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; CTRL + Y &gt;[COLOR_REVERT] para activar la vista Mostrar rendimientos.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]CTRL + Y[COLOR_REVERT], чтобы вкл/выкл доходность клеток.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; CTRL + Y &gt;[COLOR_REVERT] para alternares para a visualização dos recursos.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_27</Tag>
@@ -1199,6 +1379,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; CTRL + A &gt;[COLOR_REVERT] per forzare il movimento di tutte le unità con ordini in coda.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; CTRL + A &gt;[COLOR_REVERT] para obligar a moverse a todas las unidades con órdenes en cola.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]CTRL + A[COLOR_REVERT], чтобы заставить все юниты с очередью приказов двигаться.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; CTRL + A &gt;[COLOR_REVERT] para forçares a movimentação de todas as unidades que têm ordens atribuídas em fila.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_28</Tag>
@@ -1208,6 +1389,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; CTRL + T &gt;[COLOR_REVERT] per attivare la griglia delle caselle.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; CTRL + T &gt;[COLOR_REVERT] para activar la cuadrícula.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]CTRL + T[COLOR_REVERT] для вкл/выкл сетки клеток.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; CTRL + T &gt;[COLOR_REVERT] para alternares a visão da grelha dos blocos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_29</Tag>
@@ -1217,6 +1399,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; ALT + Q &gt;[COLOR_REVERT] per ritirarti dalla partita. Nel multigiocatore, il controllo della tua colonia viene automaticamente assegnato alla IA.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; ALT + Q &gt;[COLOR_REVERT] para retirarse de la partida. En el modo para varios jugadores esto le dará el control de las colonias a la IA.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]ALT + Q[COLOR_REVERT] для выхода из игры. В многопользовательском режиме это автоматически передает контроль над вашими колониями ИИ. [COLOR_NEGATIVE_TEXT](ПОКА НЕ РАБОТАЕТ)[COLOR_REVERT]</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; ALT + Q &gt;[COLOR_REVERT] para te retirares do jogo. No modo Multijogador isto dá o controlo das tuas colónias, automaticamente, a uma IA.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_30</Tag>
@@ -1226,6 +1409,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; PAUSA &gt;[COLOR_REVERT] per interrompere il timer del turno.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; PAUSA &gt;[COLOR_REVERT] para interrumpir el contador del turno.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]PAUSE[COLOR_REVERT], чтобы прервать таймер хода (для мультиплеера).</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; PAUSE &gt;[COLOR_REVERT] para interromperes o temporizador de Turno.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_31</Tag>
@@ -1235,6 +1419,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; MAIUSC + TAB &gt;[COLOR_REVERT] per comunicare via chat con tutti in Multigiocatore.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; MAYÚS + TAB &gt;[COLOR_REVERT] para charlar con todos en el modo multijugador.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]SHIFT + TAB[COLOR_REVERT] для общения со всеми игроками в многопользовательском режиме.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; SHIFT + TAB &gt;[COLOR_REVERT] para conversares com todos, no modo multijogador.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_32</Tag>
@@ -1244,6 +1429,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; TAB &gt;[COLOR_REVERT] per comunicare via chat con gli alleati in Multigiocatore.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; TAB &gt;[COLOR_REVERT] para charlar con los compañeros de equipo en el modo multijugador.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]TAB[COLOR_REVERT] для общения с товарищами по команде в сетевой игре.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; TAB &gt;[COLOR_REVERT] para conversares com os colegas de equipa, no modo multijogador.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_33</Tag>
@@ -1253,6 +1439,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; CTRL + W &gt;[COLOR_REVERT] per accedere all'editor.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; CTRL + W &gt;[COLOR_REVERT] para acceder al creador de mundos.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]CTRL + W[COLOR_REVERT] для доступа к Строителю мира.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; CTRL + W &gt;[COLOR_REVERT] para acederes ao Worldbuilder.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_34</Tag>
@@ -1262,6 +1449,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; W &gt;[COLOR_REVERT] o [COLOR:140:255:40:255]&lt; INVIO &gt;[COLOR_REVERT] per scorrere le unità attive.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; W &gt;[COLOR_REVERT] o [COLOR:140:255:40:255]&lt; INTRO &gt;[COLOR_REVERT] para pasar de una unidad activa a otra.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]W[COLOR_REVERT] или [COLOR:140:255:40:255]ENTER[COLOR_REVERT] для переключения между активными юнитами.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; W &gt;[COLOR_REVERT] ou [COLOR:140:255:40:255]&lt; ENTER &gt;[COLOR_REVERT] para percorreres as tuas unidades ativas.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_36</Tag>
@@ -1271,6 +1459,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; , &gt;[COLOR_REVERT] e [COLOR:140:255:40:255]&lt; . &gt;[COLOR_REVERT] per scorrere tra le unità che si trovano nella stessa casella.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; , (coma) &gt;[COLOR_REVERT] y [COLOR:140:255:40:255]&lt; . (punto) &gt;[COLOR_REVERT] para desplazarse por las unidades que estén en la misma casilla.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255], (запятая)[COLOR_REVERT] или [COLOR:140:255:40:255]. (точка)[COLOR_REVERT] для прокрутки юнитов на одной клетке.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; VÍRGUA &gt;[COLOR_REVERT] e [COLOR:140:255:40:255]&lt; PERIOD &gt;[COLOR_REVERT] para percorreres as unidades dispostas no mesmo bloco.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_37</Tag>
@@ -1280,6 +1469,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; MAIUSC + INVIO &gt;[COLOR_REVERT] per forzare la fine del turno.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; MAYÚS + INTRO &gt;[COLOR_REVERT] para forzar el final del turno.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]SHIFT + ENTER[COLOR_REVERT] для принудительного завершения хода.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; SHIFT + ENTER &gt;[COLOR_REVERT] para forçares o fim de turno.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_38</Tag>
@@ -1289,6 +1479,7 @@ Viel Spass![NEWLINE]
 		<Italian>Tieni premuto [COLOR:140:255:40:255]&lt; ALT &gt;[COLOR_REVERT] e punta con il mouse una casella per visualizzare le probabilità di vittoria in caso di attacco.</Italian>
 		<Spanish>Mantener Pulsara la tecla [COLOR:140:255:40:255]&lt; ALT &gt;[COLOR_REVERT] mientras se señala una casilla con el cursor para ver las probabilidades de un ataque.</Spanish>
 		<Russian>Удерживайте кнопку [COLOR:140:255:40:255]ALT[COLOR_REVERT] при наведении курсора мыши на клетку с врагом, чтобы просмотреть примерный расчет итогов сражения.</Russian>
+		<PortuguesePT>Mantém premido o botão [COLOR:140:255:40:255]&lt; ALT &gt;[COLOR_REVERT] enquanto passas o rato sobre um bloco para veres as probabilidades de combate de um ataque.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_39</Tag>
@@ -1298,6 +1489,7 @@ Viel Spass![NEWLINE]
 		<Italian>Per visualizzare le probabilità di vittoria di uno scontro, tieni premuto il pulsante destro del mouse su una casella bersaglio.</Italian>
 		<Spanish>Mantener el cursor encima de la casilla objetivo para ver las probabilidades del combate.</Spanish>
 		<Russian>Чтобы просмотреть примерный расчет итогов сражения, удерживайте правую кнопку мыши на целевой клетке.</Russian>
+		<PortuguesePT>Para visualizares as probabilidades de combate, mantém premido o botão direito do rato sobre a unidade alvo.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_40</Tag>
@@ -1307,6 +1499,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; HOME &gt;[COLOR_REVERT] e [COLOR:140:255:40:255]&lt; FINE &gt;[COLOR_REVERT] per scorrere i tuoi insediamenti...</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; INICIO &gt;[COLOR_REVERT] y [COLOR:140:255:40:255]&lt; FIN &gt;[COLOR_REVERT] para pasar de un asentamiento a otro.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]HOME[COLOR_REVERT] или [COLOR:140:255:40:255]END[COLOR_REVERT] для перехода к поселениям на карте.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; HOME &gt;[COLOR_REVERT] e [COLOR:140:255:40:255]&lt; END &gt;[COLOR_REVERT] para percorreres as tuas colónias.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_41</Tag>
@@ -1316,6 +1509,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; INS &gt;[COLOR_REVERT] per aprire la schermata dell'insediamento alleato più vicino.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; INSERT &gt;[COLOR_REVERT] para abrir el asentamiento amistoso más cercano.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]INSERT[COLOR_REVERT], чтобы открыть ближайшее дружественное поселение.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; INSERT &gt;[COLOR_REVERT] para abrires a colónia amigável mais próxima.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_42</Tag>
@@ -1325,6 +1519,7 @@ Viel Spass![NEWLINE]
 		<Italian>Tieni premuto [COLOR:140:255:40:255]&lt; MAIUSC &gt;[COLOR_REVERT] per aggiungere degli oggetti in fondo alla coda di costruzione del tuo insediamento.</Italian>
 		<Spanish>Mantener Pulsara la tecla [COLOR:140:255:40:255]&lt; MAYÚS &gt;[COLOR_REVERT] para añadir elementos al final de la cola de construcción del asentamiento.</Spanish>
 		<Russian>Удерживайте клавишу [COLOR:140:255:40:255]SHIFT[COLOR_REVERT] для добавления предметов в конец очереди строительства вашего поселения.</Russian>
+		<PortuguesePT>Mantém premido o botão [COLOR:140:255:40:255]&lt; SHIFT &gt;[COLOR_REVERT] para adicionares itens ao final da fila de construção da tua colónia.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_43</Tag>
@@ -1334,6 +1529,7 @@ Viel Spass![NEWLINE]
 		<Italian>Tieni premuto [COLOR:140:255:40:255]&lt; CTRL &gt;[COLOR_REVERT] per aggiungere degli oggetti all'inizio della coda di costruzione del tuo insediamento.</Italian>
 		<Spanish>Mantener Pulsara la tecla [COLOR:140:255:40:255]&lt; CTRL &gt;[COLOR_REVERT] para insertar elementos al principio de la cola de construcción del asentamiento.</Spanish>
 		<Russian>Удерживайте клавишу [COLOR:140:255:40:255]CTRL[COLOR_REVERT] для вставки предметов в начало очереди строительства вашего поселения.</Russian>
+		<PortuguesePT>Mantém premido o botão [COLOR:140:255:40:255]&lt; CTRL &gt;[COLOR_REVERT] para inserires itens no início da fila de construção da tua colónia.</PortuguesePT>
 	</TEXT>
 	<!--<TEXT>  duplicate HINT_INTERFACE_1
 		<Tag>TXT_KEY_HINT_INTERFACE_44</Tag>
@@ -1352,6 +1548,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi i pulsanti su e giù sul mouse per scorrere le unità sulla stessa casella.</Italian>
 		<Spanish>Pulsar los botones de adelante y atrás del ratón para pasar de una unidad a otra en la misma casilla.</Spanish>
 		<Russian>Нажимайте кнопки "Вперед" и "Назад" на мыши, чтобы переключаться между юнитами на одной клетке.</Russian>
+		<PortuguesePT>Pressiona os botões avançar e recuar do rato para percorreres ciclicamente as unidades no mesmo bloco.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_46</Tag>
@@ -1361,6 +1558,7 @@ Viel Spass![NEWLINE]
 		<Italian>Tieni premuto il tasto [COLOR:140:255:40:255]&lt; CTRL &gt;[COLOR_REVERT] e usa la rotellina del mouse per scorrere tra le unità sulla stessa casella.</Italian>
 		<Spanish>Mantener Pulsara la tecla [COLOR:140:255:40:255]&lt; CTRL &gt;[COLOR_REVERT] y girar la rueda del ratón para pasar de una unidad a otra en la misma casilla.</Spanish>
 		<Russian>Удерживайте клавишу [COLOR:140:255:40:255]CTRL[COLOR_REVERT] и вращайте колесо мыши, чтобы переключаться между юнитами на одной клетке.</Russian>
+		<PortuguesePT>Mantém premido o botão [COLOR:140:255:40:255]&lt; CTRL &gt;[COLOR_REVERT] e roda a roda do rato para percorreres as unidades no mesmo bloco.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_47</Tag>
@@ -1370,6 +1568,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; CTRL + M &gt;[COLOR_REVERT] per attivare e disattivare la musica.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; CTRL + M &gt;[COLOR_REVERT] para encender o apagar la música.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]CTRL + M[COLOR_REVERT] для включения и выключения музыки.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; CTRL + M &gt;[COLOR_REVERT] para ligar ou desligar a música.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_48</Tag>
@@ -1379,6 +1578,7 @@ Viel Spass![NEWLINE]
 		<Italian>Muovi le unità su una casella lontana cliccandoci sopra con il [COLOR:140:255:40:255]&lt; PULSANTE DESTRO &gt;[COLOR_REVERT].</Italian>
 		<Spanish>Se pueden mover unidades a una casilla lejana haciendo [COLOR:140:255:40:255]&lt; CLIC DERECHO &gt;[COLOR_REVERT] en ella.</Spanish>
 		<Russian>Переместите юниты на отдалённую клетку с помощью [COLOR:140:255:40:255]ПКМ[COLOR_REVERT] на месте назначения.</Russian>
+		<PortuguesePT>Move unidades para um bloco distante ao [COLOR:140:255:40:255]&lt; CLICARES COM O BOTÃO DIREITO &gt;[COLOR_REVERT] no bloco de destino.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_49</Tag>
@@ -1388,6 +1588,7 @@ Viel Spass![NEWLINE]
 		<Italian>Puoi muovere un gruppo di unità dello stesso tipo con [COLOR:140:255:40:255]&lt; CTRL + PULSANTE DESTRO &gt;[COLOR_REVERT] sulla destinazione.</Italian>
 		<Spanish>Se pueden mover en grupo todas las unidades del mismo tipo pulsando [COLOR:140:255:40:255]&lt; CTRL + CLIC DERECHO &gt;[COLOR_REVERT] en el lugar de destino.</Spanish>
 		<Russian>Вы можете сгруппировать перемещение всех юнитов одного типа с помощью [COLOR:140:255:40:255]CTRL + ПКМ[COLOR_REVERT] в месте назначения.</Russian>
+		<PortuguesePT>Podes agrupar e mover todas as unidades do mesmo tipo ao premires [COLOR:140:255:40:255]&lt; CTRL + RIGHT-CLICK &gt;[COLOR_REVERT] no bloco de destino.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_50</Tag>
@@ -1397,6 +1598,7 @@ Viel Spass![NEWLINE]
 		<Italian>Puoi muovere un gruppo di unità sulla stessa casella con [COLOR:140:255:40:255]&lt; ALT + PULSANTE DESTRO &gt;[COLOR_REVERT] sulla destinazione.</Italian>
 		<Spanish>Se pueden mover en grupo todas las unidades de la misma casilla pulsando [COLOR:140:255:40:255]&lt; ALT + CLIC DERECHO &gt;[COLOR_REVERT] en el lugar de destino.</Spanish>
 		<Russian>Вы можете сгруппировать перемещение всех юнитов на одной клетке с помощью [COLOR:140:255:40:255]ALT + ПКМ[COLOR_REVERT] в пункте назначения.</Russian>
+		<PortuguesePT>Podes agrupar e mover todas as unidades do mesmo bloco ao premires [COLOR:140:255:40:255]&lt; ALT + RIGHT-CLICK &gt;[COLOR_REVERT] no bloco de destino.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_51</Tag>
@@ -1406,6 +1608,7 @@ Viel Spass![NEWLINE]
 		<Italian>Passa alla modalità "Vai a" premendo [COLOR:140:255:40:255]&lt; G &gt;[COLOR_REVERT].</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; G &gt;[COLOR_REVERT] para entrar en el modo "Ir a".</Spanish>
 		<Russian>Войдите в режим "Идти к городу", нажав [COLOR:140:255:40:255]G[COLOR_REVERT].</Russian>
+		<PortuguesePT>Entra no modo “Ir-até” (Go-To) (mesmo tipo de unidade) premindo [COLOR:140:255:40:255]&lt; G &gt;[COLOR_REVERT].</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_52</Tag>
@@ -1415,6 +1618,7 @@ Viel Spass![NEWLINE]
 		<Italian>Passa alla modalità "Vai a (unità dello stesso tipo)" premendo [COLOR:140:255:40:255]&lt; CTRL + G &gt;[COLOR_REVERT].</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; CTRL + G &gt;[COLOR_REVERT] para entrar en el modo "Ir a (mismo tipo de unidad)".</Spanish>
 		<Russian>Войдите в режим "Идти к (для юнитов одного типа)", нажав [COLOR:140:255:40:255]CTRL + G[COLOR_REVERT].</Russian>
+		<PortuguesePT>Entra no modo “Ir-até” (Go-To) (mesmo tipo de unidade)" premindo [COLOR:140:255:40:255]&lt; CTRL + G &gt;[COLOR_REVERT].</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_53</Tag>
@@ -1424,6 +1628,7 @@ Viel Spass![NEWLINE]
 		<Italian>Passa alla modalità "Vai a (tutte le unità)" premendo [COLOR:140:255:40:255]&lt; ALT + G &gt;[COLOR_REVERT].</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; ALT + G &gt;[COLOR_REVERT] para entrar en el modo "Ir a (todas las unidades)".</Spanish>
 		<Russian>Войдите в режим "Идти к (для всех юнитов)", нажав [COLOR:140:255:40:255]ALT + G[COLOR_REVERT].</Russian>
+		<PortuguesePT>Entra no modo “Ir-até” (Go-To) (Todas as unidades)" premindo [COLOR:140:255:40:255]&lt; ALT + G &gt;[COLOR_REVERT].</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_54</Tag>
@@ -1433,6 +1638,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; C &gt;[COLOR_REVERT] per centrare la visuale sull'unità attiva.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; C &gt;[COLOR_REVERT] para centrar la cámara en la unidad activa.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]C[COLOR_REVERT] для центрирования камеры на активном юните.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; C &gt;[COLOR_REVERT] para centrar a câmara na unidade ativa.</PortuguesePT>
 	</TEXT>
 	<!--<TEXT> duplicate HINT_INTERFACE_56
 		<Tag>TXT_KEY_HINT_INTERFACE_55</Tag>
@@ -1441,6 +1647,7 @@ Viel Spass![NEWLINE]
 		<German>[STRG + C] wählt alle Einheiten desselben Typs auf dem Geländefeld der aktiven Einheit.</German>
 		<Italian>Premi [CTRL + C] per selezionare tutte le unità dello stesso tipo sulla stessa casella di quella attiva.</Italian>
 		<Spanish>Pulsar [CTRL + C] para seleccionar todas las unidades del mismo tipo que haya en la misma casilla que la unidad activa...</Spanish>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; ALT + C &gt;[COLOR_REVERT] para selecionares todas as unidades no mesmo bloco da unidade ativa.</PortuguesePT>
 	</TEXT>-->
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_56</Tag>
@@ -1450,6 +1657,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; ALT + C &gt;[COLOR_REVERT] per selezionare tutte le unità sulla stessa casella di quella attiva.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; ALT + C &gt;[COLOR_REVERT] para seleccionar todas las unidades de la misma casilla que la unidad activa.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]ALT + C[COLOR_REVERT], чтобы выбрать все юниты на той же клетке, что и активный юнит.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; ALT + C &gt;[COLOR_REVERT] para selecionares todas as unidades no mesmo bloco como unidades ativas.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_57</Tag>
@@ -1459,6 +1667,7 @@ Viel Spass![NEWLINE]
 		<Italian>Se tieni premuto il tasto [MAIUSC] mentre clicchi sulla barra degli insediamenti, puoi "selezionare" più insediamenti. Puoi anche usare [MAIUSC + PULSANTE DESTRO] per impostare un punto di raduno...</Italian>
 		<Spanish>Si se mantiene pulsada la tecla [MAYÚS] mientras se hace clic en la barra del asentamiento, se pueden "seleccionar" varios asentamientos. También se puede usar [MAYÚS] + [CLIC DERECHO] para establecer un punto de concentración.</Spanish>
 		<Russian>Если удерживать клавишу [COLOR:140:255:40:255]SHIFT[COLOR_REVERT] и нажимать на панель поселения в круге строительства, можно не заходя в поселение изменять строительство. Также вы можете "выбрать" несколько поселений (зачем?). А выделив колонию и применив комбинацию [COLOR:140:255:40:255]SHIFT + ПКМ[COLOR_REVERT] на какой-либо клетке, можно установить точку сбора для юнитов.</Russian>
+		<PortuguesePT>Se pressionares a tecla [SHIFT] enquanto clicas na barra da colónia, podes "selecionar" multiplas colónias. Também podes pressionar [SHIFT + CLIQUE BOTÃO DIREITO] para definir um ponto de encontro.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_58</Tag>
@@ -1468,6 +1677,7 @@ Viel Spass![NEWLINE]
 		<Italian>Se tieni premuto il tasto [CTRL] mentre clicchi sulla barra dell'insediamento, puoi "selezionare" tutti gli insediamenti di quel continente...</Italian>
 		<Spanish>Si se mantiene pulsada la tecla [CTRL] mientras se hace clic en la barra del asentamiento, se "seleccionan" todos los asentamientos propios en ese continente.</Spanish>
 		<Russian>Если удерживать клавишу [COLOR:140:255:40:255]CTRL[COLOR_REVERT] и нажать на панель поселения, можно "выбрать" все свои поселения на текущем континенте.</Russian>
+		<PortuguesePT>Se pressionares a tecla [CTRL] enquanto clicas na barra da colónia, "selecionas" todas as colónias desse continente.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_59</Tag>
@@ -1477,6 +1687,7 @@ Viel Spass![NEWLINE]
 		<Italian>Se tieni premuto il tasto [ALT] mentre clicchi sulla barra dell'insediamento, puoi "selezionare" tutti i tuoi insediamenti...</Italian>
 		<Spanish>Si se mantiene pulsada la tecla [ALT] mientras se hace clic en la barra del asentamiento, se "seleccionan" todos los asentamientos propios en el mundo.</Spanish>
 		<Russian>Если удерживать клавишу [COLOR:140:255:40:255]ALT[COLOR_REVERT] и нажать на панель поселения, можно "выбрать" все свои поселения.</Russian>
+		<PortuguesePT>Se pressionares a tecla [ALT] enquanto clicas na barra da colónia, "selecionas" todas as colónias.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_61</Tag>
@@ -1486,6 +1697,7 @@ Viel Spass![NEWLINE]
 		<Italian>Puoi dare a un'unità ordini consecutivi premendo il tasto [MAIUSC]. Per esempio puoi ordinare a un pioniere di costruire prima una strada e poi una miniera cliccando sui rispettivi pulsanti mentre tieni premuto [MAIUSC].</Italian>
 		<Spanish>Es posible darle órdenes consecutivas a una unidad si se pulsa la tecla [MAYÚS]. Por ejemplo, se le puede decir a un Pionero que construya primero una carretera y luego una mina haciendo clic en esos dos botones mientras se mantiene pulsada la tecla [MAYÚS].</Spanish>
 		<Russian>Вы можете отдавать отряду последовательные приказы, зажимая клавишу [COLOR:140:255:40:255]SHIFT[COLOR_REVERT]. Например, вы можете приказать первопроходцу построить сначала ферму, а затем шахту, нажав на обе кнопки приказов и удерживая при этом нажатой клавишу [COLOR:140:255:40:255]SHIFT[COLOR_REVERT].</Russian>
+		<PortuguesePT>Pode dar ordens consecutivas a uma unidade premindo a tecla [SHIFT]. Por exemplo, podes dizer a um Pioneiro para construir uma estrada e depois a uma mina clicando em ambos os botões enquanto manténs premida a tecla [SHIFT].</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_62</Tag>
@@ -1495,6 +1707,7 @@ Viel Spass![NEWLINE]
 		<Italian>Tieni premuto il tasto [COLOR:140:255:40:255]&lt; MAIUSC &gt;[COLOR_REVERT] e clicca su una casella per aprire un menu contestuale.</Italian>
 		<Spanish>Mantener Pulsara la tecla [COLOR:140:255:40:255]&lt; MAYÚS &gt;[COLOR_REVERT] y hacer clic en una casilla para abrir un menú contextual.</Spanish>
 		<Russian>Удерживайте [COLOR:140:255:40:255]SHIFT[COLOR_REVERT] и щелкните на клетке, чтобы открыть контекстное меню. [COLOR_NEGATIVE_TEXT](ПОКА НЕ РАБОТАЕТ)[COLOR_REVERT]</Russian>
+		<PortuguesePT>Mantém pressionado [COLOR:140:255:40:255]&lt; SHIFT &gt;[COLOR_REVERT] e clica num bloco para abrires um menu de contexto.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_63</Tag>
@@ -1504,6 +1717,7 @@ Viel Spass![NEWLINE]
 		<Italian>Quando sei nella schermata dell'insediamento puoi usare i tasti freccia del tastierino numerico per passare da un insediamento all'altro.</Italian>
 		<Spanish>Las flechas del TECLADO NUMÉRICO se pueden usar para pasar de un asentamiento a otro en la pantalla del asentamiento.</Spanish>
 		<Russian>Клавиши со стрелками [COLOR:140:255:40:255]NUMPAD[COLOR_REVERT] можно использовать для перехода между поселениями, когда открыт экран поселений.</Russian>
+		<PortuguesePT>As teclas das setas do NUMPAD podem ser usadas para saltares entre colónias, quando estiveres no ecrã da colónia.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_64</Tag>
@@ -1513,6 +1727,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; \ &gt;[COLOR_REVERT] per tornare all'ultima unità selezionata.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; \ &gt;[COLOR_REVERT] para volver a la anterior unidad seleccionada.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]\[COLOR_REVERT] для возврата к последнему выбранному юниту.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; \ &gt;[COLOR_REVERT] para voltares à última unidade selecionada.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_65</Tag>
@@ -1522,6 +1737,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; CTRL + TAB &gt;[COLOR_REVERT] per vedere il registro degli eventi.</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; CTRL + TAB &gt;[COLOR_REVERT] para ver el historial de sucesos del turno.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]CTRL + TAB[COLOR_REVERT] для просмотра журнала событий.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; CTRL + TAB &gt;[COLOR_REVERT] para visualizares o registo dos eventos de turno.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_66</Tag>
@@ -1531,6 +1747,7 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; ALT + S &gt;[COLOR_REVERT] per aggiungere sulla mappa un segnale visibile soltanto a te e ai tuoi alleati.</Italian>
 		<Spanish>Pulsa [COLOR:140:255:40:255]&lt; ALT + S &gt;[COLOR_REVERT] para añadir al mapa un letrero que podáis ver tus compañeros y tú.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]ALT + S[COLOR_REVERT], чтобы добавить на карту заметку, которую сможете видеть вы и ваши товарищи по команде.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; ALT + S &gt;[COLOR_REVERT] para adicionares um sinal no mapa que tu e os teus companheiros possam ver.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_INTERFACE_67</Tag>
@@ -1540,5 +1757,6 @@ Viel Spass![NEWLINE]
 		<Italian>Premi [COLOR:140:255:40:255]&lt; CTRL + H &gt;[COLOR_REVERT] per selezionare tutte le unità ferite sulla casella.</Italian>
 		<Spanish>Pulsa [COLOR:140:255:40:255]&lt; CTRL + H &gt;[COLOR_REVERT] para seleccionar todas las unidades heridas en una casilla.</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]CTRL + H[COLOR_REVERT], чтобы выбрать все раненые отряды на клетке.</Russian>
+		<PortuguesePT>Pressiona [COLOR:140:255:40:255]&lt; CTRL + H &gt;[COLOR_REVERT] para selecionares todas as unidades feridas do mesmo bloco.</PortuguesePT>
 	</TEXT>
 </Civ4GameText>
