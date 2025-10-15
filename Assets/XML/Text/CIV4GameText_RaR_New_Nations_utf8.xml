@@ -1299,7 +1299,6 @@
 		<Russian>Ваш варварский народ не заслуживает моего внимания. Прощай.</Russian>
         <PortuguesePT>Não tenho palavras para desperdiçar com um povo tão bárbaro como o teu.</PortuguesePT>
     </TEXT>
-	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_NO_PEACE_LEADER_SERPENT_QUECHQUEMITL_1</Tag>
 		<English>You have an urgent appointment with the gods of the underworld. Who am I to delay you?</English>
@@ -2353,4 +2352,5 @@
         <PortuguesePT>Poderia eliminar a semente do [CT_EMPIRE] desta terra, à vontade. Dá-me o que exijo e poderei permitir-te que vivas mais um pouco.</PortuguesePT>
 	</TEXT>
 </Civ4GameText>
+
 
