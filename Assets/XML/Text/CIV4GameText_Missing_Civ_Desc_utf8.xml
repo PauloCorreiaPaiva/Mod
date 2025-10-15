@@ -25,6 +25,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Араваки</Russian>
+        <PortuguesePT>Aruaques</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TUPI_DESC</Tag>
@@ -46,6 +47,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Тупи</Russian>
+        <PortuguesePT>Tupis</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHEROKEE_DESC</Tag>
@@ -67,6 +69,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Чироки</Russian>
+        <PortuguesePT>Cheroquis</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_IROQUOIS_DESC</Tag>
@@ -88,6 +91,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Ирокезы</Russian>
+        <PortuguesePT>Iroqueses</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SIOUX_DESC</Tag>
@@ -109,6 +113,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Сиу</Russian>
+        <PortuguesePT>Sioux</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NEZ_PERCE_DESC</Tag>
@@ -130,6 +135,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Не-Персе</Russian>
+        <PortuguesePT>Nez Perce</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_APACHE_DESC</Tag>
@@ -151,6 +157,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Апачи</Russian>
+        <PortuguesePT>Apaches</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INUIT_DESC</Tag>
@@ -172,6 +179,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Инуиты</Russian>
+        <PortuguesePT>Inuítes</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HURON_DESC</Tag>
@@ -193,6 +201,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Гуроны</Russian>
+        <PortuguesePT>Huron</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ZAPOTEC_DESC</Tag>
@@ -214,6 +223,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Сапотеки</Russian>
+        <PortuguesePT>Zapotecas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GUARANI_DESC</Tag>
@@ -235,6 +245,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Гуарани</Russian>
+        <PortuguesePT>Guarani</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CARIBS_DESC</Tag>
@@ -256,6 +267,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Карибы</Russian>
+        <PortuguesePT>Caribe</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NAVAJO_DESC</Tag>
@@ -277,6 +289,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Навахо</Russian>
+        <PortuguesePT>Navajos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ALGONQUIAN_DESC</Tag>
@@ -298,6 +311,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Алгонкины</Russian>
+        <PortuguesePT>Algonquinos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MACHIPARO_DESC</Tag>
@@ -319,6 +333,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Мачипаро</Russian>
+        <PortuguesePT>Machiparo</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MIXTEC_DESC</Tag>
@@ -340,6 +355,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Миштеки</Russian>
+        <PortuguesePT>Mixtecos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MUISCA_DESC</Tag>
@@ -361,6 +377,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Муиски</Russian>
+        <PortuguesePT>Muísca</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_COMANCHE_DESC</Tag>
@@ -382,6 +399,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Команчи</Russian>
+        <PortuguesePT>Comanche</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SHOSHONE_DESC</Tag>
@@ -403,6 +421,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Шошоны</Russian>
+        <PortuguesePT>Shoshone</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TOROMONA_DESC</Tag>
@@ -424,6 +443,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Торомона</Russian>
+        <PortuguesePT>Toromonas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CROW_DESC</Tag>
@@ -445,6 +465,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Кроу</Russian>
+        <PortuguesePT>Corvos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BLACKFOOT_DESC</Tag>
@@ -466,6 +487,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Черноногие</Russian>
+        <PortuguesePT>Blackfoot</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GUAYMI_DESC</Tag>
@@ -487,6 +509,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Нгабе</Russian>
+        <PortuguesePT>Ngabe</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TARASCANS_DESC</Tag>
@@ -508,6 +531,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Тараски</Russian>
+        <PortuguesePT>Tarascos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_OMAGUA_DESC</Tag>
@@ -529,6 +553,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Омагуа</Russian>
+        <PortuguesePT>Omagua</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MAPUCHE_DESC</Tag>
@@ -550,5 +575,6 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Мапуче</Russian>
+        <PortuguesePT>Mapuches</PortuguesePT>
 	</TEXT>
 </Civ4GameText>
