@@ -1842,7 +1842,7 @@
 		<Italian>Balene</Italian>
 		<Spanish>Ballenas</Spanish>
 		<Russian>Киты</Russian>
-         <PortuguesePT>Baleias</PortuguesePT>
+        <PortuguesePT>Baleias</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENTTRIGGER_CACAO_BONUS</Tag>
@@ -6583,7 +6583,7 @@
 		<Tag>TXT_KEY_EVENTTRIGGER_REVOLUTIONARY_EVENTS_DONE_1B</Tag>
 		<English>The envoy is back from Europe. Even though he managed to calm things down a little, the King will continue to raise taxes. In effect the trip has simply solidified His position.</English>
 		<German>Der Gesandte ist aus Europa zurück und konnte die Wogen ein wenig glätten. Aber der König ist trotzdem mehr verärgert als je zuvor und wird die Steuern weiter erhöhen. Die Reise hat also nichts gebracht, außer die Standtpunkte zu festigen.</German>
-		<Russian>Посол вернулся из Европы и сумел немного разрядить обстановку. Но король по-прежнему раздражен и продолжит повышать налоги. Так что поездка не принесла ничего, кроме укрепления его позиций./Russian>
+		<Russian>Посол вернулся из Европы и сумел немного разрядить обстановку. Но король по-прежнему раздражен и продолжит повышать налоги. Так что поездка не принесла ничего, кроме укрепления его позиций.</Russian>
 		<PortuguesePT>O enviado regressou da Europa. Embora tenha conseguido acalmar um pouco as coisas, o Rei continuará a aumentar os impostos. Na prática, a viagem apenas solidificou a posição do Rei.</PortuguesePT>
 	</TEXT>
 	<TEXT>
@@ -7351,6 +7351,7 @@
 		<PortuguesePT>[ICON_BULLET] Em [COLOR_UNIT_TEXT]10[COLOR_REVERT] turnos, envia uma unidade de [COLOR_UNIT_TEXT]Dragões Veteranos[COLOR_REVERT] ou [COLOR_UNIT_TEXT]Cavalaria Veterana[COLOR_REVERT] para a colónia para proteger os cidadãos e guardar os escravos. Isso deixará os bons cidadãos felizes.</PortuguesePT>
 	</TEXT>
 </Civ4GameText>
+
 
 
 
