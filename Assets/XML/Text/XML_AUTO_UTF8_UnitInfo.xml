@@ -28,6 +28,7 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Африканский раб:Африканские рабы</Russian>
+        <PortuguesePT>Escravo africano</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_AFRICAN_SLAVE_PEDIA</Tag>
@@ -45,6 +46,7 @@
 		<Tag>TXT_KEY_UNIT_ALLIGATOR</Tag>
 		<English>Alligator</English>
 		<Russian>Аллигатор</Russian>
+        <PortuguesePT>Crocodilo</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_ALLIGATOR_PEDIA</Tag>
@@ -80,6 +82,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Анаконда</Russian>
+        <PortuguesePT>Anaconda</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_BARLEY</Tag>
@@ -105,6 +108,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Ячмень</Russian>
+        <PortuguesePT>Cevada</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_BARLEY_PEDIA</Tag>
@@ -132,6 +136,7 @@
 			<Plural>0</Plural>
 		</German>
 		<Russian>Черный медведь</Russian>
+        <PortuguesePT>Urso preto</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_BEAR_BLACK_PEDIA</Tag>
@@ -157,6 +162,7 @@
 			<Plural>0</Plural>
 		</German>
 		<Russian>Полярный медведь</Russian>
+        <PortuguesePT>Urso Polar</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_BEAR_POLAR_PEDIA</Tag>
@@ -192,6 +198,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Пиво</Russian>
+        <PortuguesePT>Cerveja</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_BEER_PEDIA</Tag>
@@ -233,6 +240,11 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Большой прибрежный корабль:Большие прибрежные корабли</Russian>
+        <PortuguesePT>
+	<Text>Grande barco costeiro:Grandes barcos costeiros</Text>
+          <Gender>Male</Gender>
+          <Plural>0:1</Plural>
+	</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_BIG_COASTAL_SHIP_PEDIA</Tag>
@@ -270,6 +282,11 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Епископ:Епископы</Russian>
+		<PortuguesePT>
+			<Text>Bispo:Bispos</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_BISHOP_PEDIA</Tag>
@@ -313,6 +330,7 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Мастер кузнец:Мастера кузнецы</Russian>
+        <PortuguesePT>Mestre Ferreiro:Mestres Ferreiros</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_BLACKSMITH_PEDIA</Tag>
@@ -354,6 +372,11 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Искусный кузнец:Искусные кузнецы</Russian>
+        <PortuguesePT>
+            <Text>Järnsmed:Järnsmeder</Text>
+            <Gender>Male</Gender>
+            <Plural>0:1</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_JARNSMED_PEDIA</Tag>
@@ -409,6 +432,7 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Мастер пивовар:Мастера пивовары</Russian>
+		<PortuguesePT>Mestre Cervejeiro</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_BREWER_PEDIA</Tag>
@@ -450,6 +474,11 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Бригантина:Бригантины</Russian>
+        <PortuguesePT>
+			<Text>Bergantim:Bergantins</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+	</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_BRIGANTINE_PEDIA</Tag>
@@ -481,6 +510,11 @@
 			<Plural>0:1</Plural>
 		</German>
 		<Russian>Невольничий барк:Невольничьи барки</Russian>
+        <PortuguesePT>
+			<Text>Navio negreiro:Navios negreiros</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>	
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_SLAVE_BARQUE_PEDIA</Tag>
@@ -523,6 +557,11 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Мастер мясник:Мастера мясники</Russian>
+		<PortuguesePT>
+            <Text>Mestre talhante:Mestres talhantes</Text>
+            <Gender>Male</Gender>
+            <Plural>0:1</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_BUTCHER_PEDIA</Tag>
@@ -548,6 +587,7 @@
 		<Italian>Cannoni</Italian>
 		<Spanish>Cañones</Spanish>
 		<Russian>Пушки</Russian>
+        <PortuguesePT>Canhões</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_CANNONS_PEDIA</Tag>
@@ -585,6 +625,7 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Каравелла:Каравеллы</Russian>
+        <PortuguesePT>Caravela:Caravelas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_CARAVEL_PEDIA</Tag>
@@ -630,6 +671,11 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Каравелла Редонда:Каравеллы Редонды</Russian>
+        <PortuguesePT>
+            <Text>Caravela Redonda:Caravelas Redondas</Text>
+            <Gender>Female</Gender>
+            <Plural>0:1</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_CARAVELA_REDONDA_PEDIA</Tag>
@@ -669,6 +715,7 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Мастер плотник:Мастера плотники</Russian>
+        <PortuguesePT>Mestre Carpinteiro:Mestres Carpinteiros</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_CARPENTER_PEDIA</Tag>
@@ -710,6 +757,7 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Тиммерман:Тиммерманы</Russian>
+        <PortuguesePT>Timmerman:Timmermannen</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_TIMMERMAN_PEDIA</Tag>
@@ -745,6 +793,7 @@
 		<Italian>Caracca:Caracche</Italian>
 		<Spanish>Carraca:Carracas</Spanish>
 		<Russian>Каракка:Каракки</Russian>
+        <PortuguesePT>Carraca:Carracas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_CARRACK_PEDIA</Tag>
@@ -776,6 +825,7 @@
 		<Italian>Conestoga:Conestogas</Italian>
 		<Spanish>Conestoga:Conestogas</Spanish>
 		<Russian>Конестогская повозка:Конестогские повозки</Russian>
+        <PortuguesePT>Conestoga:Conestogas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_CARRIER_PEDIA</Tag>
@@ -7160,3 +7210,4 @@
 		<German>[COLOR_UNIT_TEXT]Feindselige Ureinwohner[COLOR_REVERT] können nicht erworben werden.[NEWLINE]Sie sind dem Spieler gegenüber feindlich gesonnen und meist nur in [COLOR_HIGHLIGHT_TEXT]feindseligen Ureinwohnerdörfern[COLOR_REVERT] zu finden.[NEWLINE]Sie werden ihr Dorf bis zum Tod verteidigen und greifen den Spieler an, wenn dieses zerstört wird.</German>
 	</TEXT>
 </Civ4GameText>
+
