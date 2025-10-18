@@ -7166,14 +7166,14 @@
 		<English>[ICON_BULLET]Mounted conquistadores join one of your treasure transports.</English>
 		<German>[ICON_BULLET]Berittene Konquistadoren machen sich auf den Weg und beschützen Euer Gold.</German>
 		<Russian>[ICON_BULLET]Конные конкистадоры присоединяются к одному из ваших транспортов с сокровищами.</Russian>
-		<PortuguesePT>[ÍCONE_BALA]Conquistadores montados juntam-se a um dos teus transportes de tesouro.</PortuguesePT>
+		<PortuguesePT>[ICON_BULLET]Conquistadores montados juntam-se a um dos teus transportes de tesouro.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TREASURE_PROTECTION_NEW_MILITIA_HELP</Tag>
 		<English>[ICON_BULLET]Mounted troops and wagon masters in the treasure transport arm themselves to form a militia.</English>
 		<German>[ICON_BULLET]Einige Wagenlenker und Begleiter eines Schatztransports bewaffnen sich und bilden eine Miliz.</German>
 		<Russian>[ICON_BULLET]Некоторые возничие и сопровождающие транспорт с сокровищами вооружаются и формируют ополчение.</Russian>
-		<PortuguesePT>[ÍCONE_BALA]Tropas montadas e chefes de carroça de transporte de tesouro armaram-se para formar uma milícia.</PortuguesePT>
+		<PortuguesePT>[ICON_BULLET]Tropas montadas e chefes de carroça de transporte de tesouro armaram-se para formar uma milícia.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_TREASURE_PROTECTION</Tag>
@@ -7351,6 +7351,7 @@
 		<PortuguesePT>[ICON_BULLET] Em [COLOR_UNIT_TEXT]10[COLOR_REVERT] turnos, envia uma unidade de [COLOR_UNIT_TEXT]Dragões Veteranos[COLOR_REVERT] ou [COLOR_UNIT_TEXT]Cavalaria Veterana[COLOR_REVERT] para a colónia para proteger os cidadãos e guardar os escravos. Isso deixará os bons cidadãos felizes.</PortuguesePT>
 	</TEXT>
 </Civ4GameText>
+
 
 
 
