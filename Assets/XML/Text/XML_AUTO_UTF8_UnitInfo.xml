@@ -28,7 +28,11 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Африканский раб:Африканские рабы</Russian>
-        <PortuguesePT>Escravo africano</PortuguesePT>
+        <PortuguesePT>
+			<Text>Escravo africano</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_AFRICAN_SLAVE_PEDIA</Tag>
@@ -82,7 +86,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Анаконда</Russian>
-        <PortuguesePT>Anaconda</PortuguesePT>
+        <PortuguesePT>
+			<Text>Anaconda</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_BARLEY</Tag>
@@ -7210,4 +7218,5 @@
 		<German>[COLOR_UNIT_TEXT]Feindselige Ureinwohner[COLOR_REVERT] können nicht erworben werden.[NEWLINE]Sie sind dem Spieler gegenüber feindlich gesonnen und meist nur in [COLOR_HIGHLIGHT_TEXT]feindseligen Ureinwohnerdörfern[COLOR_REVERT] zu finden.[NEWLINE]Sie werden ihr Dorf bis zum Tod verteidigen und greifen den Spieler an, wenn dieses zerstört wird.</German>
 	</TEXT>
 </Civ4GameText>
+
 
