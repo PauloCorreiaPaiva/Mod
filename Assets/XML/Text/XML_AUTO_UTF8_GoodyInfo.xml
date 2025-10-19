@@ -20,6 +20,7 @@
 			<Plural>1</Plural>
 		</Spanish>
 		<Russian>Могильники</Russian>
+        <PortuguesePT>Cemitério indígena</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_ANNOUNCE_BURIAL_GROUNDS</Tag>
@@ -29,6 +30,7 @@
 		<Italian>Hai scoperto quello che sembra un cimitero dei nativi. Vuoi cercare dei tesori?</Italian>
 		<Spanish>Habéis descubierto lo que parecen ser Túmulos funerarios de los Nativos. ¿Queréis buscar tesoros?</Spanish>
 		<Russian>Вы обнаружили место, похожее на захоронение индейцев. Вы хотите поискать сокровища?</Russian>
+        <PortuguesePT>Descobriste o que parece ser um cemitério indígena. Desejas procurar um tesouro?</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_CHRISTIAN_MISSIONARY</Tag>
@@ -36,6 +38,7 @@
 		<French>Vous avez découvert un [COLOR_UNIT_TEXT]missionnaire[COLOR_REVERT] perdu !</French>
 		<German>Ihr habt einen verlaufenen [COLOR_UNIT_TEXT]Missionar[COLOR_REVERT] entdeckt!</German>
 		<Russian>Вы обнаружили пропавшего [COLOR_UNIT_TEXT]миссионера[COLOR_REVERT], который согласен присоединиться к нам!</Russian>
+        <PortuguesePT>Descobriste um [COLOR_UNIT_TEXT]missionário[COLOR_REVERT] perdido!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_FAILED_MISSIONARY</Tag>
@@ -43,6 +46,7 @@
 		<French>Vous avez découvert un [COLOR_UNIT_TEXT]missionnaire désabusé[COLOR_REVERT] de retour dans sa mission en déshérence. </French>
 		<German>Ihr habt einen [COLOR_UNIT_TEXT]gescheiterten Missionar[COLOR_REVERT] auf der Rückkehr von seiner gescheiterten Mission entdeckt!</German>
 		<Russian>Вы обнаружили [COLOR_UNIT_TEXT]разочаровавшегося миссионера[COLOR_REVERT], который бесцельно брел по тропе. Надо взять его с собой, иначе один он тут пропадет!</Russian>
+        <PortuguesePT>Descobriste um [COLOR_UNIT_TEXT]missionário falhado[COLOR_REVERT] no regresso da sua missão também falhada!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_FAILED_TRADER</Tag>
@@ -50,6 +54,7 @@
 		<French>Vous avez découvert un [COLOR_UNIT_TEXT]marchand ruiné[COLOR_REVERT] de retour après l'échec de l'établissement de son comptoir.</French>
 		<German>Ihr habt einen [COLOR_UNIT_TEXT]gescheiterter Händler[COLOR_REVERT] auf der Rückkehr von seinem gescheiterten Handelsposten!</German>
 		<Russian>Вы встретили [COLOR_UNIT_TEXT]неудачливого торговца[COLOR_REVERT], разорившегося после провальной попытки основать торговый пост и решили помочь бедолаге.</Russian>
+        <PortuguesePT>Descobriste um [COLOR_UNIT_TEXT]Comerciante fracassado[COLOR_REVERT] no regresso da sua tentativa também fracassada de estabelecer um entreposto comercial!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_COLONIST</Tag>
@@ -57,6 +62,7 @@
 		<French>Vous avez découvert un [COLOR_UNIT_TEXT]colon[COLOR_REVERT] perdu d'une ancienne colonie !</French>
 		<German>Ihr habt einen verlorenen [COLOR_UNIT_TEXT]Kolonisten[COLOR_REVERT] einer gescheiterten Kolonie entdeckt!</German>
 		<Russian>Вы обнаружили пропавшего [COLOR_UNIT_TEXT]колониста[COLOR_REVERT] из колонии, которую сожгли индейцы!</Russian>
+        <PortuguesePT>Descobriste um [COLOR_UNIT_TEXT]colono[COLOR_REVERT] perdido de uma colónia anterior que desapareceu!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_BUCCANNEER</Tag>
@@ -64,6 +70,7 @@
 		<French>Vous avez découvert un [COLOR_UNIT_TEXT]boucanier[COLOR_REVERT] ![NEWLINE] Il semblait d'abord prêt à vous attaquer mais il s'est ravisé en baissant ses armes et a démandé à vous rejoindre.</French>
 		<German>Ihr habt einen [COLOR_UNIT_TEXT]Bukanier[COLOR_REVERT] entdeckt! [NEWLINE]Zuerst scheint es, als würde er angreifen wollen, aber nach kurzer Zeit senkt er seine Waffen und bittet darum, sich uns anschließen zu dürfen.</German>
 		<Russian>Вы обнаружили [COLOR_UNIT_TEXT]буканьера[COLOR_REVERT]! [NEWLINE]Сначала кажется, что он хочет атаковать вас, но после секундной нерешительности опускает оружие и просит разрешения присоединиться к вам.</Russian>
+        <PortuguesePT>Descobriste um [COLOR_UNIT_TEXT]bucaneiro[COLOR_REVERT]! [NEWLINE]A princípio parecia pronto para nos atacar, mas depois um momento de indecisão, baixou as armas e pediu para se juntar a nós.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_SLAVE_HUNTER</Tag>
@@ -71,6 +78,7 @@
 		<French>Vous avez découvert un [COLOR_UNIT_TEXT]chasseur d'esclaves[COLOR_REVERT] à la recherche de sa cible.</French>
 		<German>Ihr habt einen [COLOR_UNIT_TEXT]Sklavenjäger[COLOR_REVERT] auf der Suche nach Entflohenen entdeckt!</German>
 		<Russian>Вы обнаружили [COLOR_UNIT_TEXT]охотника за рабами[COLOR_REVERT], который пропал без вести во время погони за одним из своих беглых рабов!</Russian>
+        <PortuguesePT>Descobriste um [COLOR_UNIT_TEXT]caçador de escravos[COLOR_REVERT] à procura da sua recompensa!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_SLAVE_MASTER</Tag>
@@ -78,18 +86,21 @@
 		<French>Vous avez découvert un [COLOR_UNIT_TEXT]maitre d'esclaves[COLOR_REVERT] perdu après avoir pourchassé des esclaves fugitifs.</French>
 		<German>Ihr habt einen [COLOR_UNIT_TEXT]Sklavenhalter[COLOR_REVERT] gefunden, der einen seiner entlaufenen Sklaven sucht!</German>
 		<Russian>Вы обнаружили [COLOR_UNIT_TEXT]надсмотрщика за рабами[COLOR_REVERT], который ищет работу. Нам пригодятся его умения!</Russian>
+        <PortuguesePT>Descobriste um [COLOR_UNIT_TEXT]capataz de escravos[COLOR_REVERT] que se perdeu enquanto caçava um dos seus escravos fugitivos!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_MESTIZZO</Tag>
 		<English>You've discovered a [COLOR_UNIT_TEXT]young Native man[COLOR_REVERT] in the woods.[NEWLINE]Taking a closer look you guess that one of his parents might have been white. You ask him to come with you.</English>
 		<German>Ihr habt einen [COLOR_UNIT_TEXT]jungen Ureinwohner[COLOR_REVERT] in den Wäldern entdeckt! [NEWLINE]Bei näherer Betrachtung fällt euch auf, dass einer seiner Elternteile Europäisch gewesen zu sein scheint.</German>
 		<Russian>В лесу вы обнаруживаете [COLOR_UNIT_TEXT]молодого индейца[COLOR_REVERT].[NEWLINE]Присмотревшись, вы догадываетесь, что один из его родителей мог быть белым. Вы предлагаете ему пойти с вами.</Russian>
+        <PortuguesePT>Descobriste um [COLOR_UNIT_TEXT]jovem indígena[COLOR_REVERT] na floresta. [NEWLINE]Olhando mais de perto, imaginas que um dos seus pais pode ter sido branco. Pedes-lhe que venha contigo.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_MULATTO</Tag>
 		<English>You've discovered a [COLOR_UNIT_TEXT]young Black man[COLOR_REVERT]! [NEWLINE]Your first thought is that he's a runaway slave. Then he tells you that his father was the white owner of his black mother who drove her out into the wilderness when she got pregnant.</English>
 		<German>Ihr habt einen [COLOR_UNIT_TEXT]jungen Schwarzen[COLOR_REVERT] in den Wäldern entdeckt! [NEWLINE]Ihr haltet ihn zuerst für einen entlaufenen Sklaven. Doch er erzählt euch, dass seine Mutter von ihrem weißen Besitzer, seinem Vater, in die Wildnis geschickt wurde, nachdem sie schwanger geworden war.</German>
 		<Russian>Вы обнаружили [COLOR_UNIT_TEXT]молодого чернокожего парня[COLOR_REVERT]! [NEWLINE]Первая мысль, которая пришла к вам голову, что это беглый раб. Но он рассказывает вам, что его отец был белым владельцем его черной матери, которую тот выгнал из поместья, когда она забеременела. И вместе с несколькими вещами он дал им вольную.</Russian>
+        <PortuguesePT>Descobriste um [COLOR_UNIT_TEXT]jovem mulato[COLOR_REVERT]! [NEWLINE]O teu primeiro pensamento é que ele é um escravo fugitivo. Depois, ele conta-te que o seu pai era o dono branco da mãe negra escrava e que a levou para o mato onde a engravidou.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_CONQUISTADOR</Tag>
@@ -97,6 +108,7 @@
 		<French>Vous avez découvert un [COLOR_UNIT_TEXT]conquistador[COLOR_REVERT] perdu abandonné par les siens !</French>
 		<German>Ihr habt einen [COLOR_UNIT_TEXT]Konquistador[COLOR_REVERT] entdeckt, der von seiner Truppe getrennt wurde!</German>
 		<Russian>Вы обнаружили пропавшего [COLOR_UNIT_TEXT]конкистадора[COLOR_REVERT], который был разлучен со своими собратьями!</Russian>
+        <PortuguesePT>Descobriste um [COLOR_UNIT_TEXT]conquistador[COLOR_REVERT] perdido que ficou separado dos seus companheiros!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_DESERTED_SHIP</Tag>
@@ -104,6 +116,7 @@
 		<French>Vous avez découvert un [COLOR_UNIT_TEXT]navire[COLOR_REVERT] flottant sur les mers ! Tous les marins sont morts. Il semble par déshydratation.</French>
 		<German>Ihr habt auf hoher See ein steuerlos dahintreibendes [COLOR_UNIT_TEXT]Schiff[COLOR_REVERT] entdeckt! Die gesamte Besatzung ist tot. Es sieht so aus, als ob alle verdurstet seien.</German>
 		<Russian>Вы обнаружили дрейфующий в море [COLOR_UNIT_TEXT]корабль[COLOR_REVERT]! Все матросы мертвы. Кажется, они умерли от жажды...</Russian>
+        <PortuguesePT>Descobriste um [COLOR_UNIT_TEXT]navio[COLOR_REVERT] à deriva no mar! Todos os marinheiros estão mortos. Parecem que morreram à sede.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_EXPERIENCE</Tag>
@@ -113,6 +126,7 @@
 		<Italian>Esperienza</Italian>
 		<Spanish>Experiencia</Spanish>
 		<Russian>Опыт</Russian>
+        <PortuguesePT>Experiência</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_ANNOUNCE_EXPERIENCE</Tag>
@@ -122,6 +136,7 @@
 		<Italian>La scoperta ha fatto crescere l'esperienza dell'unità!</Italian>
 		<Spanish>¡El descubrimiento le ha dado experiencia a la unidad!</Spanish>
 		<Russian>Исследование дало вашему отряду немного опыта!</Russian>
+        <PortuguesePT>A descoberta deu experiência à tua unidade!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_EXPERIENCE_SEA</Tag>
@@ -131,6 +146,7 @@
 		<Italian>Esperienza</Italian>
 		<Spanish>Experiencia:</Spanish>
 		<Russian>Опыт</Russian>
+        <PortuguesePT>Experiência</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_ANNOUNCE_EXPERIENCE_SEA</Tag>
@@ -138,6 +154,7 @@
 		<French>L'équipage de votre navire a gagné de l'expérience !</French>
 		<German>Die Crew eures Schiffes hat etwas Erfahrung gewonnen!</German>
 		<Russian>Экипаж вашего корабля получил немного опыта!</Russian>
+        <PortuguesePT>A tripulação do teu navio ganhou alguma experiência!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_HEALING</Tag>
@@ -159,6 +176,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Древняя медицина</Russian>
+        <PortuguesePT>Medicina Antiga</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_ANNOUNCE_HEALING</Tag>
@@ -168,6 +186,7 @@
 		<Italian>Una tribù di nativi ha curato l'unità!</Italian>
 		<Spanish>¡Una tribu nativa ha curado a vuestra unidad!</Spanish>
 		<Russian>Шаман племени индейцев вылечил ваш отряд!</Russian>
+        <PortuguesePT>Uma tribo indígena curou a tua unidade!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_HIGH_GOLD</Tag>
@@ -198,6 +217,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>ЗОЛОТО!!!</Russian>
+        <PortuguesePT>Ouro!!!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_ANNOUNCE_GOLD</Tag>
@@ -207,6 +227,7 @@
 		<Italian>Hai scoperto preziosi manufatti!</Italian>
 		<Spanish>¡Habéis descubierto artefactos valiosos!</Spanish>
 		<Russian>Найдены ценные артефакты!</Russian>
+        <PortuguesePT>Descobriste artefactos valiosos!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_LOW_GOLD_SEA</Tag>
@@ -219,6 +240,7 @@
 		<French>Vous avez découvert de l'or dans les débris de l'épave !</French>
 		<German>Ihr habt etwas Gold in den Überresten eines verunglückten Schiffes entdeckt!</German>
 		<Russian>Вы нашли золото среди обломков корабля!</Russian>
+        <PortuguesePT>Descobriste algum ouro num naufrágio!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_HOSTILE_STRONG</Tag>
@@ -244,6 +266,7 @@
 			<Plural>1</Plural>
 		</Spanish>
 		<Russian>Враждебные индейцы</Russian>
+        <PortuguesePT>Indígenas hostis</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_ANNOUNCE_HOSTILE</Tag>
@@ -253,6 +276,7 @@
 		<Italian>Hai offeso i nativi, che attaccano la tua unità!</Italian>
 		<Spanish>¡Habéis ofendido a los Nativos, que atacan a vuestra unidad como venganza!</Spanish>
 		<Russian>Вы оскорбили туземцев, которые в отместку за это нападают на ваш отряд!</Russian>
+        <PortuguesePT>Ofendeste os indígenas, e eles atacaram a tua unidade num gesto vingativo!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_MAP</Tag>
@@ -278,6 +302,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Карта</Russian>
+        <PortuguesePT>Mapa</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_ANNOUNCE_MAP</Tag>
@@ -287,6 +312,7 @@
 		<Italian>Hai scoperto un'antica mappa!</Italian>
 		<Spanish>¡Habéis descubierto un mapa antiguo!</Spanish>
 		<Russian>Местные охотники вырезали на старом пне план окрестностей. Какая полезная находка!</Russian>
+        <PortuguesePT>Os caçadores locais esculpiram um esboço da área circundante na tua antiga alvenaria. Foi uma descoberta muito útil!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_MAP_SEA</Tag>
@@ -312,6 +338,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Карта</Russian>
+        <PortuguesePT>Mapa</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_ANNOUNCE_MAP_SEA</Tag>
@@ -319,6 +346,7 @@
 		<French>Vous avez découvert une carte dans les débris de l'épave !</French>
 		<German>Ihr habt eine Karte in den Überresten eines verunglückten Schiffes entdeckt!</German>
 		<Russian>Вы нашли карту среди обломков затонувшего корабля!</Russian>
+        <PortuguesePT>Descobriste um mapa num navio naufragado!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_NATIVE_MERC</Tag>
@@ -326,6 +354,7 @@
 		<French>Vous avez découvert un fier [COLOR_UNIT_TEXT]guerrier indigène[COLOR_REVERT] qui propose de vous rejoindre !</French>
 		<German>Ihr habt einen stolzen [COLOR_UNIT_TEXT]Ureinwohner-Krieger[COLOR_REVERT] entdeckt, der sich euch anschliesst!</German>
 		<Russian>Вы встретили гордого [COLOR_UNIT_TEXT]индейского воина[COLOR_REVERT], который желает присоединиться к вам!</Russian>
+        <PortuguesePT>Descobriste um orgulhoso [COLOR_UNIT_TEXT]guerreiro indígena[COLOR_REVERT] que se ofereceu para se juntar a ti!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_NATIVE_SLAVE</Tag>
@@ -333,6 +362,7 @@
 		<French>Vous avez découvert un [COLOR_UNIT_TEXT]esclave indigène[COLOR_REVERT] fuyant la tribu qui le tenait.</French>
 		<German>Ihr habt einen [COLOR_UNIT_TEXT]Versklavten Ureinwohner[COLOR_REVERT] entdeckt, der von seinem Stamm geflohen ist.</German>
 		<Russian>Вы обнаружили [COLOR_UNIT_TEXT]беглого раба[COLOR_REVERT] из индейского племени.</Russian>
+        <PortuguesePT>Descobriste um [COLOR_UNIT_TEXT]escravo fugitivo[COLOR_REVERT] de uma tribo nativa.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CHIEF_NATIVE_SLAVE</Tag>
@@ -340,6 +370,7 @@
 		<French>Vous vous êtes montrés des guerriers hardis. Comme signe de notre amitué, venez prendre cet esclave en trop que nous avons capturé sur nos ennemis.</French>
 		<German>Ihr habt euch als starke Kämpfer erwiesen. Erlaubt uns euch diesen unwürdigen Gefangenen von einem unserer Beutetzüge als Geschenk zu übergeben.</German>
 		<Russian>Вы показали себя свирепыми воинами. В знак нашей дружбы возьми этого никчемного пленника, захваченного нашими славными воинами у врагов.</Russian>
+        <PortuguesePT>Vocês demonstraram ser uns guerreiros destemidos. Em sinal da nossa amizade, tomem este prisioneiro inútil que capturamos aos nossos inimigos.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CHIEF_NATIVE_MERC</Tag>
@@ -347,6 +378,7 @@
 		<French>Un de nos jeunes guerriers cherche la gloire dans la bataille. Il demande à se battre à vos côtés contre vos ennemis.</French>
 		<German>Einer unsere jungen Krieger sucht den Ruhm des Kampfes. Er fragt, ob er mit euch Schulter an Schulter gegen eure Feinde kämpfen kann.</German>
 		<Russian>Один из наших молодых воинов ищет славы в бою. Он просит разрешения сражаться рядом с вами плечом к плечу против ваших врагов.</Russian>
+        <PortuguesePT>Um dos nossos jovens guerreiros procura a glória na batalha. Ele pede para lutar ao teu lado, ombro a ombro, contra os teus inimigos.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_RUMORS_EL_DORADO</Tag>
@@ -356,6 +388,7 @@
 		<Italian>Voci su El Dorado</Italian>
 		<Spanish>Rumores sobre El Dorado</Spanish>
 		<Russian>Слухи об Эльдорадо</Russian>
+        <PortuguesePT>Rumores sobre El Dorado</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_ANNOUNCE_RUMORS_EL_DORADO</Tag>
@@ -363,6 +396,7 @@
 		<French>Des rumeurs se répandent en Europe selon lesquelles vous auriez trouvé le mythique [COLOR_SELECTED_TEXT]El Dorado[COLOR_REVERT] !</French>
 		<German>Gerüchte breiten sich in Europa aus, dass ihr die mystische Stadt [COLOR_SELECTED_TEXT]El Dorado[COLOR_REVERT] gefunden habt!</German>
 		<Russian>По всей Европе распространяются слухи, что вы нашли мифический город [COLOR_SELECTED_TEXT]Эльдорадо[COLOR_REVERT]!</Russian>
+        <PortuguesePT>Correm por toda a Europa rumores de que Descobriste a mítica cidade de [COLOR_SELECTED_TEXT]El Dorado[COLOR_REVERT]!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_RUMORS_FOUNTAIN_OF_YOUTH</Tag>
@@ -372,6 +406,7 @@
 		<Italian>Voci sulla fontana della giovinezza</Italian>
 		<Spanish>Rumores sobre la Fuente de la Juventud</Spanish>
 		<Russian>Слухи о Фонтане молодости</Russian>
+        <PortuguesePT>Rumores sobre a Fonte da Juventude</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_ANNOUNCE_RUMORS_FOUNTAIN_OF_YOUTH</Tag>
@@ -379,6 +414,7 @@
 		<French>Des rumeurs se répandent en Europe selon lesquelles vous auriez trouvé la mythique [COLOR_SELECTED_TEXT]Fontaine de Jouvence[COLOR_REVERT] !</French>
 		<German>Gerüchte breiten sich in Europa aus, dass ihr den mystischen [COLOR_SELECTED_TEXT]Jungbrunnen[COLOR_REVERT] gefunden habt!</German>
 		<Russian>По Европе ходят слухи, что вы нашли карту, на которой указано расположение мифического [COLOR_SELECTED_TEXT]Фонтана молодости[COLOR_REVERT]!</Russian>
+        <PortuguesePT>Na Europa correm rumores de que encontraste um mapa que mostra a localização da mítica [COLOR_SELECTED_TEXT]Fonte da Juventude[COLOR_REVERT]!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_RUMORS_PIRATE_TREASURE</Tag>
@@ -388,6 +424,7 @@
 		<Italian>Voci su un tesoro dei pirati</Italian>
 		<Spanish>Rumores sobre un tesoro pirata</Spanish>
 		<Russian>Слухи о пиратских сокровищах</Russian>
+        <PortuguesePT>Rumores sobre um tesouro pirata</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_ANNOUNCE_RUMORS_PIRATE_TREASURE</Tag>
@@ -395,6 +432,7 @@
 		<French>Des rumeurs se répandent en Europe selon lesquelles vous auriez trouvé le mythique [COLOR_SELECTED_TEXT]trésor de Barbe Noire[COLOR_REVERT] !</French>
 		<German>Gerüchte breiten sich in Europa aus, dass ihr eine Karte zu einem riesigen [COLOR_SELECTED_TEXT]Piratenschatz[COLOR_REVERT] gefunden habt!</German>
 		<Russian>По Европе ходят слухи, что вы нашли карту с указанием места, где зарыт [COLOR_SELECTED_TEXT]пиратский клад[COLOR_REVERT]!</Russian>
+        <PortuguesePT>Na Europa correm rumores de que encontraste um mapa para um enorme [COLOR_SELECTED_TEXT]tesouro pirata[COLOR_REVERT]!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_SCOUT</Tag>
@@ -420,6 +458,7 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Закаленный разведчик:Закаленные разведчики</Russian>
+        <PortuguesePT>Escoteiro Experiente:Escoteiros Experientes</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_ANNOUNCE_SCOUT</Tag>
@@ -429,6 +468,7 @@
 		<Italian>La tua unità è ora uno [COLOR_UNIT_TEXT]scout esperto[COLOR_REVERT].</Italian>
 		<Spanish>Vuestra unidad ahora es un [COLOR_UNIT_TEXT]Batidor curtido[COLOR_REVERT].</Spanish>
 		<Russian>Наш Разведчик, долгое время скитаясь по глуши, приобрел много полезных навыков и стал [COLOR_UNIT_TEXT]Закалённым разведчиком[COLOR_REVERT].</Russian>
+        <PortuguesePT>A tua unidade é agora um [COLOR_UNIT_TEXT]escoteiro experiente[COLOR_REVERT].</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_SHIPWRECKED</Tag>
@@ -436,6 +476,7 @@
 		<French>Vous avez découvert les [COLOR_UNIT_TEXT]survivants[COLOR_REVERT] d'un nauffrage !</French>
 		<German>Ihr habt einen [COLOR_UNIT_TEXT]Überlebenden[COLOR_REVERT] eines Schiffsunglücks entdeckt!</German>
 		<Russian>Мы обнаружили [COLOR_UNIT_TEXT]выжившего[COLOR_REVERT] после кораблекрушения!</Russian>
+        <PortuguesePT>Descobriste um [COLOR_UNIT_TEXT]sobrevivente[COLOR_REVERT] num navio naufragado!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_TREASURE</Tag>
@@ -457,6 +498,7 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Сокровище</Russian>
+        <PortuguesePT>Tesouro</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_ANNOUNCE_TREASURE</Tag>
@@ -466,6 +508,7 @@
 		<Italian>Hai scoperto un antico tesoro!</Italian>
 		<Spanish>¡Habéis descubierto un antiguo tesoro!</Spanish>
 		<Russian>Вы обнаружили древнее сокровище!</Russian>
+        <PortuguesePT>Descobriste um tesouro antigo!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_WAR</Tag>
@@ -479,6 +522,7 @@
 		<Italian>Hai offeso i nativi, che ti dichiarano guerra!</Italian>
 		<Spanish>¡Habéis ofendido a los Nativos, que os declaran la guerra como represalia!</Spanish>
 		<Russian>Вы серьезно оскорбили туземцев, которые в отместку нападают на ваш отряд!</Russian>
+        <PortuguesePT>Ofendeste gravemente os indígenas, os quais te declararam guerra num gesto vingativo!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_RANGER</Tag>
@@ -486,6 +530,7 @@
 		<French>Vous avez découvert un garde foresteier blessé qui nous offre en retour ses services</French>
 		<German>Ihr habt einen verwundeten [COLOR_UNIT_TEXT]Ranger[COLOR_REVERT] entdeckt, der uns für unsere Hilfe seine Dienste anbietet!</German>
 		<Russian>Вы обнаружили раненого [COLOR_UNIT_TEXT]рейнджера[COLOR_REVERT] и помогли ему. В благодарность за это он желает присоединиться к нам!</Russian>
+        <PortuguesePT>Descobriste um [COLOR_UNIT_TEXT]Ranger[COLOR_REVERT] ferido que, em sinal de gratidão, ofereceu-te os seus serviços!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_NATIVE_TRADER</Tag>
@@ -493,179 +538,209 @@
 		<French>Vous avez découvert un [COLOR_UNIT_TEXT]marchand avec les indigènes[COLOR_REVERT] qui s'était perdu. Il demande à travailler avec nous.</French>
 		<German>Ihr habt einen [COLOR_UNIT_TEXT]Ureinwohnerhändler[COLOR_REVERT] entdeckt, der die Orientierung verloren hatte und Euch nun seine Dienste anbietet!</German>
 		<Russian>Вы обнаружили [COLOR_UNIT_TEXT]торговца с индейцами[COLOR_REVERT], который заблудился в этих диких местах. Он хочет остаться и работать вместе с нами!</Russian>
+        <PortuguesePT>Descobriste um [COLOR_UNIT_TEXT]Comerciante de indígenas[COLOR_REVERT] que se perdeu. Ele agora deseja trabalhar contigo!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_CRAZY_SECT_OF_MISSIONARIES</Tag>
 		<English>Milord, we've found [COLOR_WARNING_TEXT]Christian missionaries[COLOR_REVERT] in the wilderness who seem to have gone crazy. They pray to small yellow-blue frogs in a pool of water.</English>
 		<German>Milord, wir haben [COLOR_WARNING_TEXT]christliche Missionare[COLOR_REVERT] in der Wildnis gefunden, die anscheinend verrückt sind. Sie beten kleine bunte Frösche in einem Tümpel an.</German>
 		<Russian>Милорд, в пустыне мы обнаружили [COLOR_WARNING_TEXT]христианских миссионеров[COLOR_REVERT], которые, кажется, сошли с ума. Они молятся маленьким желто-голубым лягушкам в бассейне с водой.</Russian>
+        <PortuguesePT>Meu senhor, encontrámos [COLOR_WARNING_TEXT]missionários cristãos[COLOR_REVERT] no deserto que parecem ter enlouquecido. Eles estão a rezar a pequenas rãs amarelo-azuladas numa poça de água.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_HOSTILE_RANGER_IN_THE_WILDERNESS</Tag>
 		<English>Milord, we've found a [COLOR_WARNING_TEXT]ranger[COLOR_REVERT] in the wilderness who refuses to talk to us. Whenever we approach he attacks.</English>
 		<German>Milord, wir haben einen [COLOR_WARNING_TEXT]Ranger[COLOR_REVERT] in der Wildnis gefunden, der sich weigerte mit uns zu reden. Als wir uns näherten, griff er uns überraschend an.</German>
 		<Russian>Милорд, в глуши  мы нашли [COLOR_WARNING_TEXT]рейнджера[COLOR_REVERT], который отказывается с нами разговаривать. Всякий раз, когда мы приближаемся, он атакует.</Russian>
+        <PortuguesePT>Meu senhor, encontrámos um [COLOR_WARNING_TEXT]Ranger[COLOR_REVERT] no deserto que se recusa a falar connosco. Sempre que nos aproximamos ele ataca.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_SEVEN_CITIES_OF_CIBOLA</Tag>
 		<English>We've found [COLOR_SELECTED_TEXT]Cibola[COLOR_REVERT], the legendary city of gold. Unfortunately other [COLOR_WARNING_TEXT]conquistadores[COLOR_REVERT] got here before us. They don't want to share its wealth.</English>
 		<German>Wir haben die legendäre goldene Stadt [COLOR_SELECTED_TEXT]Cibola[COLOR_REVERT] gefunden. Leider haben andere [COLOR_WARNING_TEXT]Konquistadoren[COLOR_REVERT] sie vor uns entdeckt. Sie sind nicht bereit, deren Reichtümer zu teilen.</German>
 		<Russian>Мы нашли [COLOR_SELECTED_TEXT]Сиболу[COLOR_REVERT], легендарный золотой город. К сожалению, другие [COLOR_WARNING_TEXT]конкистадоры[COLOR_REVERT] добрались до него раньше нас. Они не хотят делиться своим богатством.</Russian>
+        <PortuguesePT>Encontrámos [COLOR_SELECTED_TEXT]Cibola[COLOR_REVERT], a lendária cidade do ouro. Infelizmente outros [COLOR_WARNING_TEXT]conquistadores[COLOR_REVERT] chegaram aqui antes de nós e não querem partilhar a sua riqueza.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_CONQUISTADOR_TREASURE_GUARD</Tag>
 		<English>Milord, we found a mysterious [COLOR_WARNING_TEXT]mounted conquistador[COLOR_REVERT] carrying a small treasure. When we asked where he was from he immediately attacked.</English>
 		<German>Milord, wir haben einen mysteriösen [COLOR_WARNING_TEXT]Berittenen Konquistador[COLOR_REVERT] getroffen, der einen kleinen Schatz mit sich führte. Als wir fragten, von woher er kommt, griff er uns unverzüglich an.</German>
 		<Russian>Милорд, мы нашли таинственного [COLOR_WARNING_TEXT]конного конкистадора[COLOR_REVERT] с небольшим сокровищем. Когда мы спросили, откуда он, он сразу напал на нас.</Russian>
+        <PortuguesePT>Meu senhor, encontrámos um misterioso [COLOR_WARNING_TEXT]conquistador montado[COLOR_REVERT] que transportava um pequeno tesouro. Quando lhe perguntámos de onde era, ele atacou-nos logo.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_NATIVES_ON_WAR_PATH</Tag>
 		<English>The [COLOR_WARNING_TEXT]Natives[COLOR_REVERT] in this village were already preparing to go on the warpath. This is going to be a tough fight.</English>
 		<German>So wie es scheint, bereiten sich die [COLOR_WARNING_TEXT]Ureinwohner[COLOR_REVERT] dieser Siedlung darauf vor, auf den Kriegspfad zu gehen. Dies wird ein schwieriger Kampf werden.</German>
 		<Russian>[COLOR_WARNING_TEXT]Индейцы[COLOR_REVERT] в этой деревне уже готовы выйти на тропу войны. Это будет тяжелая битва.</Russian>
+        <PortuguesePT>Os [COLOR_WARNING_TEXT]indígenas[COLOR_REVERT] desta aldeia já se preparavam para entrar em pé de guerra. Esta vai ser uma dura luta.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_TREASURE_RUN</Tag>
 		<English>Milord, we've found an undefended [COLOR_WARNING_TEXT]treasure train[COLOR_REVERT] belonging to our enemies. Don't let it escape!</English>
 		<German>Milord, wir scheinen einen unverteidigten [COLOR_WARNING_TEXT]Schatzzug[COLOR_REVERT] unserer Feinde entdeckt zu haben. Wir sollten sie schnell fassen, bevor sie fliehen!</German>
 		<Russian>Милорд, мы нашли незащищенный [COLOR_WARNING_TEXT]поезд с сокровищами[COLOR_REVERT], принадлежащий нашим врагам. Не дайте ему уйти!</Russian>
+        <PortuguesePT>Meu senhor, encontrámos uma [COLOR_WARNING_TEXT]carroça do tesouro[COLOR_REVERT] indefesa que pertence aos nossos inimigos. Não a deixemos escapar!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_CRIMINAL_CAMP</Tag>
 		<English>This is nothing but a camp of [COLOR_WARNING_TEXT]criminals and outlaws[COLOR_REVERT]. We'll show them law and order!</English>
 		<German>Dies scheint ein Lager voller [COLOR_WARNING_TEXT]Krimineller und Gesetzloser[COLOR_REVERT] zu sein. Lasst uns ihnen Recht und Gottesfurcht beibringen!</German>
 		<Russian>Это не что иное, как лагерь [COLOR_WARNING_TEXT]каторжников и преступников[COLOR_REVERT]. Мы покажем им закон и порядок!</Russian>
+        <PortuguesePT>Isto não é mais do que um acampamento de [COLOR_WARNING_TEXT]criminosos e bandidos[COLOR_REVERT]. Vamos mostrar-lhes o que é a lei e a ordem!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_DESERTED_MILITIA</Tag>
 		<English>Milord, we've found a [COLOR_WARNING_TEXT]coward[COLOR_REVERT] who deserted from the colonial militia. We must bring him to justice.</English>
 		<German>Milord, es scheint, wir haben einen [COLOR_WARNING_TEXT]Fahnenflüchtigen[COLOR_REVERT] gefunden, der feige vor seinen Pflichten in der Kolonialmiliz geflohen ist. Wir sollten ihn seiner gerechten Strafe zuführen, damit er wieder an seine Pflichten erinnert wird.</German>
 		<Russian>Милорд, мы наткнулись на [COLOR_WARNING_TEXT]труса[COLOR_REVERT], дезертировавшего из колониального ополчения. Мы должны привлечь его к ответственности.</Russian>
+        <PortuguesePT>Meu senhor, encontrámos um homem [COLOR_WARNING_TEXT]cobarde[COLOR_REVERT] que desertou da milícia colonial. Temos de o levar à justiça.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_RUNAWAY_NATIVE_SLAVES</Tag>
 		<English>Milord, we've found runaway [COLOR_WARNING_TEXT]Native slaves[COLOR_REVERT]. Let's catch them so we can bring them back to their owners.</English>
 		<German>Milord, wir haben entlaufene [COLOR_WARNING_TEXT]Versklavte Ureinwohner[COLOR_REVERT] gefunden. Wir sollten sie wieder einfangen und zu ihren rechtmäßigen Besitzern zurückbringen.</German>
 		<Russian>Милорд, мы нашли беглых [COLOR_WARNING_TEXT]туземных рабов[COLOR_REVERT]. Давайте поймаем их, чтобы мы могли вернуть их владельцам. Или оставим себе.</Russian>
+        <PortuguesePT>Meu senhor, encontrámos [COLOR_WARNING_TEXT]escravos indígenas[COLOR_REVERT] fugitivos. Vamos capturá-los para podermos devolvê-los aos seus donos.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_RUNAWAY_AFRICAN_SLAVES</Tag>
 		<English>Milord, we've found runaway [COLOR_WARNING_TEXT]African slaves[COLOR_REVERT]. Let us catch them so we can them back to their owners.</English>
 		<German>Milord, wir haben entlaufene [COLOR_WARNING_TEXT]Versklavte Afrikaner[COLOR_REVERT] gefunden. Wir sollten sie wieder einfangen und zu ihren rechtmäßigen Besitzern zurückbringen.</German>
 		<Russian>Милорд, мы нашли беглых [COLOR_WARNING_TEXT]африканских рабов[COLOR_REVERT]. Давайте поймаем их - на плантациях не хватает работников.</Russian>
+        <PortuguesePT>Meu senhor, encontrámos [COLOR_WARNING_TEXT]escravos africanos[COLOR_REVERT] fugitivos. Vamos apanhá-los para os devolvermos aos seus donos.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_RUNAWAY_SERVANT</Tag>
 		<English>Milord, we've found an [COLOR_WARNING_TEXT]indentured servant[COLOR_REVERT] who fled a harsh master. He was so scared that he attacked us to avoid being brought home.</English>
 		<German>Milord, wir haben einen [COLOR_WARNING_TEXT]Schuldknecht[COLOR_REVERT] gefunden, der von den Züchtigungen seines Herrn geflohen ist. Er war so verängstigt, wieder dorthin zurückgebracht zu werden, daß er uns angriff.</German>
 		<Russian>Милорд, мы нашли [COLOR_WARNING_TEXT]наемного работника[COLOR_REVERT], который бежал от сурового хозяина. Он был так напуган, что чуть не напал на нас, не желая возвращаться домой.</Russian>
+        <PortuguesePT>Meu senhor, encontrámos um [COLOR_WARNING_TEXT]servo contratado[COLOR_REVERT] que fugiu de um mestre severo. Ficou tão assustado que nos atacou para não ser levado para casa.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_ARMED_NATIVE_SLAVES_COLONY</Tag>
 		<English>Milord, we've found a hidden village of runaway [COLOR_WARNING_TEXT]Native slaves[COLOR_REVERT], all well armed. How did they flee? Where did they get those weapons?</English>
 		<German>Milord, wir haben ein verstecktes Dorf von entlaufenen [COLOR_WARNING_TEXT]Versklavten Ureinwohnern[COLOR_REVERT] gefunden, die allesamt gut bewaffnet sind. Wie konnten sie fliehen und woher haben sie diese Waffen?</German>
 		<Russian>Милорд, мы нашли тайную деревню беглых [COLOR_WARNING_TEXT]индейских рабов[COLOR_REVERT], все хорошо вооружены. Как они могли сбежать? Где они взяли оружие?</Russian>
+        <PortuguesePT>Meu senhor, encontrámos escondida, uma aldeia de [COLOR_WARNING_TEXT]escravos indígenas[COLOR_REVERT] fugitivos, e estavam todos bem armados. Como é que fugiram? E onde é que arranjaram as armas?</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_ARMED_AFRICAN_SLAVES_COLONY</Tag>
 		<English>Milord, we've found a hidden village of runaway [COLOR_WARNING_TEXT]African slaves[COLOR_REVERT], all well armed. How did they flee? Where did they get those weapons?</English>
 		<German>Milord, wir haben ein verstecktes Dorf von entlaufenen [COLOR_WARNING_TEXT]Versklavten Afrikanern[COLOR_REVERT] gefunden, die allesamt gut bewaffnet sind. Wie konnten sie fliehen? Und woher haben sie all diese Waffen?</German>
 		<Russian>Милорд, мы нашли тайную деревню беглых [COLOR_WARNING_TEXT]африканских рабов[COLOR_REVERT], все хорошо вооружены. Как они могли сбежать? Где они взяли оружие?</Russian>
+        <PortuguesePT>Meu senhor, encontrámos escondida, uma aldeia de [COLOR_WARNING_TEXT]escravos africanos[COLOR_REVERT] fugitivos, e estavam todos bem armados. Como é que fugiram? Onde é que arranjaram as armas?</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_SCALP_HUNTER</Tag>
 		<English>Milord, we've met heavily armed [COLOR_WARNING_TEXT]Native mercenaries[COLOR_REVERT]. Apparently somebody promised them a bounty for our scalps.</English>
 		<German>Milord, wir sind auf schwer bewaffnete [COLOR_WARNING_TEXT]Indianische Söldner[COLOR_REVERT] getroffen. Anscheinend hat man ihnen ein Kopfgeld für unsere Scalps geboten.</German>
 		<Russian>Милорд, мы встретили хорошо вооруженных [COLOR_WARNING_TEXT]индейских наемников[COLOR_REVERT]. Видимо, кто-то обещал им награду за наши скальпы.</Russian>
+        <PortuguesePT>Meu senhor, encontrámos [COLOR_WARNING_TEXT]mercenários indígenas[COLOR_REVERT] fortemente armados. Aparentemente, alguém lhes prometeu uma recompensa pelos nossos escalpes.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_DAMAGED_WAGON_TRAIN</Tag>
 		<English>Milord, we've found a heavily damaged [COLOR_WARNING_TEXT]wagon train[COLOR_REVERT] in the wilderness. We can repair it but there's no trace of its owners.</English>
 		<German>Milord, wir haben einen aufgegebenen [COLOR_WARNING_TEXT]Planwagen[COLOR_REVERT] in der Wildnis gefunden, den wir mit einigem Aufwand reparieren konnten. Von den Besitzern fand sich keinerlei Spur mehr.</German>
 		<Russian>Милорд, в глуши мы нашли сильно поврежденную [COLOR_WARNING_TEXT]повозку[COLOR_REVERT]. Следов владельцев не видно. Мы починим её и заберём себе.</Russian>
+        <PortuguesePT>Meu senhor, encontrámos no deserto uma [COLOR_WARNING_TEXT]carroça[COLOR_REVERT] gravemente danificada. Podemos repará-la, mas não há vestígios dos seus proprietários.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_ESCAPING_SMUGGLING_SHIP</Tag>
 		<English>Milord, we've found the secret smuggling port of the local [COLOR_WARNING_TEXT]black market traders[COLOR_REVERT]. They're trying to flee with their ship.</English>
 		<German>Milord, anscheinend haben wir das Versteck der lokalen [COLOR_WARNING_TEXT]Schwarzmarkthändler[COLOR_REVERT] gefunden. Anscheinend vollkommen überrascht, setzen sie eiligst Segel, um doch noch mit ihrem wendigen Schiff zu entkommen.</German>
 		<Russian>Милорд, мы нашли секретный порт контрабанды местных [COLOR_WARNING_TEXT]торговцев черного рынка[COLOR_REVERT]. Они пытаются бежать на своем корабле.</Russian>
+        <PortuguesePT>Meu senhor, encontrámos o porto secreto onde os [COLOR_WARNING_TEXT]comerciantes locais do mercado negro[COLOR_REVERT] fazem contrabando. Agora, estão a tentar fugir no seu navio.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_ATTACKING_PIRATE_FRIGATE</Tag>
 		<English>Milord, we've found a half-sunk ship. It looks like it was attacked by [COLOR_WARNING_TEXT]pirates[COLOR_REVERT].</English>
 		<German>Milord, wir haben ein noch treibendes, aber unrettbar beschädigtes Schiff mit Spuren eines Kampfes entdeckt. Es wurde anscheinend von [COLOR_WARNING_TEXT]Piraten[COLOR_REVERT] angegriffen.</German>
 		<Russian>Милорд, мы нашли полузатонувший корабль. Похоже, на него напали [COLOR_WARNING_TEXT]пираты[COLOR_REVERT].</Russian>
+        <PortuguesePT>Meu senhor, encontrámos um navio meio afundado. Parece que foi atacado por [COLOR_WARNING_TEXT]piratas[COLOR_REVERT].</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_WOLF_PACK</Tag>
 		<English>Milord, the cave we've found turns out to be the den of a [COLOR_WARNING_TEXT]wolf pack[COLOR_REVERT]. They're back from their hunt, circling us, ready to attack.</English>
 		<German>Milord, die Höhle, die wir betreten haben, scheint das Heim eines [COLOR_WARNING_TEXT]Wolfsrudels[COLOR_REVERT] zu sein. Sie sind nun von ihrer Jagd zurückgekehrt und kreisen uns immer mehr ein.</German>
 		<Russian>Милорд, найденная нами пещера оказалась логовом [COLOR_WARNING_TEXT]волчьей стаи[COLOR_REVERT]. Они кружат вокруг нас, готовые атаковать.</Russian>
+        <PortuguesePT>Meu senhor, a gruta que encontrámos é o covil de uma [COLOR_WARNING_TEXT]alcateia de lobos[COLOR_REVERT]. Regressaram da caçada, rodearam-nos e estão prontos para atacar.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_GRIZZLY_GRIM</Tag>
 		<English>Milord, the cave we've found seems to be the home of a [COLOR_WARNING_TEXT]grizzly[COLOR_REVERT]. We've wakened him from his sleep. He doesn't like that.</English>
 		<German>Milord, die Höhle, die wir betreten haben, scheint das Heim eines [COLOR_WARNING_TEXT]Grizzlys[COLOR_REVERT] zu sein. Er scheint es gar nicht zu mögen, dass wir ihn aus seinem Schlaf geweckt haben.</German>
 		<Russian>Милорд, найденная нами пещера, похоже, является домом для [COLOR_WARNING_TEXT]гризли[COLOR_REVERT]. И мы разбудили его... Ему это явно не нравится...</Russian>
+        <PortuguesePT>Meu senhor, a gruta que encontrámos parece ser o lar de um [COLOR_WARNING_TEXT]urso pardo[COLOR_REVERT]. Nós acordámo-lo do seu sono. E ele não gostou.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_SEE_YOU_LATER_ALLIGATOR</Tag>
 		<English>Milord, we've found an [COLOR_WARNING_TEXT]alligator nest[COLOR_REVERT]. These beasts seem to be hungry. We better not get any closer if we don't want to become their lunch.</English>
 		<German>Milord, wir haben ein ganzes Gelege von [COLOR_WARNING_TEXT]Alligatoren[COLOR_REVERT] gefunden. Diese Biester scheinen hungrig zu sein. Wir sollten uns ihnen daher nicht weiter nähern.</German>
 		<Russian>Милорд, мы нашли [COLOR_WARNING_TEXT]гнездо аллигатора[COLOR_REVERT]. Эти звери кажутся голодными. Нам лучше не приближаться, если мы не хотим стать их обедом.</Russian>
+        <PortuguesePT>Meu senhor, encontrámos um [COLOR_WARNING_TEXT]ninho de crocodilos[COLOR_REVERT]. Estas feras parecem estar com fome. É melhor não nos aproximarmos se não queremos ser o seu almoço.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_MOTHER_BEAR</Tag>
 		<English>Milord, we stumbled across a [COLOR_WARNING_TEXT]mother black bear[COLOR_REVERT] with her cubs. She's charging!</English>
 		<German>Milord, wir sind über eine [COLOR_WARNING_TEXT]Schwarzbärin[COLOR_REVERT] mit ihrem Jungen gestolpert. Die Mutter stürmt nun auf uns zu, um uns anzugreifen!</German>
 		<Russian>Милорд, мы наткнулись на [COLOR_WARNING_TEXT]самку черного медведя[COLOR_REVERT] с детенышами. Кажется, нам не рады!</Russian>
+        <PortuguesePT>Meu senhor, encontrámos uma [COLOR_WARNING_TEXT]mãe ursa negra[COLOR_REVERT] com as suas crias. Ela está a vir contra nós!</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_WHITE_HUNTER_IN_THE_SNOW</Tag>
 		<English>Milord, we've found the [COLOR_WARNING_TEXT]most gigantic bear[COLOR_REVERT] we've ever seen. It is white as snow and incredibly fast and strong.</English>
 		<German>Milord, wir haben den [COLOR_WARNING_TEXT]größten Bären aller Zeiten[COLOR_REVERT] gefunden. Er ist weiß wie Schnee, unglaublich stark und sehr schnell.</German>
 		<Russian>Милорд, мы нашли [COLOR_WARNING_TEXT]самого гигантского медведя[COLOR_REVERT], которого когда-либо видели. Он белый как снег и невероятно быстрый и сильный.</Russian>
+        <PortuguesePT>Meu senhor, encontrámos o [COLOR_WARNING_TEXT]urso mais gigantesco[COLOR_REVERT] que já vimos. É branco como a neve, é incrivelmente rápido e é forte.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_LYNX_TRAIL</Tag>
 		<English>Milord, we've found a dead deer. Our scouts also saw footprints of a [COLOR_WARNING_TEXT]lynx[COLOR_REVERT] that's hunting in this area.</English>
 		<German>Milord, wir haben ein totes Reh gefunden. Unsere Späher berichten, dass die Spuren auf einen [COLOR_WARNING_TEXT]Luchs[COLOR_REVERT] hindeuten, der in dieser Gegend jagt.</German>
 		<Russian>Милорд, мы нашли мертвого оленя. Наши разведчики также заметили следы [COLOR_WARNING_TEXT]рыси[COLOR_REVERT], которая охотится в этом районе.</Russian>
+        <PortuguesePT>Meu senhor, encontrámos um veado morto. Os nossos escoteiros também viram pegadas de um [COLOR_WARNING_TEXT]lince[COLOR_REVERT] que anda a caçar nesta área.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_SHADOW_IN_THE_JUNGLE</Tag>
 		<English>Milord, our men say they saw [COLOR_WARNING_TEXT]a shadow moving in the trees[COLOR_REVERT]. Maybe we should listen to them and get ready for an attack.</English>
 		<German>Milord, unsere Männer berichten über einen [COLOR_WARNING_TEXT]Schatten, der sich in den Bäumen bewegt[COLOR_REVERT]. Wir sollten vielleicht auf sie hören und uns auf einen Angriff vorbereiten.</German>
 		<Russian>Милорд, наши люди говорят, что видели [COLOR_WARNING_TEXT]тень, движущуюся среди деревьев[COLOR_REVERT]. Может быть, нам стоит прислушаться к ним и подготовиться к нападению?</Russian>
+        <PortuguesePT>Meu senhor, os nossos homens dizem que viram [COLOR_WARNING_TEXT]uma sombra a mover-se nas árvores[COLOR_REVERT]. Talvez devêssemos ouvi-los e preparar-nos para um ataque.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_COUGAR_IN_THE_NIGHT</Tag>
 		<English>Milord, the men at the campfire heard faint noises in the grass. We think a [COLOR_WARNING_TEXT]big cat[COLOR_REVERT] or some other predator is close by.</English>
 		<German>Milord, die Männer am Lagerfeuer berichten, daß sie leise Geräusche im Gras gehört haben. Wir vermuten eine [COLOR_WARNING_TEXT]Raubkatze[COLOR_REVERT] oder ein anderes Raubtier in der Nähe.</German>
 		<Russian>Милорд, люди у костра слышали слабые шорохи в траве. Мы думаем, что поблизости находится [COLOR_WARNING_TEXT]большая кошка[COLOR_REVERT] или другой хищник.</Russian>
+        <PortuguesePT>Meu senhor, os homens junto à fogueira ouviram ruídos na relva. Pensamos que há um [COLOR_WARNING_TEXT]grande felino[COLOR_REVERT] ou algum outro predador por perto.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_GREAT_WHITE</Tag>
 		<English>Milord, there are remnants of a sunken ship along with dead sailors floating in the water. Their blood has attracted a [COLOR_WARNING_TEXT]great white shark[COLOR_REVERT].</English>
 		<German>Milord, zwischen den Wrackteilen eines gesunkenen Schiffes treiben auch die Körper toter Seeleute im Wasser. Ihr Blut scheint einen [COLOR_WARNING_TEXT]Weissen Hai[COLOR_REVERT] angelockt zu haben.</German>
 		<Russian>Милорд, в воде плавают остатки затонувшего корабля вместе с мертвыми моряками. Их кровь привлекла [COLOR_WARNING_TEXT]большую белую акулу[COLOR_REVERT].</Russian>
+        <PortuguesePT>Meu senhor, há restos de um navio naufragado juntamente com marinheiros mortos a flutuar na água. O seu sangue atraiu um [COLOR_WARNING_TEXT]grande tubarão branco[COLOR_REVERT].</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_MOBY_DICK</Tag>
 		<English>Milord, something [COLOR_WARNING_TEXT]gigantic[COLOR_REVERT] must have rammed and nearly sunk that ship. But what could have been that huge?</English>
 		<German>Milord, irgendetwas [COLOR_WARNING_TEXT]Riesiges[COLOR_REVERT] scheint dieses Schiff gerammt und beinahe zum Kentern gebracht zu haben. Aber was kann so groß gewesen sein?</German>
 		<Russian>Милорд, должно быть, что-то [COLOR_WARNING_TEXT]гигантское[COLOR_REVERT] протаранило и чуть не потопило этот корабль. Но что могло быть таким огромным?</Russian>
+        <PortuguesePT>Meu senhor, algo de [COLOR_WARNING_TEXT]gigantesco[COLOR_REVERT] deve ter batido e quase afundado aquele navio. Mas o que poderá ter sido assim tão grande?</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_KRAKEN_ARMS</Tag>
 		<English>Milord, it seems this ship has been ripped apart by incredible forces. One of our old sailors swears that this could only have been a [COLOR_WARNING_TEXT]giant kraken[COLOR_REVERT].</English>
 		<German>Milord, es scheint, dass dieses Schiff von unglaublichen Kräften auseinander gerissen wurde. Die alten Seebären in unserer Besatzung sind sich einig, daß dies nur ein außerordentlich [COLOR_WARNING_TEXT]großer Krake[COLOR_REVERT] gewesen sein kann.</German>
 		<Russian>Милорд, кажется, этот корабль разорвало на части что-то, обладающее невероятной силой. Один из наших старых моряков клянется, что это мог быть только [COLOR_WARNING_TEXT]гигантский кракен[COLOR_REVERT].</Russian>
+        <PortuguesePT>Meu senhor, parece que este navio foi destruído por forças incríveis. Um dos nossos antigos marinheiros jura que isto só pode ter sido um [COLOR_WARNING_TEXT]kraken gigante[COLOR_REVERT].</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_GOODY_ORCA_SCHOOL</Tag>
 		<English>Milord, the debris from of a sunken ship has interested some [COLOR_WARNING_TEXT]orcas[COLOR_REVERT]. Several of them are swimming around our ship but they haven't attacked yet.</English>
 		<German>Milord, die treibenden Wrackteile eines gesunkenen Schiffes haben einige [COLOR_WARNING_TEXT]Orcas[COLOR_REVERT] angelockt. Mehrere von ihnen umkreisen unser Schiff, allerdings ohne uns anzugreifen.</German>
 		<Russian>Милорд, обломки затонувшего корабля заинтересовали [COLOR_WARNING_TEXT]косаток[COLOR_REVERT]. Несколько из них плавает вокруг нашего корабля, но пока не напали.</Russian>
+        <PortuguesePT>Meu senhor, os destroços de um navio naufragado chamaram o interesse de algumas [COLOR_WARNING_TEXT]orcas[COLOR_REVERT]. Estão várias a nadar à volta do nosso navio mas ainda não nos atacaram.</PortuguesePT>
 	</TEXT>
 </Civ4GameText>
