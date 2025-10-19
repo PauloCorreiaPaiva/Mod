@@ -8,6 +8,7 @@
 		<Italian>Cronaca</Italian>
 		<Spanish>Crónica</Spanish>
 		<Russian>Летопись</Russian>
+        <PortuguesePT>Crónica</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_ACHIEVE_SCREEN_HELP</Tag>
@@ -22,6 +23,7 @@
 		<Italian>Avvia diplomazia</Italian>
 		<Spanish>Iniciar diplomacia</Spanish>
 		<Russian>Дипломатия</Russian>
+        <PortuguesePT>Iniciar diplomacia</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_DIPLOMACY_HELP</Tag>
@@ -36,6 +38,7 @@
 		<Italian>Registro degli eventi</Italian>
 		<Spanish>Historial de sucesos</Spanish>
 		<Russian>Журнал событий</Russian>
+        <PortuguesePT>Registo de eventos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_TURN_LOG_HELP</Tag>
@@ -50,6 +53,7 @@
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Apri menu principale[COLOR_REVERT] [COLOR:140:255:40:255]&lt; Esc &gt;[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_HIGHLIGHT_TEXT]Abrir menú principal[COLOR_REVERT] [COLOR:140:255:40:255]&lt; Esc &gt;[COLOR_REVERT]</Spanish>
 		<Russian>[COLOR_HIGHLIGHT_TEXT]Открыть игровое меню[COLOR_REVERT] [COLOR:140:255:40:255]Esc[COLOR_REVERT]</Russian>
+        <PortuguesePT>[COLOR_HIGHLIGHT_TEXT]Abrir Menu Principal[COLOR_REVERT] [COLOR:140:255:40:255]&lt; Esc &gt;[COLOR_REVERT]</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_CIVILOPEDIA</Tag>
@@ -59,6 +63,7 @@
 		<Italian>Colopedia</Italian>
 		<Spanish>Colopedia</Spanish>
 		<Russian>Колонопедия</Russian>
+        <PortuguesePT>Colopedia</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_CIVILOPEDIA_HELP</Tag>
@@ -73,6 +78,7 @@
 		<Italian>Consigliere interno</Italian>
 		<Spanish>Consejero de Interior</Spanish>
 		<Russian>Советник по внутренним делам</Russian>
+        <PortuguesePT>Conselheiro interno</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_DOMESTIC_SCREEN_HELP</Tag>
@@ -87,6 +93,7 @@
 		<Italian>Europe</Italian>
 		<Spanish>Europe</Spanish>
 		<Russian>Европа</Russian>
+        <PortuguesePT>Europa</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_EUROPE_SCREEN_HELP</Tag>
@@ -101,6 +108,7 @@
 		<Italian>Africa</Italian>
 		<Spanish>África</Spanish>
 		<Russian>Африка</Russian>
+        <PortuguesePT>África</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_AFRICA_SCREEN_HELP</Tag>
@@ -115,6 +123,7 @@
 		<Italian>Port Royal</Italian>
 		<Spanish>Port Royal</Spanish>
 		<Russian>Порт Ройал</Russian>
+        <PortuguesePT>Porto Real</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_PORT_ROYAL_SCREEN_HELP</Tag>
@@ -129,6 +138,7 @@
 		<Italian>Consigliere per la rivoluzione</Italian>
 		<Spanish>Consejero de la Revolución</Spanish>
 		<Russian>Революционный советник</Russian>
+        <PortuguesePT>Conselheiro da Revolução</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_REVOLUTION_SCREEN_HELP</Tag>
@@ -143,6 +153,7 @@
 		<Italian>Consigliere estero</Italian>
 		<Spanish>Consejero de Asuntos Exteriores</Spanish>
 		<Russian>Советник по иностранным делам</Russian>
+        <PortuguesePT>Conselheiro Diplomático</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_FOREIGN_SCREEN_HELP</Tag>
@@ -157,6 +168,7 @@
 		<Italian>Consigliere militare</Italian>
 		<Spanish>Consejero militar</Spanish>
 		<Russian>Военный советник</Russian>
+        <PortuguesePT>Conselheiro Militar</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_MILITARY_SCREEN_HELP</Tag>
@@ -170,6 +182,7 @@
 		<Italian>Padri Fondatori</Italian>
 		<Spanish>Padres fundadores</Spanish>
 		<Russian>Отцы основатели</Russian>
+        <PortuguesePT>Pais Fundadores</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_FATHER_SCREEN_HELP</Tag>
@@ -184,6 +197,7 @@
 		<Italian>Congresso continentale</Italian>
 		<Spanish>Congreso Continental</Spanish>
 		<Russian>Континетальный конгресс</Russian>
+        <PortuguesePT>Congresso Continental</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_CONGRESS_SCREEN_HELP</Tag>
@@ -198,6 +212,7 @@
 		<Italian>Condizioni di vittoria</Italian>
 		<Spanish>Condiciones para la victoria</Spanish>
 		<Russian>Условия победы</Russian>
+        <PortuguesePT>Condições de Vitória</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_VICTORY_SCREEN_HELP</Tag>
@@ -211,6 +226,7 @@
 		<Italian>Schermata delle informazioni</Italian>
 		<Spanish>Pantalla de información</Spanish>
 		<Russian>Статистическая информация</Russian>
+        <PortuguesePT>Ecrã de Informações</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_INFO_HELP</Tag>
@@ -224,6 +240,7 @@
 		<Italian>Carica partita</Italian>
 		<Spanish>Cargar partida</Spanish>
 		<Russian>Загрузить игру</Russian>
+        <PortuguesePT>Carregar jogo</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_LOAD_GAME_HELP</Tag>
@@ -237,6 +254,7 @@
 		<Italian>Salva partita</Italian>
 		<Spanish>Guardar partida</Spanish>
 		<Russian>Сохранить игру</Russian>
+        <PortuguesePT>Guardar jogo</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_SAVE_NORMAL_HELP</Tag>
@@ -250,6 +268,7 @@
 		<Italian>Dettagli partita</Italian>
 		<Spanish>Detalles de la partida</Spanish>
 		<Russian>Подробнее об игре</Russian>
+        <PortuguesePT>Detalhes de jogo</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_ADMIN_DETAILS_HELP</Tag>
@@ -263,6 +282,7 @@
 		<Italian>I tuoi dettagli</Italian>
 		<Spanish>Detalles</Spanish>
 		<Russian>Подробнее об игроке</Russian>
+        <PortuguesePT>Os teus detalhes</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_DETAILS_HELP</Tag>
@@ -276,6 +296,7 @@
 		<Italian>Attiva tutti i movimenti automatici</Italian>
 		<Spanish>Activa todos los movimientos automatizados</Spanish>
 		<Russian>Запускает все автоматические движения</Russian>
+        <PortuguesePT>Ativa todos os movimentos automatizados</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_AUTOMOVES_HELP</Tag>
@@ -289,6 +310,7 @@
 		<Italian>Centra sulla selezione</Italian>
 		<Spanish>Centrar en selección</Spanish>
 		<Russian>Отцентрировать выбор</Russian> 
+        <PortuguesePT>Centrar na seleção</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_CENTERONSELECTION_HELP</Tag>
@@ -303,6 +325,7 @@
 		<Italian>Registro chat</Italian>
 		<Spanish>Historial del chat</Spanish>
 		<Russian>Журнал чата</Russian>
+        <PortuguesePT>Registo de Chat</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_CHAT_ALL_HELP</Tag>
@@ -323,6 +346,7 @@
 		<German>Durch Einheiten schalten</German>
 		<Italian>Scorri unità</Italian>
 		<Spanish>Alternar unidades</Spanish>
+        <PortuguesePT>Alternar entre unidades</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_CYCLEUNIT_HELP</Tag>
@@ -335,6 +359,7 @@
 		<German>Durch Einheiten schalten ([COLOR:140:255:40:255]&lt; Alt &gt;[COLOR_REVERT])</German>
 		<Italian>Scorri unità ([COLOR:140:255:40:255]&lt; Alt &gt;[COLOR_REVERT])</Italian>
 		<Spanish>Alternar unidades ([COLOR:140:255:40:255]&lt; Alt &gt;[COLOR_REVERT])</Spanish>
+        <PortuguesePT>Alternar entre unidades ([COLOR:140:255:40:255]&lt; Alt &gt;[COLOR_REVERT])</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_CYCLEUNIT_ALT_HELP</Tag>
@@ -347,6 +372,7 @@
 		<German>Durch Einheiten schalten (rückwärts)</German>
 		<Italian>Scorri unità (indietro)</Italian>
 		<Spanish>Alternar unidades (atrás)</Spanish>
+        <PortuguesePT>Alternar entre unidades (sentido inverso)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_LASTUNIT_HELP</Tag>
@@ -359,6 +385,7 @@
 		<German>Durch Kameraflugmodi schalten</German>
 		<Italian>Scorri le visuali dall'alto</Italian>
 		<Spanish>Alternar modos aéreos de cámara</Spanish>
+        <PortuguesePT>Alternar modos aéreos da câmara</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_CYCLE_CAMERA_FLYING_MODES_HELP</Tag>
@@ -371,6 +398,7 @@
 		<German>Kameraflug umschalten</German>
 		<Italian>Abilita/disabilita la visuale dall'alto</Italian>
 		<Spanish>Activar cámara aérea</Spanish>
+        <PortuguesePT>Ativar câmara aérea</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_FLYING_CAMERA_HELP</Tag>
@@ -383,6 +411,7 @@
 		<German>Kamera um 45 Grad nach links drehen</German>
 		<Italian>Sposta la visuale di 45° a sinistra</Italian>
 		<Spanish>Girar cámara 45 grados a la izquierda</Spanish>
+        <PortuguesePT>Girar a câmara 45 graus à esquerda</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_ISOMETRIC_CAMERA_LEFT_HELP</Tag>
@@ -395,6 +424,7 @@
 		<German>Kamera um 45 Grad nach rechts drehen</German>
 		<Italian>Sposta la visuale di 45° a destra</Italian>
 		<Spanish>Girar cámara 45 grados a la derecha</Spanish>
+        <PortuguesePT>Girar a câmara 45 graus à direita</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_ISOMETRIC_CAMERA_RIGHT_HELP</Tag>
@@ -408,6 +438,7 @@
 		<Italian>Fine del turno</Italian>
 		<Spanish>Fin del turno</Spanish>
 		<Russian>Конец хода</Russian>
+        <PortuguesePT>Fim de turno</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_ENDTURN_HELP</Tag>
@@ -421,6 +452,7 @@
 		<Italian>Fine del turno ([COLOR:140:255:40:255]&lt; Alt &gt;[COLOR_REVERT])</Italian>
 		<Spanish>Fin del turno ([COLOR:140:255:40:255]&lt; Alt &gt;[COLOR_REVERT])</Spanish>
 		<Russian>Конец хода ([COLOR:140:255:40:255]Alt[COLOR_REVERT])</Russian>
+        <PortuguesePT>Fim de turno([COLOR:140:255:40:255]&lt; Alt &gt;[COLOR_REVERT])</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_ENDTURN_ALT_HELP</Tag>
@@ -433,6 +465,7 @@
 		<German>Rundenende erzwingen</German>
 		<Italian>Forza la fine del turno</Italian>
 		<Spanish>Forzar fin del turno </Spanish>
+        <PortuguesePT>Forçar o fim de turno</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_FORCEENDTURN_HELP</Tag>
@@ -445,6 +478,7 @@
 		<German>Wählt die Kolonien aus, denen Ihr Unabhängigkeit verleihen möchtet</German>
 		<Italian>Seleziona le colonie che vuoi rendere indipendenti</Italian>
 		<Spanish>Seleccionad las colonias que queráis declarar independientes</Spanish>
+        <PortuguesePT>Seleciona as colónias nas quais desejas declarar independência</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_FREE_COLONY_HELP</Tag>
@@ -466,6 +500,7 @@
 		<Italian>Categoria Dei Migliori</Italian>
 		<Spanish>Ver Salón de la Fama</Spanish>
 		<Russian>Посмотреть Зал славы</Russian>
+        <PortuguesePT>Ver o Quadro de Honra</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_HALL_OF_FAME_HELP</Tag>
@@ -478,6 +513,7 @@
 		<German>Maus-Kameraflug aktivieren</German>
 		<Italian>Sblocca il movimento della visuale dall'alto con il mouse</Italian>
 		<Spanish>Desbloquear ratón de cámara aérea</Spanish>
+        <PortuguesePT>Desbloquear movimento da câmara com o rato</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_MOUSE_FLYING_CAMERA_HELP</Tag>
@@ -491,6 +527,7 @@
 		<Italian>Insediamento successivo</Italian>
 		<Spanish>Asentamiento siguiente</Spanish>
 		<Russian>Следующее поселение</Russian>
+        <PortuguesePT>Próxima colónia</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_NEXTCITY_HELP</Tag>
@@ -504,6 +541,7 @@
 		<Italian>Insediamento precedente</Italian>
 		<Spanish>Asentamiento anterior</Spanish>
 		<Russian>Предыдущее поселение</Russian>
+        <PortuguesePT>Colónia anterior</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_PREVCITY_HELP</Tag>
@@ -533,6 +571,7 @@
 		<Italian>Schermata delle opzioni</Italian>
 		<Spanish>Pantalla de opciones</Spanish>
 		<Russian>Окно настроек</Russian>
+        <PortuguesePT>Ecrã de opções</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_OPTIONS_SCREEN_HELP</Tag>
@@ -545,6 +584,7 @@
 		<German>Fixierte Kamera</German>
 		<Italian>Visuale ortografica</Italian>
 		<Spanish>Cámara ortográfica</Spanish>
+        <PortuguesePT>Câmara ortográfica</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_ORTHO_CAMERA_HELP</Tag>
@@ -557,6 +597,7 @@
 		<German>Pingen</German>
 		<Italian>Segnala</Italian>
 		<Spanish>Señalar</Spanish>
+        <PortuguesePT>Sinalizar</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_PING_HELP</Tag>
@@ -565,6 +606,7 @@
 		<German>Pingen Sie ein Geländefeld an, um Ihre Mitstreiter darauf aufmerksam zu machen</German>
 		<Italian>Segnala un punto per richiamare l'attenzione dei tuoi compagni di squadra.</Italian>
 		<Spanish>Hacéis que destaque una casilla para llamar la atención sobre ella a vuestros compañeros de equipo.</Spanish>
+        <PortuguesePT>Sinaliza um bloco para chamares à atenção da tua equipa </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_QUICK_LOAD</Tag>
@@ -574,6 +616,7 @@
 		<Italian>Caricamento rapido</Italian>
 		<Spanish>Carga rápida</Spanish>
 		<Russian>Быстрая загрузка игры</Russian>
+        <PortuguesePT>Carregamento rápido de jogo</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_QUICK_LOAD_HELP</Tag>
@@ -587,6 +630,7 @@
 		<Italian>Salvataggio rapido</Italian>
 		<Spanish>Guardado rápido</Spanish>
 		<Russian>Быстрое сохранение игры</Russian>
+        <PortuguesePT>Guardar rapidamente o jogo</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_QUICK_SAVE_HELP</Tag>
@@ -599,6 +643,7 @@
 		<German>Aus dem Spiel ausscheiden</German>
 		<Italian>Ritirati dalla partita</Italian>
 		<Spanish>Retirarte de la partida</Spanish>
+        <PortuguesePT>Abandonar o jogo</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_RETIRE_HELP</Tag>
@@ -611,6 +656,7 @@
 		<German>Spiel speichern (Gruppe)</German>
 		<Italian>Salva partita (gruppo)</Italian>
 		<Spanish>Guardar partida (grupo)</Spanish>
+        <PortuguesePT>Guardar jogo (grupo)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_SAVE_GROUP_HELP</Tag>
@@ -624,6 +670,7 @@
 		<Italian>Seleziona città</Italian>
 		<Spanish>Seleccionar capital</Spanish>
 		<Russian>Выбрать столицу</Russian>
+        <PortuguesePT>Selecionar Capital</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_SELECTCAPITAL_HELP</Tag>
@@ -637,6 +684,7 @@
 		<Italian>Seleziona insediamento</Italian>
 		<Spanish>Seleccionar asentamiento</Spanish>
 		<Russian>Выбрать поселение</Russian>
+        <PortuguesePT>Escolher uma colónia</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_SELECTCITY_HELP</Tag>
@@ -650,6 +698,7 @@
 		<Italian>Seleziona tutte le unità</Italian>
 		<Spanish>Seleccionar todas las unidades</Spanish>
 		<Russian>Выбрать все юниты</Russian>
+        <PortuguesePT>Selecionar todas as unidades</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_SELECTYUNITALL_HELP</Tag>
@@ -663,6 +712,7 @@
 		<Italian>Seleziona tutte le unità (dello stesso tipo)</Italian>
 		<Spanish>Seleccionar todas las unidades (del mismo tipo)</Spanish>
 		<Russian>Выбрать все юниты (данного типа)</Russian>
+        <PortuguesePT>Selecionar todas as unidades (mesmo tipo)</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_SELECTYUNITTYPE_HELP</Tag>
@@ -683,6 +733,7 @@
 		<German>Zeichen</German>
 		<Italian>Segnale</Italian>
 		<Spanish>Letrero</Spanish>
+        <PortuguesePT>Sinal</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_SIGN_HELP</Tag>
@@ -691,6 +742,7 @@
 		<German>Markieren Sie ein Geländefeld mit einem Zeichen, das nur Sie und Ihre Teammitglieder sehen können.</German>
 		<Italian>Aggiunge in una determinata casella un segnale visibile soltanto a te e ai tuoi alleati.</Italian>
 		<Spanish>Añade a una casilla concreta un letrero que podáis ver tus compañeros y tú.</Spanish>
+        <PortuguesePT>Adiciona um sinal num bloco específico. Tu e a tua equipa podem vê-lo.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_TOP_DOWN_CAMERA</Tag>
@@ -699,6 +751,7 @@
 		<German>Kamera-Draufsicht umschalten</German>
 		<Italian>Abilita la visuale sottosopra</Italian>
 		<Spanish>Activar vista superior de la cámara</Spanish>
+        <PortuguesePT>Ativar a vista superior da câmara</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_TOP_DOWN_CAMERA_HELP</Tag>
@@ -711,6 +764,7 @@
 		<German>Weltenbauer ein/aus</German>
 		<Italian>Attiva/disattiva l'editor</Italian>
 		<Spanish>Activa el Creador de mundos</Spanish>
+        <PortuguesePT>Ativar o Criador de Mundos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_WORLD_BUILDER_HELP</Tag>
@@ -724,6 +778,7 @@
 		<Italian>Fine turno [COLOR:140:255:40:255]&lt; MAIUSC-INVIO &gt;[COLOR_REVERT]</Italian>
 		<Spanish>Terminar turno [COLOR:140:255:40:255]&lt; MAYÚS-INTRO &gt;[COLOR_REVERT]</Spanish>
 		<Russian>Конец хода [COLOR:140:255:40:255]SHIFT-ENTER[COLOR_REVERT]</Russian>
+        <PortuguesePT>Fim de Turno [COLOR:140:255:40:255]&lt; SHIFT-ENTER &gt;[COLOR_REVERT]</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>SYSTEM_END_TURN</Tag>
@@ -733,6 +788,7 @@
 		<Italian>Premi [COLOR:140:255:40:255]&lt; INVIO &gt;[COLOR_REVERT] per terminare il turno...</Italian>
 		<Spanish>Pulsar [COLOR:140:255:40:255]&lt; INTRO &gt;[COLOR_REVERT] para terminar el turno...</Spanish>
 		<Russian>Нажмите [COLOR:140:255:40:255]ENTER[COLOR_REVERT] для завершения хода.</Russian>
+        <PortuguesePT>Premir [COLOR:140:255:40:255]&lt; ENTER &gt;[COLOR_REVERT] para finalizar o turno.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_SCORES</Tag>
@@ -742,6 +798,7 @@
 		<Italian>Abilita/disabilita la 'Finestra dei punteggi'</Italian>
 		<Spanish>Activar visor de puntuaciones</Spanish>
 		<Russian>Окно результатов</Russian>
+        <PortuguesePT> Ativar/desativar placard com as pontuações</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_SCORES_HELP</Tag>
@@ -751,6 +808,7 @@
 		<Italian>Attiva/disattiva la visibilità del punteggio.</Italian>
 		<Spanish>Activa la visibilidad de la puntuación</Spanish>
 		<Russian>Показать/скрыть окно результатов</Russian>
+        <PortuguesePT> Ativar/desativar visibilidade das pontuações</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_YIELDS</Tag>
@@ -760,6 +818,7 @@
 		<Italian>Abilita/disabilita la visualizzazione della produzione</Italian>
 		<Spanish>Activar visor de rendimiento</Spanish>
 		<Russian>Доходность клеток</Russian>
+        <PortuguesePT>Ativar/desativar visão dos recursos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_YIELDS_HELP</Tag>
@@ -769,6 +828,7 @@
 		<Italian>Attiva/disattiva la visualizzazione delle icone della produzione sulla mappa</Italian>
 		<Spanish>Alternar iconos de rendimiento del terreno en el mapa</Spanish>
 		<Russian>Показать/скрыть доходность клеток</Russian>
+        <PortuguesePT>Ativar/desativar visão dos ícones dos recursos no mapa</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_GLOBELAYER</Tag>
@@ -778,6 +838,7 @@
 		<Italian>Visuale del pianeta</Italian>
 		<Spanish>Vista global</Spanish>
 		<Russian>Переключить вид</Russian>
+        <PortuguesePT>Visão global</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_GLOBELAYER_HELP</Tag>
@@ -787,6 +848,7 @@
 		<Italian>Informazioni dettagliate sul mondo della partita</Italian>
 		<Spanish>Hace que aparezca información detallada sobre el mundo de la partida</Spanish>
 		<Russian>Выводит подробную информацию о мире вашей игры</Russian>
+        <PortuguesePT>Informações detalhadas sobre o mundo do jogo</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_RESOURCE_ALL</Tag>
@@ -796,6 +858,7 @@
 		<Italian>Abilita/disabilita la finestra 'Mostra tutte le risorse'</Italian>
 		<Spanish>Activar visor de todos los recursos</Spanish>
 		<Russian>Ресурсы на карте</Russian>
+        <PortuguesePT>Ativar/desativar visão de todos os recursos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_RESOURCE_ALL_HELP</Tag>
@@ -805,6 +868,7 @@
 		<Italian>Mostra/nascondi i simboli delle risorse bonus sulla mappa</Italian>
 		<Spanish>Mostrar/ocultar los símbolos de los recursos de bonificación en el mapa</Spanish>
 		<Russian>Показать/скрыть иконки всех ресурсов</Russian>
+        <PortuguesePT>Ativar/desativar símbolos dos recursos bónus no mapa</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_BARE_MAP</Tag>
@@ -814,6 +878,7 @@
 		<Italian>Abilita/disabilita la mappa semplificata</Italian>
 		<Spanish>Activar mapa limpio</Spanish>
 		<Russian>Пустая карта</Russian>
+        <PortuguesePT>Ativar/desativar visão do mapa limpo</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_BARE_MAP_HELP</Tag>
@@ -823,6 +888,7 @@
 		<Italian>Agevola la visione del panorama</Italian>
 		<Spanish>Hace que ver el paisaje sea más fácil</Spanish>
 		<Russian>Убирает с карты все юниты для лучшего обзора местности</Russian>
+        <PortuguesePT>Torna mais fácil da visão do terreno do mapa</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_GRID</Tag>
@@ -832,6 +898,7 @@
 		<Italian>Abilita/disabilita le caselle</Italian>
 		<Spanish>Activar casillas</Spanish>
 		<Russian>Сетка ячеек карты</Russian>
+        <PortuguesePT>Ativar/desativar visão dos blocos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_GRID_HELP</Tag>
@@ -841,6 +908,7 @@
 		<Italian>Attiva/disattiva la griglia</Italian>
 		<Spanish>Activar cuadrícula</Spanish>
 		<Russian>Показать/скрыть сетку, разграничивающую клетки карты</Russian>
+        <PortuguesePT>Ativar/desativar grelha</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_UNIT_ICONS</Tag>
@@ -850,6 +918,7 @@
 		<Italian>Abilita/Disabilita la visualizzazione delle unità nemiche</Italian>
 		<Spanish>Activar el visor de unidades enemigas</Spanish>
 		<Russian>Отображение военных юнитов</Russian>
+        <PortuguesePT>Ativar/desativar visão das unidades inimigas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONTROL_UNIT_ICONS_HELP</Tag>
@@ -859,5 +928,6 @@
 		<Italian>Attiva/Disattiva la visualizzazione della posizione delle unità</Italian>
 		<Spanish>Alterna el visor de posicionamiento de unidades</Spanish>
 		<Russian>Показать/скрыть отображение позиций всех военных юнитов</Russian>
+        <PortuguesePT>Ativar/desativar visão das unidades</PortuguesePT>
 	</TEXT>
 </Civ4GameText>
