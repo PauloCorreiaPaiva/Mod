@@ -25,6 +25,11 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Полярный лед</Russian>
+        <PortuguesePT>
+            <Text>Gelo Polar</Text>
+            <Gender>Male</Gender>
+            <Plural>0</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AZTEC_SHORT_DESC</Tag>
@@ -50,6 +55,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Ацтеки</Russian>
+        <PortuguesePT>
+            <Text>Azetecas</Text>
+            <Gender>Male</Gender>
+            <Plural>1</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INCA_SHORT_DESC</Tag>
@@ -75,6 +85,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Инки</Russian>
+        <PortuguesePT>
+            <Text>Incas</Text>
+            <Gender>Male</Gender>
+            <Plural>1</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BARBARIAN_SHORT_DESC</Tag>
@@ -100,6 +115,11 @@
 			<Plural>1</Plural>
 		</Spanish>
 		<Russian>Дикие животные</Russian>
+        <PortuguesePT>
+            <Text>Animais selvagens</Text>
+            <Gender>Male</Gender>
+            <Plural>1</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY</Tag>
@@ -125,6 +145,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Победа</Russian>
+        <PortuguesePT>
+            <Text>Vitória</Text>
+            <Gender>Female</Gender>
+            <Plural>0</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WAR</Tag>
@@ -150,6 +175,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Война</Russian>
+        <PortuguesePT>
+            <Text>Guerra</Text>
+            <Gender>Female</Gender>
+            <Plural>0</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_CEASE_FIRE_STRING</Tag>
@@ -175,6 +205,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Прекращение огня</Russian>
+        <PortuguesePT>
+            <Text>Cessar-fogo</Text>
+            <Gender>Male</Gender>
+            <Plural>0</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_WORLD_MAP_STRING</Tag>
@@ -200,6 +235,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Карта мира</Russian>
+        <PortuguesePT>
+            <Text>Mapa do Novo Mundo</Text>
+            <Gender>Male</Gender>
+            <Plural>0</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_OPEN_BORDERS_STRING</Tag>
@@ -225,6 +265,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Открытые границы</Russian>
+        <PortuguesePT>
+            <Text>Abertura de fronteiras</Text>
+            <Gender>Female</Gender>
+            <Plural>0</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_DEFENSIVE_PACT_STRING</Tag>
@@ -250,6 +295,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Оборонительный союз</Russian>
+        <PortuguesePT>
+            <Text>Pacto defensivo</Text>
+            <Gender>Male</Gender>
+            <Plural>0</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_PERMANENT_ALLIANCE_STRING</Tag>
@@ -275,6 +325,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Постоянный союз</Russian>
+        <PortuguesePT>
+            <Text>Aliança permanente</Text>
+            <Gender>Female</Gender>
+            <Plural>0</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_BONUS</Tag>
@@ -300,6 +355,11 @@
 			<Plural>1</Plural>
 		</Spanish>
 		<Russian>Бонусные ресурсы</Russian>
+        <PortuguesePT>
+            <Text>Recursos</Text>
+            <Gender>Male</Gender>
+            <Plural>1</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_BUILDING</Tag>
@@ -325,6 +385,11 @@
 			<Plural>1</Plural>
 		</Spanish>
 		<Russian>Строения</Russian>
+        <PortuguesePT>
+            <Text>Edifícios</Text>
+            <Gender>Male</Gender>
+            <Plural>1</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_CIV</Tag>
@@ -346,6 +411,7 @@
 			<Plural>1</Plural>
 		</Spanish>
 		<Russian>Колонии / Индейцы</Russian>
+        <PortuguesePT>Colónias/ Indígenas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_CIVIC</Tag>
@@ -367,6 +433,7 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Статьи Конституции</Russian>
+        <PortuguesePT>Constituição</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_CONCEPT</Tag>
@@ -392,6 +459,7 @@
 			<Plural>1</Plural>
 		</Spanish>
 		<Russian>Игровые концепции</Russian>
+        <PortuguesePT>Conceitos de Jogo</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_FATHERS</Tag>
@@ -401,6 +469,7 @@
 		<Italian>Padri Fondatori</Italian>
 		<Spanish>Padres fundadores</Spanish>
 		<Russian>Отцы основатели</Russian>
+        <PortuguesePT>Pais Fundadores</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_FEATURE</Tag>
@@ -426,6 +495,11 @@
 			<Plural>1</Plural>
 		</Spanish>
 		<Russian>Свойства ландшафтов</Russian>
+        <PortuguesePT>
+            <Text>Características do terreno</Text>
+            <Gender>Female</Gender>
+            <Plural>1</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_HINTS</Tag>
@@ -451,6 +525,7 @@
 			<Plural>1</Plural>
 		</Spanish>
 		<Russian>Исторические цитаты</Russian>
+        <PortuguesePT>Citações históricas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_IMPROVEMENT</Tag>
@@ -476,6 +551,11 @@
 			<Plural>1</Plural>
 		</Spanish>
 		<Russian>Улучшения ландшафта</Russian>
+        <PortuguesePT>
+            <Text>Melhorias</Text>
+            <Gender>Female</Gender>
+            <Plural>1</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_LEADER</Tag>
@@ -501,6 +581,11 @@
 			<Plural>1</Plural>
 		</Spanish>
 		<Russian>Лидеры</Russian>
+        <PortuguesePT>
+            <Text>Líderes</Text>
+            <Gender>Male</Gender>
+            <Plural>1</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_PROFESSION</Tag>
@@ -510,6 +595,7 @@
 		<Italian>Professioni</Italian>
 		<Spanish>Profesiones</Spanish>
 		<Russian>Профессии</Russian>
+        <PortuguesePT>Profissões</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_PROMOTION</Tag>
@@ -535,6 +621,11 @@
 			<Plural>1</Plural>
 		</Spanish>
 		<Russian>Повышения для юнитов</Russian>
+        <PortuguesePT>
+            <Text>Promoções</Text>
+            <Gender>Female</Gender>
+            <Plural>1</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_TERRAIN</Tag>
@@ -560,6 +651,11 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Базовые ландшафты</Russian>
+        <PortuguesePT>
+            <Text>Terreno base</Text>
+            <Gender>Male</Gender>
+            <Plural>0</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_UNIT</Tag>
@@ -585,6 +681,11 @@
 			<Plural>1</Plural>
 		</Spanish>
 		<Russian>Юниты</Russian>
+        <PortuguesePT>
+            <Text>Unidades</Text>
+            <Gender>Female</Gender>
+            <Plural>1</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_YIELDS</Tag>
@@ -594,6 +695,7 @@
 		<Italian>Beni e materiali</Italian>
 		<Spanish>Mercancías y materias primas</Spanish>
 		<Russian>Товары и материалы</Russian>
+        <PortuguesePT>Bens e mercadorias</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SYSTEM_ALL</Tag>
@@ -618,6 +720,11 @@
 			<Gender>Male:Female</Gender>
 			<Plural>1:1</Plural>
 		</Spanish>
+        <PortuguesePT>
+            <Text>todos:todas</Text>
+            <Gender>Male:Female</Gender>
+            <Plural>1:1</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SYSTEM_YOU</Tag>
@@ -642,6 +749,11 @@
 			<Gender>Male</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>
+			<Text>tu:vocês</Text>
+            <Gender>Male</Gender>
+            <Plural>0:1</Plural>
+	</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_AMSTERDAM</Tag>
@@ -650,6 +762,7 @@
 		<German>Amsterdam</German>
 		<Italian>Amsterdam</Italian>
 		<Spanish>Amsterdam</Spanish>
+        <Spanish>Amsterdam</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_LA_ROCHELLE</Tag>
@@ -658,6 +771,7 @@
 		<German>La Rochelle</German>
 		<Italian>La Rochelle</Italian>
 		<Spanish>La Rochela</Spanish>
+        <Spanish>La Rochelle</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_TUMBES</Tag>
@@ -666,6 +780,7 @@
 		<German>Tumbes</German>
 		<Italian>Tumbes</Italian>
 		<Spanish>Tumbes</Spanish>
+        <Spanish>Tumbes</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_CHAN_CHAN</Tag>
@@ -674,6 +789,7 @@
 		<German>Chan Chan</German>
 		<Italian>Chan Chan</Italian>
 		<Spanish>Chan Chen</Spanish>
+        <Spanish>Chan Chen</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_SIPAN</Tag>
@@ -682,6 +798,7 @@
 		<German>Sipan</German>
 		<Italian>Sipan</Italian>
 		<Spanish>Sipán</Spanish>
+        <Spanish>Sipán</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_PACHACAMAC</Tag>
@@ -690,6 +807,7 @@
 		<German>Pachacamac</German>
 		<Italian>Pachacamac</Italian>
 		<Spanish>Pachacamac</Spanish>
+        <Spanish>Pachacamac</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_LLACTAPATA</Tag>
@@ -698,6 +816,7 @@
 		<German>Llactapata</German>
 		<Italian>Llactapata</Italian>
 		<Spanish>Llactapata</Spanish>
+        <Spanish>Llactapata</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_PISAC</Tag>
@@ -706,6 +825,7 @@
 		<German>Pisac</German>
 		<Italian>Pisac</Italian>
 		<Spanish>Pisac</Spanish>
+        <Spanish>Pisac</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_KUELAP</Tag>
@@ -714,6 +834,7 @@
 		<German>Kuelap</German>
 		<Italian>Kuelap</Italian>
 		<Spanish>Kuelap</Spanish>
+        <Spanish>Kuelap</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_PAJATEN</Tag>
@@ -722,6 +843,7 @@
 		<German>Pajaten</German>
 		<Italian>Pajaten</Italian>
 		<Spanish>Pajatén</Spanish>
+        <Spanish>Pajatén</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_CHUCUITO</Tag>
@@ -730,6 +852,7 @@
 		<German>Chucuito</German>
 		<Italian>Chucuito</Italian>
 		<Spanish>Chucuito</Spanish>
+        <Spanish>Chucuito</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_CHOTA</Tag>
@@ -738,6 +861,7 @@
 		<German>Chota</German>
 		<Italian>Chota</Italian>
 		<Spanish>Chota</Spanish>
+        <Spanish>Chota</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NAME_RICHMOND</Tag>
@@ -2348,3 +2472,4 @@
 		</Spanish>
 	</TEXT>
 </Civ4GameText>
+
