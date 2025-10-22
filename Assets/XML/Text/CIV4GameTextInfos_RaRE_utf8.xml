@@ -10,11 +10,13 @@
 		<English>DLL incompatible with the savegame. The DLL needs to be recompiled with the same flags as was used when the game was saved.[NEWLINE]Required Flags:</English>
 		<French>DLL incompatible avec cette sauvegarde. La DLL nécessite d'être recompilée avec les mêmes flags que lors de la sauvegarde de cette partie.[NEWLINE]Flags requis :</French>
 		<Russian>DLL несовместима с сохраненной игрой. DLL необходимо перекомпилировать с теми же флагами, которые использовались при сохранении игры.[NEWLINE]Обязательные флаги:</Russian>
+        <PortuguesePT>DLL incompatível com o jogo guardado. O DLL tem de ser recompilado com as mesmas "flags" que foram utilizadas quando o jogo foi guardado. [NEWLINE] Flags necessárias :</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ACTION_BECOMES_STRING</Tag>
 		<English>[ICON_BULLET]Becomes [COLOR_BUILDING_TEXT]%s1[COLOR_REVERT]</English>
 		<French>[ICON_BULLET]Devient [COLOR_BUILDING_TEXT]%s1[COLOR_REVERT]</French>
+        <PortuguesePT> [ICON_BULLET]Torna-se [COLOR_BUILDING_TEXT]%s1[COLOR_REVERT]</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_CAN_MOVE_PEAK</Tag>
@@ -22,5 +24,7 @@
 		<French>[ICON_BULLET]Peut traverser les montagnes.</French>
 		<German>[ICON_BULLET]Kann Berge überqueren</German>
 		<Russian>[ICON_BULLET]Может передвигаться по клеткам гор</Russian>
+        <PortuguesePT> [ICON_BULLET]Pode movimentar-se nas zonas de montanha</PortuguesePT>
 	</TEXT>
 </Civ4GameText>
+
