@@ -426,7 +426,6 @@
 		<Russian>Милорд, благодаря помощи наших европейских союзников в [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT] мы успешно обучили [COLOR_UNIT_TEXT]континентальную гвардию[COLOR_REVERT].</Russian>
         <PortuguesePT>Meu senhor, com a ajuda dos nossos aliados europeus, treinámos com sucesso um [COLOR_UNIT_TEXT]Guarda Continental[COLOR_REVERT] na cidade : [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT].</PortuguesePT>
     </TEXT>
-	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ACQUIRED_MORTAR</Tag>
 		<English>Milord, the [COLOR_UNIT_TEXT]mortar[COLOR_REVERT] we have bought from our European allies has arrived in [COLOR_SELECTED_TEXT]%s1_city[COLOR_REVERT].</English>
@@ -1941,4 +1940,5 @@
         <PortuguesePT>[ICON_BULLET]%d2%F3_Icon[TAB]da População</PortuguesePT>
 	</TEXT>
 </Civ4GameText>
+
 
