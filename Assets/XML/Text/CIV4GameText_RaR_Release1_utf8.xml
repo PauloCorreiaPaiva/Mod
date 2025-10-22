@@ -1477,7 +1477,7 @@
 		<French>[ICON_BULLET]Génère [ICON_GOLD] en vendant des biens sur le marché local</French>
 		<German>[ICON_BULLET]Erwirtschaftet [ICON_GOLD] durch Verkauf von Waren an die Einwohner der Stadt</German>
 		<Russian>[ICON_BULLET]Генерирует [ICON_GOLD] при продаже товаров на Внутреннем рынке</Russian>
-        <PortuguesePT>[ICON_BULLET]Gera [ICON_GOLD] com a venda de mercadorias no mercado interno</PortuguesePT
+        <PortuguesePT>[ICON_BULLET]Gera [ICON_GOLD] com a venda de mercadorias no mercado interno</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOMESTIC_MARKET_BUILDING_INCREASED</Tag>
@@ -1940,5 +1940,6 @@
         <PortuguesePT>[ICON_BULLET]%d2%F3_Icon[TAB]da População</PortuguesePT>
 	</TEXT>
 </Civ4GameText>
+
 
 
