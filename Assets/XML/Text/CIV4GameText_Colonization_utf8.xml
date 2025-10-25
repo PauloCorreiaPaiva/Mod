@@ -1916,7 +1916,7 @@
 		<Italian>Totale [COLOR_HIGHLIGHT_TEXT]%s1[COLOR_REVERT] = %s2%F3</Italian>
 		<Spanish>Total [COLOR_HIGHLIGHT_TEXT]%s1[COLOR_REVERT] = %s2%F3</Spanish>
 		<Russian>Всего [COLOR_HIGHLIGHT_TEXT]%s1[COLOR_REVERT] = %s2%F3</Russian>
-        <PortuguesePT>Total [COLOR_HIGHLIGHT_TEXT]%s1[COLOR_REVERT] = %d2%F3</PortuguesePT>
+        <PortuguesePT>Total [COLOR_HIGHLIGHT_TEXT]%s1[COLOR_REVERT] = %s2%F3</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_HELP_YIELD_FATHER</Tag>
@@ -4076,4 +4076,5 @@
 		<PortuguesePT>E/S</PortuguesePT>
 	</TEXT>
 </Civ4GameText>
+
 
