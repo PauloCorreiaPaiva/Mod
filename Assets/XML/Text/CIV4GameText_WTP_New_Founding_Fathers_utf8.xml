@@ -34,15 +34,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Карл Линней</Russian>
+        <PortuguesePT>
+            <Text>Carl von Linné</Text>
+            <Gender>Male</Gender>
+            <Plural>0</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_CARL_VON_LINNES_PEDIA</Tag>
 		<English>[H1]Carl von Linné[\H1][NEWLINE][BOLD]Lived : [\BOLD]1707 - 1778[NEWLINE][NEWLINE][BOLD]Background :[\BOLD][PARAGRAPH:1:1]Carl von Linné, known as Carl Linnaeus before being knighted in 1761, is the father of modern taxonomy. Born in Rashult in southern Sweden, he was a botanist, zoologist, taxonomist, and physician. His higher education was at Uppsala University. He began giving lectures in botany there in 1730.[PARAGRAPH:2:1]His manuscript on classifying plants was published as "Systema Naturae" (1735). It established binomial nomenclature in Latin as the world standard.[PARAGRAPH:2:1]He admired the child care practices of the Lapps. They had healthier babies than Europeans who employed wet nurses. He became a strong advocate of breast-feeding by mothers. His activism here likely played a role in his choice of the term Mammalia for our class of organisms.</English>
 		<German>[H1]Carl von Linné[\H1][NEWLINE][BOLD]Lebte : [\BOLD]1707 - 1778[NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][PARAGRAPH:1:1]Carl von Linné, der vor seiner Ernennung zum Ritter im Jahr 1761 als Carl Linnaeus bekannt war, ist der Vater der modernen Taxonomie. Er wurde in Rashult in Südschweden geboren und war Botaniker, Zoologe, Taxonom und Arzt. Seine höhere Ausbildung erhielt er an der Universität Uppsala. Ab 1730 hielt er dort Vorlesungen in Botanik. 1735 wurde sein Manuskript zur Klassifizierung von Pflanzen als Systema Naturae" veröffentlicht. Es etablierte die binomische Nomenklatur in lateinischer Sprache als Weltstandard.[PARAGRAPH:2:1]Er bewunderte die Kindererziehungsmethoden der Lappen. Sie hatten gesündere Säuglinge als die Europäer, die Ammen beschäftigten. Er wurde ein starker Befürworter des Stillens durch Mütter. Sein Engagement in diesem Bereich spielte wahrscheinlich eine Rolle bei der Wahl des Begriffs Mammalia für unsere Klasse von Organismen.</German>
+        <PortuguesePT>[H1]Carl von Linné[\H1][NEWLINE][BOLD]Viveu : [\BOLD]1707 - 1778[NEWLINE][NEWLINE][BOLD]História:[\BOLD][PARAGRAPH:1:1] Carl von Linné, conhecido como Carl Linnaeus antes de ser armado cavaleiro em 1761, é o pai da taxonomia moderna. Nasceu em Rashult, no sul da Suécia, e foi botânico, zoólogo, taxonomista e médico. Frequentou o ensino superior na Universidade de Uppsala. Nesta Universidade começou a dar palestras de botânica em 1730. [PARAGRAPH:2:1]O seu manuscrito sobre a classificação das plantas foi publicado como "Systema Naturae" (1735). Estabeleceu a nomenclatura binomial em latim como padrão mundial. [PARAGRAPH:2:1]Admirava as práticas de cuidados infantis dos lapões. Tinham bebés mais saudáveis do que os europeus que empregavam as amas de leite. Tornou-se um forte defensor da amamentação pelas mães. O seu ativismo neste âmbito desempenhou provavelmente um papel na escolha do termo Mammalia para a nossa classe de organismos.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_CARL_VON_LINNES_STRATEGY</Tag>
 		<English>Boost your political progress with [COLOR_TECH_TEXT]Carl von Linné[COLOR_REVERT]. This Founding Father allows you to grow and get oil from [COLOR_HIGHLIGHT_TEXT]peanuts[COLOR_REVERT] in half the normal time.</English>
+        <PortuguesePT>Aumenta o teu progresso político com [COLOR_TECH_TEXT]Carl von Linné[COLOR_REVERT]. Este Pai Fundador permite-te cultivar e obter óleo de [COLOR_HIGHLIGHT_TEXT]amendoim[COLOR_REVERT] em metade do tempo normal.</PortuguesePT>
 	</TEXT>
 	<!-- SIR_THOMAS_GATES -->
 	<TEXT>
@@ -73,15 +80,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Томас Гейтс</Russian>
+        <PortuguesePT>
+            <Text>Sir Thomas Gates</Text>
+            <Gender>Male</Gender>
+            <Plural>0</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_SIR_THOMAS_GATES_PEDIA</Tag>
 		<English>[H1]Sir Thomas Gates[\H1][NEWLINE][BOLD]Lived : [\BOLD]1578 - 1622[NEWLINE][NEWLINE][BOLD]Background :[\BOLD][PARAGRAPH:1:1]Sir Thomas Gates was the governor of Jamestown following George Percy who, through inept leadership, was responsible for the lives lost during the the Starving Time. His controlled, strict methods helped the early colonies survive.[PARAGRAPH:2:1]Sir Thomas was knighted in 1596 for gallantry at the Capture of Cadiz, an honour confirmed by Queen Elizabeth I.[PARAGRAPH:2:1]Gates would go on to establish three new forts along the James River, as well as blockhouses, a wharf, and a governor's house. Gates' actions made him a national hero upon his return to England, something the Virginia Company badly needed due to their previous dip in investors.</English>
 		<German>[H1]Sir Thomas Gates[\H1][NEWLINE][BOLD]Lebte : [\BOLD]1578 - 1622[NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][PARAGRAPH:1:1]Sir Thomas Gates war der Gouverneur von Jamestown in der Nachfolge von George Percy, der durch seine ungeschickte Führung für die vielen Toten während der Hungersnot verantwortlich war. Seine kontrollierten, strengen Methoden halfen den frühen Kolonien zu überleben. 1596 wurde Sir Thomas Gates für seine Tapferkeit bei der Eroberung von Cádiz zum Ritter geschlagen, eine Ehre, die von Königin Elisabeth I. bestätigt wurde. 1596 errichtete Gates drei neue Forts entlang des James River sowie Blockhäuser, eine Werft und ein Gouverneurshaus. Gates' Taten machten ihn nach seiner Rückkehr nach England zu einem Nationalhelden, was die Virginia Company aufgrund des vorangegangenen Einbruchs bei den Investoren dringend benötigte.</German>
+        <PortuguesePT>[H1]Sir Thomas Gates[\H1][NEWLINE][BOLD] [\BOLD](1578 – 1622)[NEWLINE][NEWLINE][BOLD]História:[\BOLD][PARAGRAPH:1:1] Sir Thomas Gates foi o governador de Jamestown depois de George Percy que, através de uma liderança inábil, foi responsável pelas vidas perdidas durante a Época da Fome. Os seus métodos controlados e rigorosos ajudaram as primeiras colónias a sobreviver. [PARAGRAPH:2:1]Sir Thomas foi armado cavaleiro em 1596 por bravura, na tomada de Cádis, honra confirmada pela Rainha Isabel I. [PARAGRAPH:2:1]Depois, Gates foi convocado para estabelecer três novos fortes ao longo do rio James, bem como fortificações, um cais e uma casa do governador. As ações de Gates fizeram dele um herói nacional após o seu regresso a Inglaterra, algo que a Companhia Virginia precisava urgentemente, devido à anterior queda de investidores.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_SIR_THOMAS_GATES_STRATEGY</Tag>
 		<English>Boost your political progress with [COLOR_TECH_TEXT]Sir Thomas Gates[COLOR_REVERT]. This Founding Father allows you to breed [COLOR_HIGHLIGHT_TEXT]goats[COLOR_REVERT] and [COLOR_HIGHLIGHT_TEXT]pigs[COLOR_REVERT] in half the normal time.</English>
+        <PortuguesePT>Aumenta o teu progresso político com [COLOR_TECH_TEXT]Sir Thomas Gates[COLOR_REVERT]. Este Pai Fundador permite criar [COLOR_HIGHLIGHT_TEXT]cabras[COLOR_REVERT] e [COLOR_HIGHLIGHT_TEXT]porcos[COLOR_REVERT] em metade do tempo normal.</PortuguesePT>
 	</TEXT>
 	<!-- EUSEBIO FRANCISCO KINO -->
 	<TEXT>
@@ -112,15 +126,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Эусебио Франсиско Кино</Russian>
+        <PortuguesePT>
+            <Text>Eusébio Franz Kühn</Text>
+            <Gender>Male</Gender>
+            <Plural>0</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_EUSEBIO_FRANCISO_KINO_PEDIA</Tag>
 		<English>[H1]Eusebius Franz Kühn[\H1][NEWLINE][BOLD]Lived : [\BOLD]1645 - 1711[NEWLINE][NEWLINE][BOLD]Background :[\BOLD][PARAGRAPH:1:1]Father Kino, also known as Eusebio Francisco Kino, was a Tyrolean Jesuit who opposed the slavery and compulsory hard labour in the silver mines that the Spaniards forced on the Native people.[PARAGRAPH:2:1]He was an expert astronomer, mathematician and cartographer who drew the first accurate maps of the Gulf of California and Baja California. He also believed that Mexican Natives could easily access California by sea.</English>
 		<German>[H1]Eusebius Franz Kühn[\H1][NEWLINE][BOLD]Lebte : [\BOLD]1645 - 1711[NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][PARAGRAPH:1:1]Pater Kino, auch bekannt als Eusebio Francisco Kino, war ein Tiroler Jesuit, der sich gegen die Sklaverei und die Zwangsarbeit in den Silberminen wandte, die die Spanier den Ureinwohnern aufzwangen.[PARAGRAPH:2:1]Er war ein erfahrener Astronom, Mathematiker und Kartograph, der die ersten genauen Karten des Golfs von Kalifornien und der Baja California zeichnete. Er glaubte auch, dass die mexikanischen Ureinwohner Kalifornien leicht auf dem Seeweg erreichen konnten.</German>
+        <PortuguesePT>[H1]Eusébio Franz Kühn[\H1][NEWLINE][BOLD][\BOLD](1645 – 1711)[NEWLINE][NEWLINE][BOLD]História :[\BOLD][PARAGRAPH:1:1] O Padre Kühn, também conhecido por Eusébio Franz Kühn, foi um jesuíta tirolês que se opôs à escravatura e ao trabalho forçado obrigatório, nas minas de prata, onde que os espanhóis haviam forçado a trabalhar os povos indígenas. [PARAGRAPH:2:1]Era astrónomo, matemático e cartógrafo. Foi ele quem desenho o primeiro mapa do Golfo da Califórnia e de Baja Califórnia. Ele acreditava também que os indígenas mexicanos podiam aceder facilmente à Califórnia por mar.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_EUSEBIO_FRANCISO_KINO_STRATEGY</Tag>
 		<English>Boost your religious progress with [COLOR_TECH_TEXT]Eusebius Franz Kühn[COLOR_REVERT]. This Founding Father allows you to grow [COLOR_HIGHLIGHT_TEXT]olives[COLOR_REVERT] and press [COLOR_HIGHLIGHT_TEXT]olive oil[COLOR_REVERT] in half the normal time.</English>
+        <PortuguesePT>Aumenta o teu progresso religioso com [COLOR_TECH_TEXT]Eusébio Franz Kühn[COLOR_REVERT]. Este Pai Fundador permite-te colher [COLOR_HIGHLIGHT_TEXT]azeitonas[COLOR_REVERT] e produzir [COLOR_HIGHLIGHT_TEXT]azeite[COLOR_REVERT] em metade do tempo normal.</PortuguesePT>
 	</TEXT>
 	<!-- HUMPHREY GILBERT -->
 	<TEXT>
@@ -151,15 +172,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Хемфри Гилберт</Russian>
+        <PortuguesePT>
+            <Text>Sir Humphrey Gilbert</Text>
+            <Gender>Male</Gender>
+            <Plural>0</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_HUMPHREY_GILBERT_PEDIA</Tag>
 		<English>[H1]Sir Humphrey Gilbert[\H1][NEWLINE][BOLD]Lived : [\BOLD]c.1537 - 1583[NEWLINE][NEWLINE][BOLD]Background :[\BOLD][PARAGRAPH:1:1]Sir Humphrey Gilbert was a strong advocate with Queen Elizabeth for the Northwest Passage to China.[PARAGRAPH:2:1]After three expeditions led by Martin Frobisher failed to find the north-west passage in 1576, 1577, and in 1578, Gilbert set out on his own expedition with a small fleet of five vessels in June 1583. On the return journey to Europe his ship, the small 10-ton frigate "Squirrel", went down with all hands off the Azores.</English>
 		<German>[H1]Sir Humphrey Gilbert[\H1][NEWLINE][BOLD]Lebte : [\BOLD]ca. 1537 - 1583[NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][PARAGRAPH:1:1]Sir Humphrey Gilbert war bei Königin Elisabeth ein starker Befürworter der Nordwestpassage nach China[PARAGRAPH:2:1]Nachdem drei von Martin Frobisher geleitete Expeditionen in den Jahren 1576, 1577 und 1578 gescheitert waren, brach Gilbert im Juni 1583 mit einer kleinen Flotte von fünf Schiffen zu seiner eigenen Expedition auf. Auf der Rückreise nach Europa ging sein Schiff, die kleine 10-Tonnen-Fregatte "Squirrel", vor den Azoren mit allen Mann unter.</German>
+        <PortuguesePT>[H1]Sir Humphrey Gilbert[\H1][NEWLINE][BOLD][\BOLD](c.1537 – 1583)[NEWLINE][NEWLINE][BOLD]História:[\BOLD][PARAGRAPH:1: 1]Sir Humphrey Gilbert foi um forte defensor da Passagem do Noroeste para a China junto da Rainha Isabel. [PARAGRAPH:2:1]Depois de três expedições lideradas por Martin Frobisher não terem conseguido encontrar a passagem do noroeste em 1576, 1577 e 1578, Gilbert partiu na sua própria expedição, com uma pequena frota de cinco navios, em Junho de 1583. Na viagem de regresso à Europa, o seu navio, uma pequena fragata de 10 toneladas chamada "Squirrel", afundou com estrondo ao largo dos Açores.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_HUMPHREY_GILBERT_STRATEGY</Tag>
 		<English>Boost your political progress with [COLOR_TECH_TEXT]Sir Humphrey Gilbert[COLOR_REVERT]. This Founding Father allows you to grow [COLOR_HIGHLIGHT_TEXT]rapeseed[COLOR_REVERT] and process [COLOR_HIGHLIGHT_TEXT]rapeseed oil[COLOR_REVERT] in half the normal time.</English>
+        <PortuguesePT>Aumenta o teu progresso político com [COLOR_TECH_TEXT]Sir Humphrey Gilbert[COLOR_REVERT]. Este Pai Fundador permite colher [COLOR_HIGHLIGHT_TEXT]colza[COLOR_REVERT] e produzir [COLOR_HIGHLIGHT_TEXT]óleo de colza[COLOR_REVERT] em metade do tempo normal.</PortuguesePT>
 	</TEXT>
 	<!-- ROBERT_BAKEWELL -->
 	<TEXT>
@@ -190,15 +218,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Роберт Бейкуэлл</Russian>
+        <PortuguesePT>
+            <Text>Robert Bakewell</Text>
+            <Gender>Male</Gender>
+            <Plural>0</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_ROBERT_BAKEWELL_PEDIA</Tag>
 		<English>[H1]Robert Bakewell[\H1][NEWLINE][BOLD]Lived : [\BOLD]1725 - 1795[NEWLINE][NEWLINE][BOLD]Background :[\BOLD][PARAGRAPH:1:1]Robert Bakewell was an English agriculturalist, the first to implement systematic selective breeding of livestock. Using native sheep, he was able to select for large animals with long, lustrous wool.[PARAGRAPH:2:1]As more and more farmers followed his lead, farm animals increased dramatically in size and quality. In 1700, the average weight of a bull sold for slaughter was 370 pounds (168 kg). By 1786, that weight had more than doubled to 840 pounds (381 kg).[PARAGRAPH:2:1]Selective breeding inspired Charles Darwin's theory of natural selection. In "On the Origin of Species" Darwin cited Bakewell's work.</English>
 		<German>[H1]Robert Bakewell[\H1][NEWLINE][BOLD]Lebte : [\BOLD]1725 - 1795[NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][PARAGRAPH:1:1]Robert Bakewell war ein englischer Agrarwissenschaftler, der als erster eine systematische selektive Viehzucht betrieb. Mit einheimischen Schafen gelang es ihm, große Tiere mit langer, glänzender Wolle zu züchten.[PARAGRAPH:2:1]Als immer mehr Landwirte seinem Beispiel folgten, nahmen Größe und Qualität der Nutztiere dramatisch zu. Im Jahr 1700 wog ein Bulle, der zur Schlachtung verkauft wurde, im Durchschnitt 370 Pfund (168 kg). Bis 1786 hatte sich dieses Gewicht auf 840 Pfund (381 kg) mehr als verdoppelt.[PARAGRAPH:2:1]Die selektive Zucht inspirierte Charles Darwin zu seiner Theorie der natürlichen Selektion. In "Über die Entstehung der Arten" zitierte Darwin die Arbeit von Bakewell.</German>
+        <PortuguesePT>[H1]Robert Bakewell[\H1][NEWLINE][BOLD][\BOLD](1725 – 1795)[NEWLINE][NEWLINE][BOLD]História: [\BOLD][PARAGRAPH:1:1]Robert Bakewell foi um agricultor inglês, o primeiro a implementar a criação seletiva sistemática de gado. Utilizando ovelhas nativas, foi capaz de selecionar animais de grande porte com lã longa e brilhante. [PARAGRAPH:2:1] À medida que cada vez mais agricultores seguiam o seu exemplo, os animais de criação aumentaram drasticamente em tamanho e qualidade. Em 1700, o peso médio de um touro vendido para abate era de 168 kg. Em 1786, este peso mais do que duplicou para 381 kg. [PARAGRAPH:2:1]A reprodução seletiva inspirou a teoria da seleção natural de Charles Darwin. Em "Sobre a Origem das Espécies", Darwin cita o trabalho de Bakewell.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_ROBERT_BAKEWELL_STRATEGY</Tag>
 		<English>Boost your industrialization with [COLOR_TECH_TEXT]Robert Bakewell[COLOR_REVERT]. This Founding Father allows you to breed [COLOR_HIGHLIGHT_TEXT]cattle[COLOR_REVERT] and [COLOR_HIGHLIGHT_TEXT]sheep[COLOR_REVERT] in half the normal time.</English>
+        <PortuguesePT>Aumenta a tua industrialização com [COLOR_TECH_TEXT]Robert Bakewell[COLOR_REVERT]. Este Pai Fundador permite criar [COLOR_HIGHLIGHT_TEXT]gado[COLOR_REVERT] e [COLOR_HIGHLIGHT_TEXT]ovelhas[COLOR_REVERT] em metade do tempo normal.</PortuguesePT>
 	</TEXT>
 	<!-- THOMAS_WEST_DE_LA_WARR -->
 	<TEXT>
@@ -229,15 +264,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Томас Уэст</Russian>
+        <PortuguesePT>
+            <Text>Barão De La Warr</Text>
+            <Gender>Male</Gender>
+            <Plural>0</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_THOMAS_WEST_DE_LA_WARR_PEDIA</Tag>
 		<English>[H1]Thomas West, Baron De La Warr[\H1][NEWLINE][BOLD]Lived : [\BOLD]1577 - 1618[NEWLINE][NEWLINE][BOLD]Background :[\BOLD][PARAGRAPH:1:1]Thomas West, 3rd Baron De La Warr, was an English merchant and politician for whom the U.S. state of Delaware was named. He was the largest investor in the London Company which received two charters to settle colonists in the New World.[PARAGRAPH:2:1]In 1609, Baron De La Warr was also appointed governor-for-life and captain-general of the Colony of Virginia. In 1616, he introduced John Rolfe and his wife, Pocahontas, into English society.[PARAGRAPH:2:1]After receiving complaints from the Virginia settlers about the tyranny of his governor there, he set sail for Virginia in 1618 aboard the "Neptune" to investigate those charges. He died at sea on June 7. It is believed that he was poisoned.</English>
 		<German>[H1]Thomas West, Baron De La Warr[\H1][NEWLINE][BOLD]Lebte : [\BOLD]1577 - 1618[NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][PARAGRAPH:1:1]Thomas West, 3. Baron De La Warr, war ein englischer Kaufmann und Politiker, nach dem der US-Bundesstaat Delaware benannt wurde. Er war der größte Investor der Londoner Gesellschaft, die zwei Gründungsurkunden für die Ansiedlung von Kolonisten in der Neuen Welt erhielt. 1609 wurde Baron De La Warr außerdem zum Gouverneur auf Lebenszeit und zum Generalkapitän der Kolonie Virginia ernannt. Im Jahr 1616 führte er John Rolfe und seine Frau Pocahontas in die englische Gesellschaft ein.[PARAGRAPH:2:1]Nachdem sich die Siedler von Virginia über die Tyrannei seines dortigen Gouverneurs beschwert hatten, segelte er 1618 an Bord der "Neptun" nach Virginia, um diesen Vorwürfen nachzugehen. Er starb am 7. Juni auf See. Es wird angenommen, dass er vergiftet wurde.</German>
+        <PortuguesePT>[H1]Thomas West, Barão De La Warr[\H1][NEWLINE][BOLD][\BOLD](1577 – 1618)[NEWLINE][NEWLINE][BOLD]História: [\BOLD][PARAGRAPH: 1:1]Thomas West, 3º Barão De La Warr, foi um comerciante e político inglês que deu o nome ao estado americano de Delaware. Foi o maior investidor na Companhia de Londres, que recebeu duas cartas para estabelecer colonos no Novo Mundo. [PARAGRAPH:2:1]Em 1609, o Barão De La Warr foi também nomeado governador vitalício e capitão-mor da Colónia de Virgínia. Em 1616, apresentou John Rolfe e a sua mulher, Pocahontas, à sociedade inglesa. [PARAGRAPH:2:1]Depois de receber queixas dos colonos de Virgínia sobre a tirania do seu governador, partiu para Virgínia em 1618 a bordo do "Neptuno", para investigar estas acusações. Morreu no mar no dia 7 de junho. Acredita-se que terá sido envenenado.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_THOMAS_WEST_DE_LA_WARR_STRATEGY</Tag>
 		<English>Boost your political standing with [COLOR_TECH_TEXT]Baron De La Warr[COLOR_REVERT]. This Founding Father allows you to breed [COLOR_HIGHLIGHT_TEXT]chickens[COLOR_REVERT] and [COLOR_HIGHLIGHT_TEXT]geese[COLOR_REVERT] in half the normal time.</English>
+        <PortuguesePT>Aumenta a tua posição política com o [COLOR_TECH_TEXT]Barão De La Warr[COLOR_REVERT]. Este Pai Fundador permite criar [COLOR_HIGHLIGHT_TEXT]galinhas[COLOR_REVERT] e [COLOR_HIGHLIGHT_TEXT]gansos[COLOR_REVERT] em metade do tempo normal.</PortuguesePT>
 	</TEXT>
 	<!-- JAMES_BAKER -->
 	<TEXT>
@@ -268,15 +310,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Джеймс Бейкер</Russian>
+        <PortuguesePT>
+            <Text>James Baker</Text>
+            <Gender>Male</Gender>
+            <Plural>0</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_JAMES_BAKER_PEDIA</Tag>
 		<English>[H1]Doctor James Baker[\H1][NEWLINE][BOLD]Lived : [\BOLD]1739 - 1825[NEWLINE][NEWLINE][BOLD]Background :[\BOLD][PARAGRAPH:1:1]Owing to James Baker's gentle disposition, his parents were induced to fit him for the ministry. With this in view he went through Harvard College, graduating in 1760. However it soon became apparent that his extreme diffidence would prevent him from performing the duties of a minister.[PARAGRAPH:2:1]Next he opened a store. Soon he saw that there were great possibilities in the chocolate business, so he closed his store and began to manufacture chocolate. The success of this undertaking was remarkable and Baker’s Chocolate has been manufactured ever since, now being known in all parts of the world.</English>
 		<German>[H1]Doktor James Baker[\H1][NEWLINE][BOLD]Lebte : [\BOLD]1739 - 1825[NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][PARAGRAPH:1:1]Aufgrund der sanften Veranlagung von James Baker sahen sich seine Eltern veranlasst, ihn für das Pfarramt vorzubereiten. Zu diesem Zweck besuchte er das Harvard College und machte 1760 seinen Abschluss. Es stellte sich jedoch bald heraus, dass seine extreme Schüchternheit ihn daran hindern würde, die Pflichten eines Geistlichen zu erfüllen.[PARAGRAPH:2:1]Als nächstes eröffnete er einen Laden. Bald erkannte er, dass das Schokoladengeschäft große Möglichkeiten bot, und so schloss er sein Geschäft und begann mit der Herstellung von Schokolade. Der Erfolg dieses Unternehmens war bemerkenswert, und Baker's Chocolate wird seither in allen Teilen der Welt hergestellt und ist dort bekannt.</German>
+        <PortuguesePT>[H1]Doutor James Baker[\H1][NEWLINE][BOLD][\BOLD](1739 - 1825)[NEWLINE][NEWLINE][BOLD]História:[\BOLD][PARAGRAPH:1:1] Devido à disposição gentil de James Baker, os seus pais foram induzidos a habilitá-lo para o sacerdócio. Com isto em mente, ingressou no Harvard College, graduando-se em 1760. No entanto, cedo se tornou claro que a sua extrema timidez o impediria de desempenhar as funções de pastor. [PARAGRAPH:2:1]De seguida, abriu uma loja. Cedo viu que havia grandes possibilidades no negócio dos chocolates, por isso, fechou a sua loja e começou a fabricar chocolates. O sucesso desta empreitada foi notável e desde então o Baker’s Chocolate é fabricado, sendo hoje conhecido em todas as partes do mundo.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_JAMES_BAKER_STRATEGY</Tag>
 		<English>Boost your political progress with [COLOR_TECH_TEXT]James Baker[COLOR_REVERT]. This Founding Father allows you to grow [COLOR_HIGHLIGHT_TEXT]vanilla beans[COLOR_REVERT] and [COLOR_HIGHLIGHT_TEXT]cocoa beans[COLOR_REVERT], and to manufacture [COLOR_HIGHLIGHT_TEXT]vanilla[COLOR_REVERT] and [COLOR_HIGHLIGHT_TEXT]cocoa[COLOR_REVERT], in half the normal time.</English>
+        <PortuguesePT>Aumenta o teu progresso político com [COLOR_TECH_TEXT]James Baker[COLOR_REVERT]. Este Pai Fundador permite colher [COLOR_HIGHLIGHT_TEXT]vagens de baunilha[COLOR_REVERT] e de [COLOR_HIGHLIGHT_TEXT]cacau[COLOR_REVERT], e produzir [COLOR_HIGHLIGHT_TEXT]baunilha[COLOR_REVERT] e [COLOR_HIGHLIGHT_TEXT]cacau[COLOR_REVERT], em metade do tempo normal. </PortuguesePT>
 	</TEXT>
 	<!-- WILLIAM_STRACHEY -->
 	<TEXT>
@@ -307,15 +356,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Уильям Стрейчи</Russian>
+        <PortuguesePT>
+			<Text>William Strachey</Text>
+			<Gender>Male</Gender>
+            <Plural>0</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_WILLIAM_STRACHEY_PEDIA</Tag>
 		<English>[H1]William Strachey[\H1][NEWLINE][BOLD]Lived : [\BOLD]1572 - 1621[NEWLINE][NEWLINE][BOLD]Background :[\BOLD][PARAGRAPH:1:1]William Strachey was an English writer whose works describe the early history of the English colonization of North America.[PARAGRAPH:2:1]He was an eye-witness to the 1609 shipwreck of the "Sea Venture" on Bermuda, then uninhabited. The survivors had to build new boats to continue on to Virginia.[PARAGRAPH:2:1]His account of the incident and of the Virginia colony is thought by most scholars to have been the source for Shakespeare's play, "The Tempest".[PARAGRAPH:2:1]Strachey's writings are among the few first-hand descriptions of Virginia in the period. His glossary of Powhatan words is one of only two records of the language, the other being Captain John Smith's.</English>
 		<German>[H1]William Strachey[\H1][NEWLINE][BOLD]Lebte : [\BOLD]1572 - 1621[NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][PARAGRAPH:1:1]William Strachey war ein englischer Schriftsteller, dessen Werke die frühe Geschichte der englischen Kolonisierung Nordamerikas beschreiben. 1609 war er Augenzeuge des Schiffbruchs der "Sea Venture" auf den damals unbewohnten Bermudas. Die Überlebenden mussten neue Boote bauen, um nach Virginia weiterfahren zu können.[PARAGRAPH:2:1]Sein Bericht über den Vorfall und die Kolonie Virginia wird von den meisten Gelehrten als Quelle für Shakespeares Stück "Der Sturm" angesehen.[PARAGRAPH:2:1]Stracheys Schriften gehören zu den wenigen Beschreibungen Virginias aus erster Hand in dieser Zeit. Sein Glossar der Powhatan-Wörter ist eine von nur zwei Aufzeichnungen über die Sprache, die andere ist die von Captain John Smith.</German>
+        <PortuguesePT>[H1]William Strachey[\H1][NEWLINE][BOLD][\BOLD](1572 - 1621)[NEWLINE][NEWLINE][BOLD]História:[\BOLD][PARAGRAPH:1:1]William Strachey foi um escritor inglês cujas obras descrevem o início da história da colonização inglesa da América do Norte.[PARAGRAPH:2:1]Foi testemunha ocular do naufrágio do "Sea Venture", em 1609, nas Bermudas, então desabitadas. Os sobreviventes tiveram de construir novos barcos para continuarem para sua viagem até Virgínia.[PARAGRAPH:2:1]O seu relato do incidente e acerca da colónia de Virgínia é considerado, pela maioria dos estudiosos, como a fonte da peça de Shakespeare: "A Tempestade".[PARAGRAPH:2:1] Os escritos de Strachey estão entre as poucas descrições, em primeira mão, da colónia de Virgínia daquele período. O seu glossário de palavras Powhatan é um dos dois únicos registos da língua, tendo o outro sido registado pelo Capitão John Smith.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_WILLIAM_STRACHEY_STRATEGY</Tag>
 		<English>Boost your trading with [COLOR_TECH_TEXT]William Strachey[COLOR_REVERT]. This Founding Father allows you to collect [COLOR_HIGHLIGHT_TEXT]pig skin[COLOR_REVERT] and [COLOR_HIGHLIGHT_TEXT]cattle hides[COLOR_REVERT], and to tan [COLOR_HIGHLIGHT_TEXT]pig leather[COLOR_REVERT] and [COLOR_HIGHLIGHT_TEXT]cattle leather[COLOR_REVERT] in half the normal time.</English>
+        <PortuguesePT>Aumenta o teu comércio com [COLOR_TECH_TEXT]William Strachey[COLOR_REVERT]. Este Pai Fundador permite-te processar [COLOR_HIGHLIGHT_TEXT]pele de porco[COLOR_REVERT] e [COLOR_HIGHLIGHT_TEXT]pele de vaca[COLOR_REVERT], assim como produzir [COLOR_HIGHLIGHT_TEXT]Aventais de couro[COLOR_REVERT] e [COLOR_HIGHLIGHT_TEXT]Artigos de couro[COLOR_REVERT] em metade do tempo normal.</PortuguesePT>
 	</TEXT>
 	<!-- SIR_JOHN_HARVEY -->
 	<TEXT>
@@ -346,15 +402,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Джон Харви</Russian>
+        <PortuguesePT>
+            <Text>Sir John Harvey</Text>
+            <Gender>Male</Gender>
+            <Plural>0</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_SIR_JOHN_HARVEY_PEDIA</Tag>
 		<English>[H1]Sir John Harvey[\H1][NEWLINE][BOLD]Lived : [\BOLD]c.1581 - 1646[NEWLINE][NEWLINE][BOLD]Background :[\BOLD][PARAGRAPH:1:1]Sir John Harvey complained about the lack of leather shoes in colonial Virginia. He encouraged shoe manufacturers and tanneries, and also prevented the export of leather or deer hide, keeping it all for the local market.[PARAGRAPH:2:1] Harvey was the Governor of Virginia, appointed by Charles I. In 1635, he was suspended and impeached by the Council of Virginia.[PARAGRAPH:2:1]Charles I restored him to his post in 1636. The captain and sailors who transported the governor back to Virginia in 1635 had to sue in Admiralty court for their pay.[PARAGRAPH:2:1]His government was tyrannical and Harvey himself was called "an obnoxious ruler". In 1639, Harvey was replaced as governor by Sir Francis Wyatt.</English>
 		<German>[H1]Sir John Harvey[\H1][NEWLINE][BOLD]Lebte : [\BOLD]ca. 1581 - 1646[NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][PARAGRAPH:1:1]Sir John Harvey beklagte sich über den Mangel an Lederschuhen im kolonialen Virginia. Er förderte Schuhhersteller und Gerbereien und verhinderte auch die Ausfuhr von Leder und Hirschhäuten, die ausschließlich für den lokalen Markt bestimmt waren.[PARAGRAPH:2:1] Harvey war der von Karl I. ernannte Gouverneur von Virginia. 1635 wurde er suspendiert und vom Rat von Virginia angeklagt.[PARAGRAPH:2:1]Karl I. setzte ihn 1636 wieder in sein Amt ein. Der Kapitän und die Matrosen, die den Gouverneur 1635 nach Virginia zurückgebracht hatten, mussten vor dem Admiralitätsgericht auf ihren Lohn klagen.[PARAGRAPH:2:1]Seine Regierung war tyrannisch, und Harvey selbst wurde als "ein widerwärtiger Herrscher" bezeichnet. Im Jahr 1639 wurde Harvey als Gouverneur durch Sir Francis Wyatt ersetzt.</German>
+        <PortuguesePT>[H1]Sir John Harvey[\H1][NEWLINE][BOLD][\BOLD](c.1581 – 1646)[NEWLINE][NEWLINE][BOLD]História:[\BOLD][PARAGRAPH:1: 1]Sir John Harvey queixou-se da falta de sapatos de cabedal na colónia de Virgínia. Por isso, incentivou os fabricantes de calçado e de curtumes, e também impediu a exportação de couro ou pele de veado, guardando tudo para o mercado local.[PARAGRAPH:2:1] Harvey foi governador de Virgínia, nomeado por Carlos I. Em 1635, foi suspenso e acusado pelo Conselho de Virgínia.[PARAGRAPH:2:1]Carlos I restituiu-lhe o seu posto em 1636. O capitão e os marinheiros que transportaram o governador de volta para Virgínia em 1635 tiveram de processar o tribunal do Almirantado para serem pagos. [PARAGRAPH:2:1]O seu governo era tirânico e o próprio Harvey foi chamado de "detestável governante". Em 1639, Harvey foi substituído como governador por Sir Francis Wyatt.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_SIR_JOHN_HARVEY_STRATEGY</Tag>
 		<English>Boost your political progress with [COLOR_TECH_TEXT]Sir John Harvey[COLOR_REVERT]. This Founding Father allows you to collect [COLOR_HIGHLIGHT_TEXT]goat skins[COLOR_REVERT] and manufacture [COLOR_HIGHLIGHT_TEXT]goat hide boots[COLOR_REVERT] and [COLOR_HIGHLIGHT_TEXT]padded leather coats[COLOR_REVERT] in half the normal time.</English>
+        <PortuguesePT>Aumenta o teu progresso político com [COLOR_TECH_TEXT]Sir John Harvey[COLOR_REVERT]. Este Pai Fundador permite-te recolher [COLOR_HIGHLIGHT_TEXT]peles de cabra[COLOR_REVERT] e fabricar [COLOR_HIGHLIGHT_TEXT]botas de pele de cabra[COLOR_REVERT] e [COLOR_HIGHLIGHT_TEXT]casacos de cabedal forrados [COLOR_REVERT] em metade do tempo normal.</PortuguesePT>
 	</TEXT>
 	<!-- JOHN_MAURICE -->
 	<TEXT>
@@ -385,15 +448,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Иоганн Мориц Нассау-Зигенский</Russian>
+        <PortuguesePT>
+            <Text>Johann Moritz</Text>
+            <Gender>Male</Gender>
+            <Plural>0</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_JOHN_MAURICE_PEDIA</Tag>
 		<English>[H1]Johann Moritz, Fürst von Nassau-Siegen[\H1][NEWLINE][BOLD]Lived : [\BOLD]1604 - 1679[NEWLINE][NEWLINE][BOLD]Background :[\BOLD][PARAGRAPH:1:1]Johann Moritz, Prince of Nassau-Siegen, was a Dutch field marshal and gouverneur-generaal of Nieuw-Holland from 1636 to 1643.[PARAGRAPH:2:1]After his appointment as gouverneur-generaal of the possessions of the Dutch West India Company in Brazil in 1636, he conquered a large part of the northeastern coast of Brazil from the Portuguese despite having only small forces at his disposal. Subsequently, in 1637, Johann Moritz sent an expedition of nine ships and 800 soldiers to the African coast, which captured for the Dutch the Portuguese fortress and most important trading post on the coast of Guinea, São Jorge da Mina. Elmina then became the Dutch headquarters in West Africa and one of the starting points of the transatlantic slave trade.[PARAGRAPH:2:1]With the massive use of African slaves on the extensive sugar plantations, Johann Moritz contributed significantly to the rise of Nieuw-Holland whose "white gold" brought great profits to the Dutch West India Company. The economic success of the Dutch spurred the Portuguese even more to reconquer their colony, which they succeeded in doing by 1654.[PARAGRAPH:2:1]He also established representative councils in the colony for local government, and developed Recife's transportation infrastructure. His large schemes and lavish expenditures alarmed the parsimonious directors of the West India Company and, refusing to retain his post unless he were given a free hand, he returned to Europe in July 1644.[PARAGRAPH:2:1]When war broke out with England Johann Moritz, Prince of Nassau-Siegen, was appointed commander-in-chief of the Dutch States Army. Though hampered in his command by the restrictions of the states-general, he repelled the invasion.</English>
 		<German>[H1]Johann Moritz, Fürst von Nassau-Siegen[\H1][NEWLINE][BOLD]Lebte : [\BOLD]1604 - 1679[NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][PARAGRAPH:1:1]Johann Moritz, Fürst von Nassau-Siegen, war ein niederländischer Feldmarschall und Gouverneur von Nieuw-Holland von 1636 bis 1643[PARAGRAPH:2:1]Nach seiner Ernennung zum Gouverneur der Besitzungen der Niederländischen Westindien-Kompanie in Brasilien im Jahr 1636 eroberte er einen großen Teil der nordöstlichen Küste Brasiliens von den Portugiesen, obwohl er nur über geringe Streitkräfte verfügte. In der Folge schickte Johann Moritz 1637 eine Expedition mit neun Schiffen und 800 Soldaten an die afrikanische Küste, die für die Niederländer die portugiesische Festung und den wichtigsten Handelsposten an der Küste Guineas, São Jorge da Mina, eroberte. Elmina wurde daraufhin zum holländischen Hauptquartier in Westafrika und zu einem der Ausgangspunkte des transatlantischen Sklavenhandels[PARAGRAPH:2:1]Mit dem massiven Einsatz afrikanischer Sklaven auf den ausgedehnten Zuckerplantagen trug Johann Moritz maßgeblich zum Aufstieg von Nieuw-Holland bei, dessen "weißes Gold" der Niederländischen Westindien-Kompanie große Gewinne einbrachte. Der wirtschaftliche Erfolg der Niederländer spornte die Portugiesen noch mehr an, ihre Kolonie zurückzuerobern, was ihnen bis 1654 auch gelang.[PARAGRAPH:2:1]Außerdem richtete er in der Kolonie repräsentative Räte für die lokale Verwaltung ein und baute die Verkehrsinfrastruktur von Recife aus. Seine großen Pläne und verschwenderischen Ausgaben alarmierten die sparsamen Direktoren der Westindischen Kompanie, und da er sich weigerte, seinen Posten zu behalten, wenn man ihm nicht freie Hand ließ, kehrte er im Juli 1644 nach Europa zurück.[PARAGRAPH:2:1]Als der Krieg mit England ausbrach, wurde Johann Moritz, Prinz von Nassau-Siegen, zum Oberbefehlshaber der Armee der niederländischen Staaten ernannt. Obwohl er in seiner Befehlsgewalt durch die Einschränkungen der Generalstaaten behindert wurde, schlug er die Invasion zurück.</German>
+        <PortuguesePT>[H1]Johann Moritz, Fürst von Nassau-Siegen[\H1][NEWLINE][BOLD] [\BOLD](1604 – 1679)[NEWLINE][BOLD]História:[\BOLD][PARAGRAPH:1:1]Johann Moritz, Príncipe de Nassau-Siegen, foi um Marechal de campo e governador-geral holandês, de Nieuw-Holland entre 1636 e 1643.[PARAGRAPH:2:1Após a sua nomeação como governador-geral das possessões da Companhia Holandesa das Índias Ocidentais no Brasil, em 1636, conquistou grande parte da costa nordeste do Brasil aos portugueses, apesar de ter apenas pequenas forças à sua disposição. Posteriormente, em 1637, Johann Moritz enviou uma expedição de nove navios e 800 soldados para a costa africana, e capturou para os holandeses a fortaleza portuguesa, São Jorge da Mina - o mais importante entreposto comercial da costa da Guiné. Mina tornou-se então a sede holandesa de África Ocidental e um dos pontos de partida do comércio transatlântico de escravos. [PARAGRAPH:2:1]Com o uso massivo de escravos africanos nas extensas plantações de açúcar, Johann Moritz contribuiu significativamente para a ascensão de Nieuw-Holland cujo “ouro branco” trouxe grandes lucros à Companhia Holandesa das Índias Ocidentais. O sucesso económico dos holandeses estimulou ainda mais os portugueses a reconquistar a sua colónia, e o que foi alcançado em 1654.[PARAGRAPH:2:1]Ele também estabeleceu conselhos representativos na colónia para o governo local e desenvolveu a infra-estrutura de transportes do Recife. Os seus grandes esquemas e gastos luxuosos, alarmaram os parcimoniosos diretores da Companhia das Índias Ocidentais e, recusando-se a manter o seu posto, a não ser que lhe fosse dada carta branca, regressou à Europa em julho de 1644.[PARAGRAPH:2:1]Quando a guerra com Inglaterra eclodiu, Johann Moritz, Príncipe de Nassau-Siegen, foi nomeado comandante-chefe do Exército dos Estados Holandeses. Embora prejudicado no seu comando pelas restrições dos estados gerais, ele conseguiu repelir a invasão.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_JOHN_MAURICE_STRATEGY</Tag>
 		<English>Boost your military with [COLOR_TECH_TEXT]Johann Moritz[COLOR_REVERT]. This Founding Father gives you a [COLOR_HIGHLIGHT_TEXT]settler militia[COLOR_REVERT] and also allows you to produce [COLOR_HIGHLIGHT_TEXT]cheese[COLOR_REVERT] in half the normal time.</English>
+        <PortuguesePT>Aumenta o teu exército com [COLOR_TECH_TEXT]Johann Moritz[COLOR_REVERT]. Este Pai Fundador dá-te uma [COLOR_HIGHLIGHT_TEXT]milícia de colonos[COLOR_REVERT] e também te permite produzir [COLOR_HIGHLIGHT_TEXT]queijo[COLOR_REVERT] em metade do tempo normal.</PortuguesePT>
 	</TEXT>
 	<!-- WILLIAM_TAILER -->
 	<TEXT>
@@ -424,15 +494,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Уильям Тейлер</Russian>
+        <PortuguesePT>
+            <Text>William Tailer</Text>
+            <Gender>Male</Gender>
+            <Plural>0</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_WILLIAM_TAILER_PEDIA</Tag>
 		<English>[H1]William Tailer[\H1][NEWLINE][BOLD]Lived : [\BOLD]1675 - 1731[NEWLINE][NEWLINE][BOLD]Background :[\BOLD][PARAGRAPH:1:1]William Tailer was a military officer and politician in Massachusetts Bay. He commanded a regiment in the 1710 siege of Port Royal, the capital of French Acadia, during Queen Anne's War.[PARAGRAPH:2:1]Tailer was responsible for overseeing the defenses of Boston in the 1720s, and negotiated with the Iroquois and Abenaki during Dummer's War.[PARAGRAPH:2:1]An Anglican, he opposed Puritan Governor Joseph Dudley. Tailer was ultimately turned out of office when the king chose Colonel Samuel Shute, a land bank opponent, to replace his government.</English>
 		<German>[H1]William Tailer[\H1][NEWLINE][BOLD]Lebte : [\BOLD]1675 - 1731[NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][PARAGRAPH:1:1]William Tailer war ein Militäroffizier und Politiker in der Massachusetts Bay. Er befehligte 1710 ein Regiment bei der Belagerung von Port Royal, der Hauptstadt von Französisch-Akadien, während des Queen Anne's War.[PARAGRAPH:2:1]Tailer war in den 1720er Jahren für die Überwachung der Verteidigung von Boston verantwortlich und verhandelte während des Dummer's War mit den Irokesen und Abenaki.[PARAGRAPH:2:1]Als Anglikaner stellte er sich gegen den puritanischen Gouverneur Joseph Dudley. Tailer wurde schließlich aus dem Amt gedrängt, als der König Colonel Samuel Shute, einen Gegner der Landbank, zu seinem Nachfolger wählte.</German>
+        <PortuguesePT>[H1]William Tailer[\H1][NEWLINE][BOLD][\BOLD](1675 - 1731)[NEWLINE][NEWLINE][BOLD]História:[\BOLD][PARAGRAPH:1:1]William Tailer foi um oficial militar e político na Baía de Massachusetts. Comandou um regimento no cerco de Porto Real em 1710, capital da Acádia francesa, durante a Guerra da Rainha Ana.[PARAGRAPH:2:1]Tailer foi responsável pela supervisão das defesas de Boston na década de 1720 e negociou com os Iroqueses e Abenaki, durante a Guerra de Dummer.[PARAGRAPH:2:1]Anglicano, opôs-se ao governador puritano Joseph Dudley. Tailer acabou por ser destituído do cargo quando o rei escolheu o Coronel Samuel Shute, um opositor do banco de terras, para substituir a sua governação.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_WILLIAM_TAILER_STRATEGY</Tag>
 		<English>Boost your political progress with [COLOR_TECH_TEXT]William Tailer[COLOR_REVERT]. This Founding Father gives you an [COLOR_HIGHLIGHT_TEXT]Expert Farmer[COLOR_REVERT] and allows you to bake more [COLOR_HIGHLIGHT_TEXT]provisions[COLOR_REVERT] in proportion to the tax rate.</English>
+        <PortuguesePT>Aumenta o teu progresso político com [COLOR_TECH_TEXT]William Tailer[COLOR_REVERT]. Este Pai Fundador oferece-te um [COLOR_HIGHLIGHT_TEXT]Agricultor Perito[COLOR_REVERT] e permite-te produzir [COLOR_HIGHLIGHT_TEXT]pão[COLOR_REVERT] numa quantidade proporcional ao imposto corrente.</PortuguesePT>
 	</TEXT>
 	<!-- SAMUEL_NICHOLAS -->
 	<TEXT>
@@ -463,15 +540,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Сэмюэл Николас</Russian>
+        <PortuguesePT>
+            <Text>Samuel Nicholas</Text>
+            <Gender>Male</Gender>
+            <Plural>0</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_SAMUEL_NICHOLAS_PEDIA</Tag>
 		<English>[H1]Samuel Nicholas[\H1][NEWLINE][BOLD]Lived : [\BOLD]1744 - 1790[NEWLINE][NEWLINE][BOLD]Background :[\BOLD][PARAGRAPH:1:1]Samuel Nicholas, the first officer commissioned in the United States Continental Marines, is by tradition considered to be the first Commandant of the Marine Corps.[PARAGRAPH:2:1]He led the first successful landing by Continental Marines, which saw the capture of Nassau.[PARAGRAPH:2:1]The Marines under Major Nicholas fought a detachment of Cornwallis's main army at Princeton, New Jersey. During the ensuing months, Nicholas's battalion served both as infantry and artillery, participating in several skirmishes.[PARAGRAPH:2:1]Following the British evacuation of Philadelphia in June 1778, Nicholas was put in charge of recruiting, and also acted as Muster Master of the Navy.</English>
 		<German>[H1]Samuel Nicholas[\H1][NEWLINE][BOLD]Lebte : [\BOLD]1744 - 1790[NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][PARAGRAPH:1:1]Samuel Nicholas, der erste Offizier der United States Continental Marines, gilt traditionell als erster Kommandant des Marine Corps.[PARAGRAPH:2:1]Er leitete die erste erfolgreiche Landung der Continental Marines, bei der Nassau erobert wurde.[PARAGRAPH:2:1]Die Marines unter Major Nicholas kämpften in Princeton, New Jersey, gegen eine Abteilung von Cornwallis' Hauptarmee. In den folgenden Monaten diente Nicholas' Bataillon sowohl als Infanterie als auch als Artillerie und nahm an mehreren Scharmützeln teil.[PARAGRAPH:2:1]Nach der Evakuierung Philadelphias durch die Briten im Juni 1778 wurde Nicholas mit der Rekrutierung betraut und fungierte auch als Musterungsleiter der Marine.</German>
+        <PortuguesePT>[H1]Samuel Nicholas[\H1][NEWLINE][BOLD][\BOLD](1744 - 1790)[NEWLINE][NEWLINE][BOLD]História:[\BOLD][PARAGRAPH:1:1]Samuel Nicholas, primeiro oficial comissionado nos Fuzileiros Navais Continentais dos Estados Unidos, é por tradição considerado o primeiro Comandante do Corpo de Fuzileiros Navais.[PARAGRAPH:2:1]Liderou o primeiro desembarque bem-sucedido dos Fuzileiros Navais Continentais, que testemunharam a captura de Nassau. [PARAGRAPH:2:1]Os fuzileiros, sob o comando do Major Nicholas, combateram um destacamento do exército principal de Cornwallis em Princeton, New Jersey. Durante os meses seguintes, o batalhão de Nicholas tanto serviu como infantaria, como artilharia, participando em várias batalhas. [PARAGRAPH:2:1]Após a evacuação britânica de Filadélfia, em junho de 1778, Nicholas foi encarregado do recrutamento e também serviu como Mestre de Recrutas da Marinha.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_SAMUEL_NICHOLAS_STRATEGY</Tag>
 		<English>Boost your military with [COLOR_TECH_TEXT]Samuel Nicholas[COLOR_REVERT]. This Founding Father gives you a [COLOR_HIGHLIGHT_TEXT]Brave Lieutenant[COLOR_REVERT] and a [COLOR_HIGHLIGHT_TEXT]Capable Captain[COLOR_REVERT].</English>
+        <PortuguesePT>Aumenta o teu exército com [COLOR_TECH_TEXT]Samuel Nicholas[COLOR_REVERT]. Este Pai Fundador dá-te um [COLOR_HIGHLIGHT_TEXT]Tenente Condecorado[COLOR_REVERT] e um [COLOR_HIGHLIGHT_TEXT]Capitão-Mor[COLOR_REVERT].</PortuguesePT>
 	</TEXT>
 	<!-- JOHN_WINTHROP_THE_YOUNGER -->
 	<TEXT>
@@ -502,15 +586,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Джон Уинтроп</Russian>
+        <PortuguesePT>
+            <Text>John Winthrop</Text>
+            <Gender>Male</Gender>
+            <Plural>0</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_JOHN_WINTHROP_THE_YOUNGER_PEDIA</Tag>
 		<English>[H1]John Winthrop the Younger[\H1][NEWLINE][BOLD]Lived : [\BOLD]1606 - 1676[NEWLINE][NEWLINE][BOLD]Background :[\BOLD][PARAGRAPH:1:1]John Winthrop the Younger was an early governor of the Connecticut colony. He lived in Massachusetts, where he built a grist mill and was granted a monopoly. This was one of the first monopolies granted in New England.[PARAGRAPH:2:1]Winthrop became a magistrate of the Connecticut colony in 1651, was governor of the colony from 1657 to 1658, and again became governor in 1659, being annually re-elected until his death.[PARAGRAPH:2:1]During his tenure as Governor of Connecticut, he oversaw the acceptance of Quakers who were banned from Massachusetts.[PARAGRAPH:2:1]In 1662, he obtained the charter in England which united the colonies of Connecticut and New Haven.</English>
 		<German>[H1]John Winthrop, der Jüngere[\H1][NEWLINE][BOLD]Lebte : [\BOLD]1606 - 1676[NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][PARAGRAPH:1:1]John Winthrop der Jüngere war ein früher Gouverneur der Kolonie Connecticut. Er lebte in Massachusetts, wo er eine Schrotmühle baute und ein Monopol erhielt. Dies war eines der ersten Monopole in Neuengland. 1651 wurde Winthrop Magistrat der Kolonie Connecticut, von 1657 bis 1658 war er Gouverneur der Kolonie, und 1659 wurde er erneut zum Gouverneur gewählt und bis zu seinem Tod jährlich wiedergewählt.[PARAGRAPH:2:1]Während seiner Amtszeit als Gouverneur von Connecticut überwachte er die Aufnahme von Quäkern, die aus Massachusetts verbannt worden waren.[PARAGRAPH:2:1]1662 erwirkte er in England die Charta, die die Kolonien Connecticut und New Haven vereinigte.</German>
+        <PortuguesePT>[H1]John Winthrop, o filho[\H1][NEWLINE][BOLD][\BOLD](1606 - 1676)[NEWLINE][NEWLINE][BOLD]História:[\BOLD][PARAGRAPH:1: 1] John Winthrop, o filho, foi um dos primeiros governadores da colónia de Connecticut. Viveu em Massachusetts, onde construiu um moinho de cereais que lhe rendeu o monopólio. Este foi um dos primeiros monopólios concedidos na Nova Inglaterra.[PARAGRAPH:2:1]Winthrop tornou-se um magistrado da colónia de Connecticut em 1651, e foi governador da colónia de 1657 a 1658, e mais tarde, tornou-se novamente governador em 1659, sendo reeleito anualmente, até à sua morte.[PARAGRAPH:2:1]Durante o seu mandato como Governador de Connecticut, supervisionou a aceitação dos Quakers que tinham sido banidos de Massachusetts.[PARAGRAPH:2:1]Em 1662, obteve a carta constitutiva de Inglaterra que uniu as colónias de Connecticut e New Haven.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_JOHN_WINTHROP_THE_YOUNGER_STRATEGY</Tag>
 		<English>Boost your trade with [COLOR_TECH_TEXT]John Winthrop[COLOR_REVERT]. This Founding Father gives you a [COLOR_HIGHLIGHT_TEXT]Master Charcoal Burner[COLOR_REVERT] and a [COLOR_HIGHLIGHT_TEXT]Master Powder Maker[COLOR_REVERT].</English>
+        <PortuguesePT>Aumenta o teu comércio com [COLOR_TECH_TEXT]John Winthrop[COLOR_REVERT]. Este Pai Fundador oferece-te um [COLOR_HIGHLIGHT_TEXT]Mestre Carvoeiro [COLOR_REVERT] e um [COLOR_HIGHLIGHT_TEXT]Mestre Polvorista[COLOR_REVERT].</PortuguesePT>
 	</TEXT>
 	<!-- BENJAMIN_KISSAM -->
 	<TEXT>
@@ -541,15 +632,22 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Бенджамин Киссам</Russian>
+        <PortuguesePT>
+            <Text>Benjamin Kissam</Text>
+            <Gender>Male</Gender>
+            <Plural>0</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_BENJAMIN_KISSAM_PEDIA</Tag>
 		<English>[H1]Benjamin Kissam[\H1][NEWLINE][BOLD]Lived : [\BOLD]1728 - 1782[NEWLINE][NEWLINE][BOLD]Background :[\BOLD][PARAGRAPH:1:1]Benjamin Kissam was a prominent lawyer in New York City who trained prospective lawyers. One of his clerks was John Jay. Kissam's wife was Catherine Rutgers, whose family owned a large amount of land in New York, and his brother Daniel was a judge.[PARAGRAPH:2:1]Kissam represented the proprietors of the Kayoderosseras, a huge area of former Mohawk land. The Native nation felt the land patent granted to colonists in the early eighteenth century was unfair. Kissam acted for the proprietors in reaching a new settlement with the Mohawk in 1768.</English>
 		<German>[H1]Benjamin Kissam[\H1][NEWLINE][BOLD]Lebte : [\BOLD]1728 - 1782[NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][PARAGRAPH:1:1]Benjamin Kissam war ein bekannter Anwalt in New York City, der angehende Juristen ausbildete. Einer seiner Assistenten war John Jay. Kissams Frau war Catherine Rutgers, deren Familie eine große Menge Land in New York besaß, und sein Bruder Daniel war Richter.[PARAGRAPH:2:1]Kissam vertrat die Eigentümer der Kayoderosseras, eines riesigen Gebiets ehemaligen Mohawk-Landes. Die Ureinwohner empfanden das Landpatent, das den Kolonisten im frühen achtzehnten Jahrhundert erteilt worden war, als ungerecht. Kissam vertrat die Eigentümer beim Abschluss einer neuen Vereinbarung mit den Mohawk im Jahr 1768.</German>
+        <PortuguesePT>[H1]Benjamin Kissam[\H1][NEWLINE][BOLD][\BOLD](1728 - 1782)[NEWLINE][NEWLINE][BOLD]História:[\BOLD][PARAGRAPH:1:1]Benjamin Kissam era um advogado proeminente na cidade de Nova Iorque e foi formador de futuros advogados. Um dos seus funcionários era John Jay. A esposa de Kissam era Catherine Rutgers, cuja família possuía uma grande quantidade de terras em Nova Iorque, e o seu irmão, Daniel, era juiz.[PARAGRAPH:2:1]Kissam representava os proprietários dos Kayoderosseras, uma enorme área de antigas terras Mohawk. A nação nativa sentiu que a patente de terras concedida aos colonos no início do século XVIII era injusta. Kissam atuou em nome dos proprietários para chegar a um novo acordo com os Mohawk em 1768.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_BENJAMIN_KISSAM_STRATEGY</Tag>
 		<English>Boost your political status with [COLOR_TECH_TEXT]Benjamin Kissam[COLOR_REVERT]. This Founding Father gives you two [COLOR_HIGHLIGHT_TEXT]Honourable Judges[COLOR_REVERT] and increases gavel production by the tax rate.</English>
+        <PortuguesePT>Aumenta o teu estatuto político com [COLOR_TECH_TEXT]Benjamin Kissam[COLOR_REVERT]. Este Pai Fundador dá-te dois [COLOR_HIGHLIGHT_TEXT]Doutores Juízes[COLOR_REVERT] e aumenta a produção de martelos na proporção do imposto corrente.</PortuguesePT>
 	</TEXT>
 	<!-- JUAN_DE_PAREJA -->
 	<TEXT>
@@ -580,14 +678,21 @@
 			<Plural>0</Plural>
 		</Spanish>
 		<Russian>Хуан де Пареха</Russian>
+        <PortuguesePT>
+            <Text>Juan de Pareja</Text>
+            <Gender>Male</Gender>
+            <Plural>0</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_JUAN_DE_PAREJA_PEDIA</Tag>
 		<English>[H1]Juan de Pareja[\H1][NEWLINE][BOLD]Lived : [\BOLD]c.1610 - 1670[NEWLINE][NEWLINE][BOLD]Background :[\BOLD][PARAGRAPH:1:1]Juan de Pareja was a Spanish Morisco born around 1610 into slavery in Southern Spain. He was of "mixed parentage and unusual colour".[PARAGRAPH:2:1]In 1630, he apprenticed as a painter, rising to work with Diego Velazquez. In 1642, he had power of attorney for Velazquez in a lawsuit against scribes in the criminal court.[PARAGRAPH:2:1]In 1649, he accompanied Velazquez to Italy, where Velazquez did his famous painting, "Portrait of Juan de Pareja", currently in the Metropolitan Museum of Art of New York.[PARAGRAPH:2:1]In 1650, Velazquez granted him a letter of freedom which would come into effect after four years, on the condition that de Pareja did not escape or commit any criminal act in that period. From then on until his death in Madrid he worked as an independent painter, demonstrating knowledge acquired in Velazquez's workshop.</English>
 		<German>[H1]Juan de Pareja[\H1][NEWLINE][BOLD]Lebte : [\BOLD]ca. 1610 - 1670[NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][PARAGRAPH:1:1]Juan de Pareja war ein spanischer Morisco, der um 1610 in der Sklaverei in Südspanien geboren wurde. Er war von "gemischter Abstammung und ungewöhnlicher Farbe". 1630 ging er in die Lehre als Maler und arbeitete schließlich mit Diego Velazquez zusammen. Im Jahr 1642 erhielt er eine Vollmacht für Velazquez in einem Prozess gegen Schriftgelehrte vor dem Strafgericht. 1649 begleitete er Velazquez nach Italien, wo dieser sein berühmtes Gemälde "Porträt von Juan de Pareja" malte, das sich heute im Metropolitan Museum of Art in New York befindet.[PARAGRAPH:2:1]1650 gewährte ihm Velazquez einen Freiheitsbrief, der nach vier Jahren in Kraft treten sollte, unter der Bedingung, dass de Pareja in dieser Zeit nicht fliehen oder eine Straftat begehen würde. Von da an bis zu seinem Tod in Madrid arbeitete er als unabhängiger Maler, wobei er seine in der Werkstatt von Velazquez erworbenen Kenntnisse unter Beweis stellte.</German>
+        <PortuguesePT>[H1]Juan de Pareja[\H1][NEWLINE][BOLD][\BOLD](c.1610 - 1670)[NEWLINE][NEWLINE][BOLD]História:[\BOLD][PARAGRAPH:1: 1]Juan de Pareja foi um morisco espanhol nascido por volta de 1610, como escravo, no sul de Espanha. Era de "parentalidade mista e de cor invulgar". [PARAGRAPH:2:1]Em 1630, tornou-se aprendiz de pintor, e começou a trabalhar com Diego Velazquez. Em 1642, obteve uma procuração para Velázquez num processo contra escribas no tribunal criminal.[PARAGRAPH:2:1]Em 1649, acompanhou Velázquez a Itália, onde este último fez a sua famosa pintura: "Retrato de Juan de Pareja", atualmente no Metropolitan Museum of Art de Nova Iorque.[PARAGRAPH:2:1]Em 1650, Velázquez concedeu-lhe uma carta de liberdade que entraria em vigor ao fim de quatro anos, com a condição de que de Pareja não escapasse ou cometesse qualquer ato criminoso nesse período. Desde então, e até à sua morte em Madrid, trabalhou como pintor independente, demonstrando os conhecimentos adquiridos no atelier de Velázquez.</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FATHER_JUAN_DE_PAREJA_STRATEGY</Tag>
 		<English>Boost your trade with [COLOR_TECH_TEXT]Juan de Pareja[COLOR_REVERT]. This Founding Father adds two [COLOR_HIGHLIGHT_TEXT]Mestizos[COLOR_REVERT] and two [COLOR_HIGHLIGHT_TEXT]Mulattos[COLOR_REVERT], gives a 10% increase to learning by doing, and adds one emigrant to the dock in Europe.</English>
+        <PortuguesePT>Aumenta o teu comércio com [COLOR_TECH_TEXT]Juan de Pareja[COLOR_REVERT]. Este Pai Fundador acrescenta dois [COLOR_HIGHLIGHT_TEXT]Mestiços[COLOR_REVERT] e dois [COLOR_HIGHLIGHT_TEXT]Mulatos[COLOR_REVERT], fornece um aumento de 10% ao aprender-fazendo, e coloca mais um emigrante no cais da Europa.</PortuguesePT>
 	</TEXT>
 </Civ4GameText>
