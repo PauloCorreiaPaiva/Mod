@@ -19,6 +19,7 @@
 			<Gender>Male</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Armeiro</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_ARSENAL</Tag>
@@ -39,6 +40,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Arsenal</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_BASECAMP</Tag>
@@ -51,6 +53,7 @@
 		<German>Basislager</German>
 		<Italian>Basecamp</Italian>
 		<Spanish>Basecamp</Spanish>
+        <PortuguesePT>Base de acampamento</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_BEER_FACTORY</Tag>
@@ -59,6 +62,7 @@
 		<German>Bierfabrik</German>
 		<Italian>Beer Factory</Italian>
 		<Spanish>Beer Factory</Spanish>
+        <PortuguesePT>Fábrica de Cerveja</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_BLACKSMITH_HOUSE</Tag>
@@ -79,6 +83,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Casa do Ferreiro</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_BLACKSMITH_SHOP</Tag>
@@ -99,6 +104,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Ferraria</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_BONUS</Tag>
@@ -111,6 +117,7 @@
 		<German>Haus des Brauers</German>
 		<Italian>Brewers House</Italian>
 		<Spanish>Brewers House</Spanish>
+        <PortuguesePT>Casa do cervejeiro</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_BREWERY</Tag>
@@ -119,6 +126,7 @@
 		<German>Brauerei</German>
 		<Italian>Brewery</Italian>
 		<Spanish>Brewery</Spanish>
+        <PortuguesePT>Cervejaria</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_BUTCHERS_HOUSE</Tag>
@@ -127,6 +135,7 @@
 		<German>Haus des Schlachters</German>
 		<Italian>Butchers House</Italian>
 		<Spanish>Butchers House</Spanish>
+        <PortuguesePT>Casa do Talho</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_BUTCHERY</Tag>
@@ -135,6 +144,7 @@
 		<German>Schlachterei</German>
 		<Italian>Butchery</Italian>
 		<Spanish>Butchery</Spanish>
+        <PortuguesePT>Talho</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_CARPENTER_SHOP</Tag>
@@ -155,6 +165,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Casa do Carpinteiro</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_CATHEDRAL</Tag>
@@ -179,6 +190,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Catedral</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_CENTRAL_CITY_MARKET</Tag>
@@ -203,6 +215,7 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+        <PortuguesePT>Mercado regional</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_CHAPEL</Tag>
@@ -227,6 +240,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Capela</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_CHURCH</Tag>
@@ -247,6 +261,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Igreja</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_CIGAR_FACTORY</Tag>
@@ -267,6 +282,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Fábrica de Charutos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_CITADEL</Tag>
@@ -279,6 +295,7 @@
 		<German>Zitadelle</German>
 		<Italian>Citadel</Italian>
 		<Spanish>Citadel</Spanish>
+        <PortuguesePT>Cidadela</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_CITYHALL</Tag>
@@ -291,6 +308,7 @@
 		<German>Rathaus</German>
 		<Italian>City Hall</Italian>
 		<Spanish>City Hall</Spanish>
+        <PortuguesePT>Câmara Municipal</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_CITY_HOSPITAL</Tag>
@@ -299,6 +317,7 @@
 		<German>Bezirkskrankenhaus</German>
 		<Italian>City Hospital</Italian>
 		<Spanish>City Hospital</Spanish>
+        <PortuguesePT>Hospital citadino</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_COLLEGE</Tag>
@@ -319,6 +338,7 @@
 			<Gender>Male</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Faculdade</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_COLONIAL_CONGRESS</Tag>
@@ -343,6 +363,7 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+        <PortuguesePT>Congresso Continental</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_CORN_CHAMBER</Tag>
@@ -367,6 +388,7 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+        <PortuguesePT>Silo de milho</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_CUSTOM_HOUSE</Tag>
@@ -387,6 +409,7 @@
 			<Gender>Male</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Casa da Alfândega</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_CUSTOM_OFFICE</Tag>
@@ -411,6 +434,7 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+        <PortuguesePT>Autoridade Central Aduaneira</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_DISTILLERS_HOUSE</Tag>
@@ -431,6 +455,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Casa do destilador</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_DISTILLERY</Tag>
@@ -451,6 +476,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Destilaria</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_DOCK</Tag>
@@ -472,6 +498,7 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Док</Russian>
+        <PortuguesePT>Docas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_DRYDOCK</Tag>
@@ -493,6 +520,7 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Сухой док</Russian>
+        <PortuguesePT>Doca seca</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_DYERS_HOUSE</Tag>
@@ -501,6 +529,7 @@
 		<German>Haus des Färbers</German>
 		<Italian>Dyers House</Italian>
 		<Spanish>Dyers House</Spanish>
+        <PortuguesePT>Casa do tintureiro</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_DYERY</Tag>
@@ -509,6 +538,7 @@
 		<German>Färberei</German>
 		<Italian>Dyery</Italian>
 		<Spanish>Dyery</Spanish>
+        <PortuguesePT>Tinturaria</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_FORT</Tag>
@@ -529,6 +559,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Paliçada</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_FORTRESS</Tag>
@@ -553,12 +584,14 @@
 			<Gender>Male</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Forte</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_FURNITURE_FACTORY</Tag>
 		<English>Furniture Factory</English>
 		<French>Usine de meubles</French>
 		<German>Möbelfabrik</German>
+        <PortuguesePT>Fábrica de móveis</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_FURNITURE_MAKERS_HOUSE</Tag>
@@ -587,6 +620,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Fábrica de casacos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_FUR_TRADERS_HOUSE</Tag>
@@ -607,6 +641,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Casa do comerciante de peles</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_FUR_TRADING_POST</Tag>
@@ -627,6 +662,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Loja de comércio de peles</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_GRANARY</Tag>
@@ -651,6 +687,7 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+        <PortuguesePT>Celeiro</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_GREAT_ARSENAL</Tag>
@@ -663,6 +700,7 @@
 		<German>Großes Zeughaus</German>
 		<Italian>Great Arsenal</Italian>
 		<Spanish>Great Arsenal</Spanish>
+        <PortuguesePT>Grande Arsenal</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_GREAT_BASTION</Tag>
@@ -687,6 +725,7 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+        <PortuguesePT>Grande Bastião</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_GREAT_CATHEDRAL</Tag>
@@ -704,6 +743,7 @@
 		<Italian>Naval Port</Italian>
 		<Spanish>Naval Port</Spanish>
 		<Russian>Военно-морской порт</Russian>
+        <PortuguesePT>Porto Naval</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_GREAT_TOOL_FACTORY</Tag>
@@ -716,6 +756,7 @@
 		<German>Große Eisenwarenfabrik</German>
 		<Italian>Great Tool Factory</Italian>
 		<Spanish>Great Tool Factory</Spanish>
+        <PortuguesePT>Grande Fábrica de Ferramentas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_GREAT_UNIVERSITY</Tag>
@@ -736,6 +777,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Grande Universidade</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_GREAT_WHEELWRIGHTS_WORKSHOP</Tag>
@@ -748,6 +790,7 @@
 		<German>Holzmanufaktur</German>
 		<Italian>Great Wheelwrights Workshop</Italian>
 		<Spanish>Great Wheelwrights Workshop</Spanish>
+        <PortuguesePT>Grande Oficina de Carpintaria</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_HORSE_MARKET</Tag>
@@ -772,6 +815,7 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+        <PortuguesePT>Grande Mercado Equestre e de Gado</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_IRONWORKS</Tag>
@@ -792,6 +836,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Grande Oficina Siderúrgica</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_LANDING_STAGE</Tag>
@@ -804,6 +849,7 @@
 		<German>Landungssteg</German>
 		<Italian>Landing Stage</Italian>
 		<Spanish>Landing Stage</Spanish>
+        <PortuguesePT>Cais</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_LARGE_DYERY</Tag>
@@ -812,6 +858,7 @@
 		<German>Große Färberei</German>
 		<Italian>Large Dyery</Italian>
 		<Spanish>Large Dyery</Spanish>
+        <PortuguesePT>Grande Tinturaria</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_LEATHER_FACTORY</Tag>
@@ -820,6 +867,7 @@
 		<German>Lederfabrik</German>
 		<Italian>Leather Factory</Italian>
 		<Spanish>Leather Factory</Spanish>
+       <PortuguesePT>Fábrica de couro</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_LUMBER_MILL</Tag>
@@ -840,6 +888,7 @@
 			<Gender>Male</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Carpintaria</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_MAGAZINE</Tag>
@@ -860,6 +909,7 @@
 			<Gender>Male</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Paiol</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_MARKET</Tag>
@@ -884,6 +934,7 @@
 			<Gender>Male</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Mercado da Vila</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_MEDICAL_OFFICE</Tag>
@@ -892,6 +943,7 @@
 		<German>Arztpraxis</German>
 		<Italian>Medical Office</Italian>
 		<Spanish>Medical Office</Spanish>
+        <PortuguesePT>Posto Médico</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_MINSTER</Tag>
@@ -916,6 +968,7 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+        <PortuguesePT>Catedral do Arcebispo</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_NEWSPAPER</Tag>
@@ -936,6 +989,7 @@
 			<Gender>Male</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Edifício do Jornal</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_OPERA</Tag>
@@ -960,6 +1014,7 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+        <PortuguesePT>Grande Casa da Ópera</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_PALACE</Tag>
@@ -972,6 +1027,7 @@
 		<German>Regierungspalast</German>
 		<Italian>Government Palace</Italian>
 		<Spanish>Government Palace</Spanish>
+        <PortuguesePT>Palácio Governamental</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_PRINTING_PRESS</Tag>
@@ -992,6 +1048,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Casa de Imprensa</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_PUBLISHING</Tag>
@@ -1016,6 +1073,7 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+        <PortuguesePT>Editora colonial</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_RANCH</Tag>
@@ -1036,6 +1094,7 @@
 			<Gender>Male</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Rancho</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_RUM_FACTORY</Tag>
@@ -1056,6 +1115,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Fábrica de Rum e de Licores</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_SALOON</Tag>
@@ -1080,6 +1140,7 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+        <PortuguesePT>Saloon - Bar</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_SCHOOLHOUSE</Tag>
@@ -1100,6 +1161,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Escola</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_SHIPYARD</Tag>
@@ -1121,6 +1183,7 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Судоверфь</Russian>
+        <PortuguesePT>Estaleiro</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_SLAUGHTERHOUSE</Tag>
@@ -1129,6 +1192,7 @@
 		<German>Schlachthaus</German>
 		<Italian>Slaughterhouse</Italian>
 		<Spanish>Slaughterhouse</Spanish>
+        <PortuguesePT>Matadouro</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_SPICE_TRADERS_HALL</Tag>
@@ -1137,6 +1201,7 @@
 		<German>Gewürzhandelshalle</German>
 		<Italian>Spice Traders Hall</Italian>
 		<Spanish>Spice Traders Hall</Spanish>
+        <PortuguesePT>Fábrica de Especiarias</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_SPICE_TRADERS_HOUSE</Tag>
@@ -1145,6 +1210,7 @@
 		<German>Haus des Gewürzhändlers</German>
 		<Italian>Spice Trader's House</Italian>
 		<Spanish>Spice Trader's House</Spanish>
+        <PortuguesePT>Casa do Fabricante de Especiarias</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_SPICE_TRADERS_POST</Tag>
@@ -1153,6 +1219,7 @@
 		<German>Gewürzhandelsposten</German>
 		<Italian>Spice Trading Post</Italian>
 		<Spanish>Spice Trading Post</Spanish>
+        <PortuguesePT>Loja de Especiarias</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_STABLE</Tag>
@@ -1173,6 +1240,7 @@
 			<Gender>Male</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Estábulo</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_STATUE_GOVERNOR</Tag>
@@ -1185,6 +1253,7 @@
 		<German>Statue des Gouverneurs</German>
 		<Italian>Statue of Governor</Italian>
 		<Spanish>Statue of Governor</Spanish>
+        <PortuguesePT>Estátua do Governador</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_STOCKADE</Tag>
@@ -1197,6 +1266,7 @@
 		<German>Friesische Reiter</German>
 		<Italian>Cavallo di Frisia</Italian>
 		<Spanish>Chevaux de Frise</Spanish>
+        <PortuguesePT>Paliçada</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_STRONGHOLD</Tag>
@@ -1217,6 +1287,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Fortaleza</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_TANNERS_HOUSE</Tag>
@@ -1225,6 +1296,7 @@
 		<German>Haus des Gerbers</German>
 		<Italian>Tanners House</Italian>
 		<Spanish>Tanners House</Spanish>
+        <PortuguesePT>Casa do Curtidor</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_TANNERY</Tag>
@@ -1233,6 +1305,7 @@
 		<German>Gerberei</German>
 		<Italian>Tannery</Italian>
 		<Spanish>Tannery</Spanish>
+        <PortuguesePT>Alcaçaria</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_TAVERN</Tag>
@@ -1241,6 +1314,11 @@
 		<German>Taverne</German>
 		<Italian>Tavern</Italian>
 		<Spanish>Tavern</Spanish>
+        <PortuguesePT>
+            <Text>Taberna:Tabernas</Text>
+            <Gender>Female</Gender>
+            <Plural>0:1</Plural>
+        </PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_TEXTILE_MILL</Tag>
@@ -1261,6 +1339,7 @@
 			<Gender>Male</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Fábrica de Têxteis</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_THEATRE</Tag>
@@ -1285,6 +1364,7 @@
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
+        <PortuguesePT>Teatro</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_TOBACCONIST_HOUSE</Tag>
@@ -1305,6 +1385,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Casa do Charuteiro</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_TOBACCONIST_SHOP</Tag>
@@ -1325,6 +1406,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Loja de Charutos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_TOOL_FACTORY</Tag>
@@ -1337,6 +1419,7 @@
 		<German>Eisenwarenfabrik</German>
 		<Italian>Tool Factory</Italian>
 		<Spanish>Tool Factory</Spanish>
+        <PortuguesePT>Fábrica de Ferramentas</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_TOWNHALL</Tag>
@@ -1357,6 +1440,7 @@
 			<Gender>Male</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Assembleia de Freguesia</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_TOWN_HOSPITAL</Tag>
@@ -1365,6 +1449,7 @@
 		<German>Stadtkrankenhaus</German>
 		<Italian>Town Hospital</Italian>
 		<Spanish>Town Hospital</Spanish>
+        <PortuguesePT>Hospital da Vila</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_TOWN_MARKET</Tag>
@@ -1389,6 +1474,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Mercado da Vila</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_TRAIN_STATION</Tag>
@@ -1397,6 +1483,7 @@
 		<German>Postreiter- und Pferdewechselstation</German>
 		<Italian>Waystation</Italian>
 		<Spanish>Waystation</Spanish>
+        <PortuguesePT>Estalagem</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_UNIVERSITY</Tag>
@@ -1417,6 +1504,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+        <PortuguesePT>Universidade</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_VILLAGEHALL</Tag>
@@ -1429,6 +1517,7 @@
 		<German>Gemeindehaus</German>
 		<Italian>Village Hall</Italian>
 		<Spanish>Village Hall</Spanish>
+        <PortuguesePT>Assembleia da Vila</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_VILLAGE_WELL</Tag>
@@ -1437,6 +1526,7 @@
 		<German>Dorfbrunnen</German>
 		<Italian>Village Well</Italian>
 		<Spanish>Village Well</Spanish>
+       <PortuguesePT>Poço da Vila</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_BONUS</Tag>
@@ -1449,6 +1539,7 @@
 		<German>Haus des Winzers</German>
 		<Italian>Vintager's House</Italian>
 		<Spanish>Vintager's House</Spanish>
+       <PortuguesePT>Casa do vinicultor</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_WAREHOUSE</Tag>
@@ -1469,6 +1560,7 @@
 			<Gender>Male</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+       <PortuguesePT>Casa de Armazenamento</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_WAREHOUSE_EXPANSION</Tag>
@@ -1489,6 +1581,7 @@
 			<Gender>Male</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+       <PortuguesePT>Armazém</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_WAREHOUSE_EXPANSION_2</Tag>
@@ -1509,6 +1602,7 @@
 			<Gender>Male</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+       <PortuguesePT>Grande armazém</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_WATERMILL</Tag>
@@ -1537,6 +1631,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+       <PortuguesePT>Moinho de água</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_WEAVERS_HOUSE</Tag>
@@ -1557,6 +1652,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+       <PortuguesePT>Casa do Tear</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_WEAVERS_SHOP</Tag>
@@ -1577,6 +1673,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+       <PortuguesePT>Loja de Tecidos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_WHALE_OIL_FACTORY</Tag>
@@ -1589,6 +1686,7 @@
 		<German>Tranfabrik</German>
 		<Italian>Train Oil Rendering Plant</Italian>
 		<Spanish>Train Oil Rendering Plant</Spanish>
+       <PortuguesePT>Fábrica de Óleo de Baleia</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_WHALE_OIL_HOUSE</Tag>
@@ -1601,6 +1699,7 @@
 		<German>Haus des Trankochers</German>
 		<Italian>Train Oil Manufactory</Italian>
 		<Spanish>Train Oil Manufactory</Spanish>
+       <PortuguesePT>Casa de fabrico de Óleo de Baleia</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_WHEELWRIGHTS_WORKSHOP</Tag>
@@ -1613,6 +1712,7 @@
 		<German>Wagnerei</German>
 		<Italian>Wheelwrights Workshop</Italian>
 		<Spanish>Wheelwrights Workshop</Spanish>
+        <PortuguesePT>Grande Oficina de Carpintaria</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_WINDMILL</Tag>
@@ -1641,6 +1741,7 @@
 			<Gender>Female</Gender>
 			<Plural>0:1</Plural>
 		</Spanish>
+       <PortuguesePT>Moinho de vento</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_WINERY</Tag>
@@ -1649,6 +1750,7 @@
 		<German>Winzerei</German>
 		<Italian>Winery</Italian>
 		<Spanish>Winery</Spanish>
+       <PortuguesePT>Casa de vinhos</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDINGCLASS_WINE_FACTORY</Tag>
@@ -1657,5 +1759,6 @@
 		<German>Weinfabrik</German>
 		<Italian>Wine Factory</Italian>
 		<Spanish>Wine Factory</Spanish>
+       <PortuguesePT>Fábrica vinícola</PortuguesePT>
 	</TEXT>
 </Civ4GameText>
