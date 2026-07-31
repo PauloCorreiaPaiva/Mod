@@ -81,7 +81,7 @@
 		<French>A travaillé pour se spécialiser en [COLOR_HIGHLIGHT_TEXT]%s2_Expert_Unit[COLOR_REVERT]:[NEWLINE][COLOR_HIGHLIGHT_TEXT]%d1_turns[COLOR_REVERT] [NUM1:tour:tours]</French>
 		<German>Arbeitet um [COLOR_HIGHLIGHT_TEXT]%s2_Expert_Unit[COLOR_REVERT] zu werden :[NEWLINE][COLOR_HIGHLIGHT_TEXT]%d1_turns[COLOR_REVERT] [NUM1:Runde:Runden]</German>
 		<Russian>Работал, чтобы стать [COLOR_HIGHLIGHT_TEXT]%s2_Expert_Unit[COLOR_REVERT] :[NEWLINE][COLOR_HIGHLIGHT_TEXT]%d1_turns[COLOR_REVERT] [NUM1:ход:ходов]</Russian>
-        <PortuguesePT>Trabalhou para se tornar [NUM1:num:numa]  [COLOR_HIGHLIGHT_TEXT]%s2_Expert_Unit[COLOR_REVERT] :[NEWLINE][COLOR_HIGHLIGHT_TEXT]%d1_turns[COLOR_REVERT] [NUM1:turno:turnos]</PortuguesePT>
+        <PortuguesePT>Trabalhou para se tornar [COLOR_HIGHLIGHT_TEXT]%s2_Expert_Unit[COLOR_REVERT] :[NEWLINE][COLOR_HIGHLIGHT_TEXT]%d1_turns[COLOR_REVERT] [NUM1:turno:turnos]</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_HELP_LBD_BECOME_EXPPERT_TURNS_WORKED_MAP</Tag>
