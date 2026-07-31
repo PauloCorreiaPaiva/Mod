@@ -4455,7 +4455,11 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 		<Russian>Отважный первопроходец:Отважные первопроходцы</Russian>
-        <PortuguesePT>Pioneiro experiente:Pioneiros experientes</PortuguesePT>
+		<PortuguesePT>
+			<Text>Pioneiro experiente:Pioneiros experientes</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</PortuguesePT>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_PIONEER_PEDIA</Tag>
